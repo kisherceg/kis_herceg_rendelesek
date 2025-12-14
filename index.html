@@ -99,7 +99,7 @@ h3{ font-size: 22px; font-weight: 700; color: rgba(255,255,255,.92); }
 /* ====== EZ A RÉSZ A FONTOS: panel + input + button ====== */
 
 .panel{
-  background: rgba(255,255,255,.88);
+  background: rgba(255,255,255,0.85);
   margin: 0 auto 24px;          /* középre */
   max-width: 420px;             /* laptopon is “telefonos” arány */
   width: calc(100% - 36px);
@@ -175,6 +175,23 @@ li{ margin: 6px 0; }
   margin-top: 10px;
 }
 
+    /* arany, finom címek (nem vastag) */
+.gold-title{
+  color: #f6c45b;
+  font-weight: 500;      /* nem vastag */
+  letter-spacing: 0.3px;
+}
+
+/* könyvcímek színe */
+.box ul li{
+  color: #3a3a3a;        /* sötétszürke, nem fekete */
+}
+
+/* név (pl. Farkas Szidónia) maradjon hangsúlyos */
+.box b{
+  color: #0b1530;
+}
+    
 /* mobil */
 @media (max-width: 520px){
   body{ padding: 16px 10px; }
@@ -355,18 +372,18 @@ li{ margin: 6px 0; }
       return;
     }
 
-    let html = "<b>Kedves <b>" + qRaw + "</b>, ezeket a címeket találtuk a nevedhez kapcsolódva :</b> <br><br>";
+    let html = "Kedves <b>" + qRaw + "</b>, ezeket a címeket találtuk a nevedhez kapcsolódva:";
 
     if (foundA.length) {
-      html += '<div class="sec">Az ajánlásaink nyomán választott könyvek:</div><ul>';
+      html += '<div class="sec gold-title">Az ajánlásaink nyomán választott könyvek:</div><ul>';
       foundA.forEach(t => html += "<li>" + t + "</li>");
       html += "</ul>";
     }
 
     if (foundB.length) {
-      html += '<div class="sec">Ezeken külön kérted:</div>';
+      html += '<div class="sec  gold-title">Ezeken külön kérted:</div>';
       foundB.forEach(b => {
-        html += "<b>" + b.name + "</b>";
+        //html += "<b>" + b.name + "</b>";
         if (b.items.length) {
           html += "<ul>";
           b.items.forEach(it => html += "<li>" + it + "</li>");
