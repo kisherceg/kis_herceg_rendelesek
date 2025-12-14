@@ -33,17 +33,20 @@ async function search() {
   let currentTitle = "";
   let found = new Set();
 
-  for (let raw of lines) {
-    const line = raw.trim();
+  // gondolatjel lehet: -  –  —
+  const hasDash = (s) => /[-–—]/.test(s);
+
+  for (const raw of lines) {
+    const line = (raw || "").trim();
     if (!line) continue;
 
-    // Címsor felismerése: ha tartalmaz '-' és 'lej' akkor ez a tétel címe
-    if (line.includes("-") && line.toLowerCase().includes("lej")) {
+    // CÍMSOR: legyen benne "lej" és valamilyen kötőjel/gondolatjel
+    if (hasDash(line) && /lej/i.test(line)) {
       currentTitle = line;
       continue;
     }
 
-    // Név sorok: pl. "1. Kovács Anabella"
+    // Név sorok: "1. Név" -> "Név"
     const namePart = line.replace(/^\d+\.\s*/, "").trim();
 
     if (currentTitle && namePart.toLowerCase().includes(q)) {
@@ -56,11 +59,7 @@ async function search() {
     return;
   }
 
-  let html = "✅ Neked érkezett:<br><br>";
-  [...found].forEach(t => {
-    html += "• " + t + "<br>";
-  });
-  result.innerHTML = html;
+  result.innerHTML = "✅ Neked érkezett:<br><br>• " + [...found].join("<br>• ");
 }
 </script>
 </body>
