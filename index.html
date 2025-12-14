@@ -22,44 +22,119 @@
 
 <script>
 async function search() {
-  const q = document.getElementById("name").value.trim().toLowerCase();
+  const qRaw = document.getElementById("name").value.trim();
+  const q = qRaw.toLowerCase();
   const result = document.getElementById("result");
   if (!q) { result.innerHTML = "Írj be egy nevet 🙂"; return; }
 
   const res = await fetch("rendeles.txt", { cache: "no-store" });
   const text = await res.text();
-  const lines = text.split(/\r?\n/);
+  const lines = text.split(/\r?\n/).map(l => (l || "").trim());
 
-  let currentTitle = "";
-  let found = new Set();
+  const foundA = new Set();              // 1) Ajánlós lista: címek
+  const foundB = {};                     // 2) Bookline táblázat: {orderTitle: [tételek...]}
 
-  // gondolatjel lehet: -  –  —
   const hasDash = (s) => /[-–—]/.test(s);
+  const isAllCapsTitle = (s) => s && s === s.toUpperCase() && s.length > 6;
+  const isHeaderLine = (s) => /^(NÉV|KÖNYV|ÁR)$/i.test(s.replace(/\s+/g, ""));
 
-  for (const raw of lines) {
-    const line = (raw || "").trim();
+  // Segéd: rendelés címének felismerése (pl. "Bookline rendelés DECEMBER 1.")
+  const isOrderTitle = (s) => /rendel[eé]s/i.test(s);
+
+  // =========================
+  // 1) AJÁNLÓS LISTA FORMÁTUM
+  // =========================
+  let currentTitle = "";
+  for (const line of lines) {
     if (!line) continue;
 
-    // CÍMSOR: legyen benne "lej" és valamilyen kötőjel/gondolatjel
+    // Címsor: van benne "lej" és valamilyen kötőjel/gondolatjel
     if (hasDash(line) && /lej/i.test(line)) {
       currentTitle = line;
       continue;
     }
 
-    // Név sorok: "1. Név" -> "Név"
+    // Név sor: "1. Név" → "Név"
     const namePart = line.replace(/^\d+\.\s*/, "").trim();
-
     if (currentTitle && namePart.toLowerCase().includes(q)) {
-      found.add(currentTitle);
+      foundA.add(currentTitle);
     }
   }
 
-  if (found.size === 0) {
+  // =========================
+  // 2) BOOKLINE / TÁBLÁZATOS FORMÁTUM
+  // =========================
+  let orderTitle = "Bookline / táblázatos rendelés";
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    if (!line) continue;
+
+    // Rendelés címe (kontektszöveg)
+    if (isOrderTitle(line)) orderTitle = line;
+
+    // Ha a sor tartalmazza a nevet, itt indulhat egy blokk
+    if (line.toLowerCase().includes(q)) {
+      // A név sor után várhatóan jönnek a tételek sorokban.
+      let items = [];
+      for (let j = i + 1; j < lines.length; j++) {
+        const next = lines[j];
+
+        // megállók: üres sor / új nagy címsor / fejléc / új név (nagyon valószínű)
+        if (!next) break;
+        if (isOrderTitle(next)) break;
+        if (isHeaderLine(next)) continue;
+        if (isAllCapsTitle(next)) break;
+
+        // Heurisztika új névre: rövid, 2-4 szavas, nincs "lej", nincs szám a végén
+        const looksLikeNewName =
+          next.split(/\s+/).length >= 2 &&
+          next.split(/\s+/).length <= 4 &&
+          !/lej/i.test(next) &&
+          !/\d+$/.test(next) &&
+          /^[A-ZÁÉÍÓÖŐÚÜŰ]/.test(next);
+
+        if (looksLikeNewName) break;
+
+        items.push(next);
+      }
+
+      if (items.length) {
+        if (!foundB[orderTitle]) foundB[orderTitle] = [];
+        // duplikátumok ellen:
+        items.forEach(it => {
+          if (!foundB[orderTitle].includes(it)) foundB[orderTitle].push(it);
+        });
+      }
+    }
+  }
+
+  // =========================
+  // EREDMÉNY KIÍRÁSA
+  // =========================
+  if (foundA.size === 0 && Object.keys(foundB).length === 0) {
     result.innerHTML = "❌ Nem találtunk találatot ezzel a névvel.";
     return;
   }
 
-  result.innerHTML = "✅ Neked érkezett:<br><br>• " + [...found].join("<br>• ");
+  let html = ✅ Találat: <b>${qRaw}</b><br><br>;
+
+  if (foundA.size) {
+    html += "<b>📌 Ajánlós listák:</b><br>";
+    [...foundA].forEach(t => { html += "• " + t + "<br>"; });
+    html += "<br>";
+  }
+
+  const orders = Object.keys(foundB);
+  if (orders.length) {
+    html += "<b>📦 Bookline / táblázatos rendelések:</b><br><br>";
+    orders.forEach(o => {
+      html += <b>${o}</b><br>;
+      foundB[o].forEach(it => { html += "• " + it + "<br>"; });
+      html += "<br>";
+    });
+  }
+
+  result.innerHTML = html;
 }
 </script>
 </body>
