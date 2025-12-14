@@ -1,118 +1,173 @@
 <!DOCTYPE html>
 <html lang="hu">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Kis Herceg – Rendelés kereső</title>
-<style>
-  body{font-family:Arial;max-width:640px;margin:auto;padding:18px}
-  input{width:100%;padding:12px;font-size:16px;box-sizing:border-box}
-  button{margin-top:10px;padding:12px;width:100%;font-size:16px;cursor:pointer}
-  .box{margin-top:14px;padding:12px;border:1px solid #ddd;border-radius:10px}
-</style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kis Herceg – Rendelés kereső</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 720px; margin: 0 auto; padding: 18px; }
+    input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box; }
+    button { margin-top: 10px; padding: 12px; width: 100%; font-size: 16px; cursor: pointer; }
+    .box { margin-top: 14px; padding: 12px; border: 1px solid #ddd; border-radius: 10px; }
+    .muted { color: #666; }
+    h2 { margin: 8px 0 10px; }
+    h3 { margin: 12px 0 6px; }
+    ul { margin: 6px 0 0 18px; }
+    li { margin: 3px 0; }
+    .pill { display:inline-block; padding:2px 8px; border:1px solid #ddd; border-radius:999px; font-size:12px; margin-left:6px; color:#555;}
+    .ok { color: #0a7; }
+    .bad { color: #c33; }
+    code { background:#f6f6f6; padding:2px 6px; border-radius:6px; }
+  </style>
 </head>
 <body>
-<h2>📚 Kis Herceg – Név szerinti kereső</h2>
-<p>Írd be a neved, és kilistázzuk a tételeidet.</p>
+  <h2>📚 Kis Herceg – Név szerinti kereső</h2>
+  <p class="muted">Írd be a neved, és kilistázzuk a tételeidet.</p>
 
-<input id="name" placeholder="Pl. Bíró Réka">
-<button onclick="search()">Keresés</button>
+  <input id="name" placeholder="Pl. Bíró Réka" />
+  <button onclick="search()">Keresés</button>
 
-<div class="box" id="result">🔎 Kereséshez írd be a neved.</div>
+  <div class="box" id="result">🔎 Kereséshez írd be a neved.</div>
+
 <script>
+/* --- Segédek --- */
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+}
+function norm(s) {
+  return String(s)
+    .toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')   // ékezetek le
+    .replace(/[“”„"]/g, '')                            // idézők le
+    .replace(/\s+/g, ' ')                              // sok space -> 1
+    .trim();
+}
+function looksLikeRecommendationTitle(line) {
+  // pl: "A VARÁZSLATOS TÉRKÉP - 86 lej" (van "lej" és van kötőjel/gondolatjel)
+  const s = line.trim();
+  return /lej/i.test(s) && /[-–—]/.test(s);
+}
+function parseNumberedName(line) {
+  // "1. Kovács Anabella" -> "Kovács Anabella"
+  const m = line.trim().match(/^\s*\d+\.\s*(.+)$/);
+  return m ? m[1].trim() : null;
+}
+function parseNevLine(line) {
+  // '"NÉV: Kádár Krisztina"' vagy 'NÉV: Kádár Krisztina'
+  const m = line.trim().match(/^\s*"?\s*NÉV\s*:\s*(.+?)\s*"?\s*$/i);
+  return m ? m[1].trim() : null;
+}
+function isItemLine(line) {
+  // bullet sorok: • ...  vagy - ...  vagy * ...
+  const s = line.trim();
+  return /^([•\-\*])\s+/.test(s);
+}
+function cleanItemLine(line) {
+  return line.trim().replace(/^([•\-\*])\s+/, '• ');
+}
+
+/* --- Fő keresés --- */
 async function search() {
-  const qRaw = document.getElementById("name").value.trim();
-  const q = qRaw.toLowerCase();
+  const qRaw = document.getElementById("name").value;
+  const q = norm(qRaw);
   const result = document.getElementById("result");
 
-  if (!q) { result.innerHTML = "Írj be egy nevet 😊"; return; }
+  if (!q) { result.innerHTML = '🙂 Írj be egy nevet.'; return; }
 
-  // 1) betöltjük a rendeles.txt-t
   let text = "";
   try {
-    const res = await fetch("rendeles.txt", { cache: "no-store" });
+    // cache-bypass GitHub Pages-hez
+    const res = await fetch("rendeles.txt?v=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
     text = await res.text();
   } catch (e) {
-    result.innerHTML = "Nem tudtam betölteni a rendeles.txt fájlt 😕";
+    result.innerHTML = '❌ Nem tudtam betölteni a <code>rendeles.txt</code> fájlt.';
     return;
   }
 
-  const lines = text.split(/\r?\n/).map(l => (l || "").trim());
+  const lines = text.split(/\r?\n/).map(l => (l || "").trim()).filter(l => l.length > 0);
 
-  // találatok
-  const foundTitles = new Set();      // (1) ajánlós listák: címek
-  const foundByName = {};             // (2) táblázatos / NÉV: blokkok
-
-  // ---- SEGÉDEK
-  const isRecTitle = (s) => /lej/i.test(s) && /[-–—]/.test(s);          // "CÍM - 86 lej"
-  const isRecName  = (s) => /^\d+\.\s+/.test(s);                        // "1. Kovács..."
-  const cleanRecName = (s) => s.replace(/^\d+\.\s+/, "").trim();
-
-  const isNevLine = (s) => s.replace(/^"|"$/g,"").trim().toLowerCase().startsWith("név:");
-  const cleanNev = (s) => s.replace(/^"|"$/g,"").trim().replace(/^név:\s*/i,"").trim();
-
-  const isBullet = (s) => s.startsWith("•") || s.startsWith("-") || s.startsWith("*");
-  const cleanBullet = (s) => s.replace(/^["']|["']$/g,"").trim().replace(/^[•\-]\s/,"").trim();
-
-  // ---- (1) AJÁNLÓS LISTA FORMÁTUM: "CÍM - ár lej" + "1. Név"
+  /* 1) AJÁNLÓS LISTA (cím + sorszámozott nevek) */
+  // name -> Set(titles)
+  const recoByName = new Map();
   let currentTitle = "";
+
   for (const line of lines) {
-    if (!line) continue;
-
-    if (isRecTitle(line)) { currentTitle = line; continue; }
-
-    if (currentTitle && isRecName(line)) {
-      const nm = cleanRecName(line).toLowerCase();
-      if (nm.includes(q)) foundTitles.add(currentTitle);
+    if (looksLikeRecommendationTitle(line)) {
+      currentTitle = line;
+      continue;
+    }
+    const nm = parseNumberedName(line);
+    if (nm && currentTitle) {
+      const key = norm(nm);
+      if (!recoByName.has(key)) recoByName.set(key, new Set());
+      recoByName.get(key).add(currentTitle);
     }
   }
 
-  // ---- (2) NÉV: BLOKKOK: "NÉV: Valaki" + bullet tételek
-  let currentName = "";
+  /* 2) RENDELÉSI LISTA (NÉV: ... + bullet tételek) */
+  // name -> items[]
+  const orderByName = new Map();
+  let currentName = null;
+
   for (let i = 0; i < lines.length; i++) {
-    const raw = lines[i];
-    if (!raw) continue;
+    const line = lines[i];
 
-    if (isNevLine(raw)) {
-      currentName = cleanNev(raw);
+    const maybeName = parseNevLine(line);
+    if (maybeName) {
+      currentName = maybeName;
+      const key = norm(currentName);
+      if (!orderByName.has(key)) orderByName.set(key, []);
       continue;
     }
 
-    if (currentName && isNevLine(raw)) { // biztos ami biztos
-      currentName = cleanNev(raw);
-      continue;
-    }
-
-    if (currentName && isBullet(raw)) {
-      const item = cleanBullet(raw);
-      if (currentName.toLowerCase().includes(q)) {
-        if (!foundByName[currentName]) foundByName[currentName] = [];
-        foundByName[currentName].push(item);
-      }
+    if (currentName && isItemLine(line)) {
+      const key = norm(currentName);
+      orderByName.get(key).push(cleanItemLine(line));
     }
   }
 
-  // ---- KIÍRÁS
-  if (foundTitles.size === 0 && Object.keys(foundByName).length === 0) {
-    result.innerHTML = "❌ Nem találtunk találatot ezzel a névvel.";
+  /* TALÁLATOK */
+  // részleges keresés: ha a beírt szöveg benne van a névben
+  const recoHits = [];
+  for (const [nameKey, titles] of recoByName.entries()) {
+    if (nameKey.includes(q)) recoHits.push({ nameKey, titles: [...titles] });
+  }
+
+  const orderHits = [];
+  for (const [nameKey, items] of orderByName.entries()) {
+    if (nameKey.includes(q)) orderHits.push({ nameKey, items });
+  }
+
+  if (recoHits.length === 0 && orderHits.length === 0) {
+    result.innerHTML = ❌ Nem találtunk találatot ezzel a névvel: <b>${esc(qRaw)}</b>;
     return;
   }
 
-  let html = ✅ Találat: <b>${qRaw}</b><br><br>;
+  let html = ✅ Találat: <b>${esc(qRaw)}</b><br><br>;
 
-  if (foundTitles.size) {
-    html += "<b>📌 Ajánlós listák:</b><br>";
-    [...foundTitles].forEach(t => html += "• " + t + "<br>");
-    html += "<br>";
+  if (recoHits.length) {
+    html += <b>📌 Ajánlós listák:</b><br>;
+    // címek egyben (duplikáció nélkül)
+    const titleSet = new Set();
+    recoHits.forEach(h => h.titles.forEach(t => titleSet.add(t)));
+    [...titleSet].forEach(t => { html += • ${esc(t)}<br>; });
+    html += <br>;
   }
 
-  const names = Object.keys(foundByName);
-  if (names.length) {
-    html += "<b>🧾 Táblázatos / NÉV: rendelések:</b><br><br>";
-    names.forEach(n => {
-      html += <b>${n}</b><br>;
-      foundByName[n].forEach(it => html += "• " + it + "<br>");
-      html += "<br>";
+  if (orderHits.length) {
+    html += <b>🧾 Rendelési tételek:</b><br>;
+    // ha több név is egyezik (pl. csak vezetéknév), külön blokkok
+    orderHits.forEach(h => {
+      html += <div class="box"><b>${esc(h.nameKey)}</b> <span class="pill">NÉV blokk</span><br>;
+      if (h.items.length) {
+        html += <ul>;
+        h.items.forEach(it => { html += <li>${esc(it)}</li>; });
+        html += </ul>;
+      } else {
+        html += <span class="muted">Nincs tétel sor (•) ehhez a névhez.</span>;
+      }
+      html += </div>;
     });
   }
 
