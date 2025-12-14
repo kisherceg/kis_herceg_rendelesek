@@ -26,32 +26,35 @@ async function search() {
   const result = document.getElementById("result");
   if (!q) { result.innerHTML = "Írj be egy nevet 🙂"; return; }
 
-  const res = await fetch("adat.csv", { cache: "no-store" });
+  const res = await fetch("rendeles.txt", { cache: "no-store" });
   const text = await res.text();
 
+  // Sorokra bontás
   const lines = text.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
-  const rows = lines.slice(1).map(line => line.split(";").map(x => (x || "").trim()));
 
-  const hits = rows
-    .filter(r => (r[0] || "").toLowerCase().includes(q))
-    .map(r => ({ nev:r[0], tetel:r[1], ar:r[2], rendeles:r[3] }));
+  // Találatok gyűjtése: a név környezetéből szedjük a tételeket
+  let hits = [];
+  let currentName = "";
 
-  if (hits.length === 0) { result.innerHTML = "❌ Jelenleg nincs névre szóló csomag."; return; }
-
-  const byOrder = {};
-  hits.forEach(h => {
-    const key = h.rendeles || "Egyéb";
-    (byOrder[key] ||= []).push(h);
+  lines.forEach(line => {
+    // Ha ez egy név (feltételezzük: nincs ár benne)
+    if (!line.match(/\d+\s*(lej|ron|ft)/i) && line.split(" ").length <= 4) {
+      currentName = line.toLowerCase();
+    } else if (currentName.includes(q)) {
+      hits.push(line);
+    }
   });
+
+  if (hits.length === 0) {
+    result.innerHTML = "❌ Jelenleg nincs névre szóló csomag.";
+    return;
+  }
 
   let html = "✅ Neked érkezett:<br><br>";
-  Object.keys(byOrder).forEach(order => {
-    html += <b>${order}</b><br>;
-    byOrder[order].forEach(item => {
-      html += • ${item.tetel} — ${item.ar} lej<br>;
-    });
-    html += "<br>";
+  hits.forEach(h => {
+    html += "• " + h + "<br>";
   });
+
   result.innerHTML = html;
 }
 </script>
