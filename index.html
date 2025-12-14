@@ -3,21 +3,21 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Kis Herceg – Rendelés kereső</title>
+  <title>Kis Herceg – Kereső</title>
   <style>
     body { font-family: Arial, sans-serif; max-width: 680px; margin: 0 auto; padding: 18px; }
     input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box; }
     button { margin-top: 10px; padding: 12px; width: 100%; font-size: 16px; cursor: pointer; }
     .box { margin-top: 14px; padding: 12px; border: 1px solid #ddd; border-radius: 10px; }
     .muted { opacity: .75; font-size: 12px; margin-top: 8px; }
-    ul { margin: 6px 0 10px 20px; }
     .sec { font-weight: bold; margin: 10px 0 6px; }
+    ul { margin: 6px 0 10px 20px; }
     code { background:#f3f3f3; padding:2px 6px; border-radius:6px; }
   </style>
 </head>
 <body>
-  <h2>📚 Kis Herceg – Név szerinti kereső új</h2>
-  <p>Írd be a neved, és kilistázzuk a tételeidet.</p>
+  <h2>📚 Kis Herceg – Név szerinti kereső KÉT TXT FILE</h2>
+  <p>Írd be a neved, és megnézzük az <b>ajánlás</b> és a <b>rendelés</b> listákat.</p>
 
   <input id="name" placeholder="Pl. Kádár Krisztina" />
   <button id="btn" type="button">Keresés</button>
@@ -27,10 +27,10 @@
 
 <script>
 (() => {
-  const VERSION = "VERZIÓ: 2025-12-14  (STABIL-2FORMAT)";
-
+  const VERSION = "VERZIÓ: 2025-12-14 (2 fájl: ajanlas.txt + rendelesek.txt)";
   const $ = (id) => document.getElementById(id);
 
+  // ékezet- és idézőjel-toleráns keresés
   function norm(s) {
     return (s || "")
       .toString()
@@ -39,143 +39,157 @@
       .normalize("NFD")
       .replace(/[\u0300-\u036f]/g, "")   // ékezet le
       .replace(/[“”„"]/g, "")           // idézők le
-      .replace(/\s+/g, " ");
+      .replace(/\s+/g, " ");            // sok space -> 1
+  }
+  function tokens(q) {
+    return norm(q).split(" ").filter(Boolean);
+  }
+  function containsAll(hay, tok) {
+    const h = norm(hay);
+    return tok.every(t => h.includes(t));
   }
 
-  function isATitleLine(line) {
-    // A-formátum cím: van "lej" és van kötőjel/gondolatjel
-    const s = line || "";
+  // ---------- AJÁNLÁS: cím + sorszámos nevek ----------
+  function isATitle(line) {
+    // pl: "A VARÁZSLATOS TÉRKÉP - 86 lej"
+    const s = (line || "").trim();
     if (!s) return false;
-    if (/^"?\s*NÉV\s*:/i.test(s)) return false;
-    if (/^[•\*\-]/.test(s.trim())) return false;
-    if (/^\d+\./.test(s.trim())) return false;
+    if (/^\d+\./.test(s)) return false;
+    if (/^[•\*\-]/.test(s)) return false;
     return /lej/i.test(s) && /[-–—]/.test(s);
   }
-
-  function parseAName(line) {
+  function parseANumberedName(line) {
     const m = (line || "").trim().match(/^\d+\.\s*(.+)$/);
     return m ? m[1].trim() : null;
   }
 
+  // ---------- RENDELÉSEK: NÉV: + • tételek ----------
   function parseBHeader(line) {
-    // NÉV: ... (idézőjellel is)
+    // NÉV: Valaki (idézőjellel is)
     const m = (line || "").trim().match(/^"??\s*NÉV\s*:\s*(.+?)\s*"?$/i);
     return m ? m[1].trim() : null;
   }
+  function isBullet(line) {
+    return /^[•\\-]\s/.test((line || "").trim());
+  }
+  function cleanBullet(line) {
+    return (line || "").trim().replace(/^[•\\-]\s/, "").trim();
+  }
 
-  async function loadTxt() {
-    // cache-biztos
-    const url = "rendeles.txt?v=" + Date.now();
+  async function loadTxt(file) {
+    // cache-biztos: mindig friss URL
+    const url = file + "?v=" + Date.now();
     const res = await fetch(url, { cache: "no-store" });
-    return { res, text: await res.text() };
+    if (!res.ok) throw new Error(file + " HTTP " + res.status);
+    return await res.text();
+  }
+
+  function parseAjanlas(text, tok) {
+    const lines = text.split(/\r?\n/).map(l => (l || "").trim()).filter(Boolean);
+    const foundTitles = new Set();
+    let currentTitle = "";
+
+    for (const line of lines) {
+      if (isATitle(line)) { currentTitle = line; continue; }
+      const nm = parseANumberedName(line);
+      if (nm && currentTitle && containsAll(nm, tok)) foundTitles.add(currentTitle);
+    }
+    return [...foundTitles];
+  }
+
+  function parseRendelesek(text, tok) {
+    const lines = text.split(/\r?\n/).map(l => (l || "").trim()).filter(Boolean);
+
+    const matches = []; // { name, items[] }
+    let curName = null;
+    let curItems = [];
+
+    function flush() {
+      if (!curName) return;
+      if (containsAll(curName, tok)) {
+        // duplák ellen
+        const uniq = [];
+        for (const it of curItems) if (!uniq.includes(it)) uniq.push(it);
+        matches.push({ name: curName, items: uniq });
+      }
+    }
+
+    for (const line of lines) {
+      const header = parseBHeader(line);
+      if (header) {
+        flush();
+        curName = header;
+        curItems = [];
+        continue;
+      }
+      if (curName && isBullet(line)) {
+        curItems.push(cleanBullet(line));
+      }
+    }
+    flush();
+    return matches;
   }
 
   async function search() {
     const qRaw = $("name").value || "";
-    const q = norm(qRaw);
+    const tok = tokens(qRaw);
     const out = $("result");
 
-    // ✅ EZ BIZTOSAN LÁTSZIK: ha ide eljut, a gomb és JS működik
-    out.innerHTML = "⏳ Keresés indul… (ha ezt látod, a gomb már biztosan jó)";
+    out.innerHTML = "⏳ Keresés…";
 
-    if (!q.trim()) {
+    if (!tok.length) {
       out.innerHTML = "🔎 Írj be egy nevet 🙂";
       return;
     }
 
-    let res, text;
+    let ajanlasTxt = "";
+    let rendelesTxt = "";
+
     try {
-      const loaded = await loadTxt();
-      res = loaded.res;
-      text = loaded.text;
+      // párhuzamos betöltés
+      [ajanlasTxt, rendelesTxt] = await Promise.all([
+        loadTxt("ajanlas.txt"),
+        loadTxt("rendelesek.txt")
+      ]);
     } catch (e) {
-      out.innerHTML = "❌ Hiba: nem tudtam betölteni a <code>rendeles.txt</code>-t.";
+      out.innerHTML = "❌ Hiba a fájl betöltésnél: <code>" + (e && e.message ? e.message : e) + "</code><br>" +
+                      "Ellenőrizd, hogy a repo gyökerében van: <b>ajanlas.txt</b> és <b>rendelesek.txt</b>.";
       return;
     }
 
-    if (!res.ok) {
-      out.innerHTML = ❌ <code>rendeles.txt</code> HTTP hiba: <b>${res.status}</b>;
+    const foundA = parseAjanlas(ajanlasTxt, tok);
+    const foundB = parseRendelesek(rendelesTxt, tok);
+
+    if (!foundA.length && !foundB.length) {
+      out.innerHTML = "❌ Nincs találat erre: <b>" + qRaw + "</b>";
       return;
     }
 
-    const lines = text.split(/\r?\n/).map(l => (l || "").trim()).filter(Boolean);
+    let html = "✅ <b>Találat:</b> <b>" + qRaw + "</b><br><br>";
 
-    // A) Ajánlós listák
-    const titles = new Set();
-    let currentTitle = "";
-
-    for (const line of lines) {
-      if (isATitleLine(line)) { currentTitle = line; continue; }
-      const nm = parseAName(line);
-      if (nm && currentTitle && norm(nm).includes(q)) titles.add(currentTitle);
+    if (foundA.length) {
+      html += '<div class="sec">📚 Ajánlás (címek, ahol szerepelsz):</div><ul>';
+      foundA.forEach(t => html += "<li>" + t + "</li>");
+      html += "</ul>";
     }
 
-    // B) NÉV: blokkok + • sorok
-    const blocks = new Map(); // displayName -> items[]
-    let curName = null;
-    let curItems = [];
-
-    const flush = () => {
-      if (!curName) return;
-      if (!norm(curName).includes(q)) return;
-      const prev = blocks.get(curName) || [];
-      for (const it of curItems) if (!prev.includes(it)) prev.push(it);
-      blocks.set(curName, prev);
-    };
-
-    for (const line of lines) {
-      const h = parseBHeader(line);
-      if (h) {
-        flush();
-        curName = h;
-        curItems = [];
-        continue;
-      }
-      if (curName) {
-        if (/^[•\\-]\s/.test(line)) {
-          curItems.push(line.replace(/^[•\\-]\s/, "• ").trim().replace(/^•\s*/, ""));
-        } else if (isATitleLine(line)) {
-          // ha A-cím jön közben, lezárjuk a blokkot
-          flush();
-          curName = null;
-          curItems = [];
-        }
-      }
-    }
-    flush();
-
-    // Eredmény
-    if (titles.size === 0 && blocks.size === 0) {
-      out.innerHTML = ❌ Nincs találat erre: <b>${qRaw}</b><br><span class="muted">TXT OK (HTTP 200), de nem találta a nevet.</span>;
-      return;
-    }
-
-    let html = ✅ <b>Találat:</b> <b>${qRaw}</b><br><span class="muted">TXT betöltve: ${text.length} karakter</span><br><br>;
-
-    if (titles.size) {
-      html += <div class="sec">📚 Ajánlós listák:</div><ul>;
-      for (const t of titles) html += <li>${t}</li>;
-      html += </ul>;
-    }
-
-    if (blocks.size) {
-      html += <div class="sec">🧾 Rendelések (NÉV: blokk):</div>;
-      for (const [name, items] of blocks.entries()) {
-        html += <b>${name}</b>;
-        if (items.length) {
-          html += <ul>;
-          for (const it of items) html += <li>${it}</li>;
-          html += </ul>;
+    if (foundB.length) {
+      html += '<div class="sec">🧾 Rendelések (NÉV: blokk):</div>';
+      foundB.forEach(b => {
+        html += "<b>" + b.name + "</b>";
+        if (b.items.length) {
+          html += "<ul>";
+          b.items.forEach(it => html += "<li>" + it + "</li>");
+          html += "</ul>";
         } else {
-          html += <div class="muted">Nincs • tételsor ehhez a névhez.</div>;
+          html += '<div class="muted">Nincs • tétel sor ehhez a névhez.</div>';
         }
-      }
+      });
     }
 
     out.innerHTML = html;
   }
 
-  // biztos kötés
   document.addEventListener("DOMContentLoaded", () => {
     $("ver").innerText = VERSION;
     $("btn").addEventListener("click", search);
