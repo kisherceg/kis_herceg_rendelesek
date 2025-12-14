@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Kis Herceg – Kereső</title>
-  
   <style>
   :root{
     --blue1: rgba(10, 32, 70, .78);
@@ -122,9 +121,22 @@
       padding: 18px;
     }
 
-  input{ padding: 18px; font-size: 18px; border-radius: 14px; }
-    
-  button{ padding: 18px; font-size: 22px; border-radius: 14px; }
+  input{
+    width: 100%;
+    display: block;
+    padding: 18px;
+    font-size: 18px;
+    border-radius: 14px;
+  }
+  
+  button{
+    width: 100%;
+    display: block;
+    margin-top: 12px;
+    padding: 18px;
+    font-size: 22px;
+    border-radius: 14px;
+  }
     
   input:focus{
     border-color: rgba(35,75,142,.55);
@@ -319,9 +331,9 @@
     out.innerHTML = "⏳ Keresés…";
 
     if (!tok.length) {
-      out.innerHTML = "none";
-      return;
-    }
+    out.style.display = "none";
+    return;
+  }
 
     let ajanlasTxt = "";
     let rendelesTxt = "";
