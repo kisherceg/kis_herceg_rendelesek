@@ -28,33 +28,38 @@ async function search() {
 
   const res = await fetch("rendeles.txt", { cache: "no-store" });
   const text = await res.text();
+  const lines = text.split(/\r?\n/);
 
-  // Sorokra bontás
-  const lines = text.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
+  let currentTitle = "";
+  let found = new Set();
 
-  // Találatok gyűjtése: a név környezetéből szedjük a tételeket
-  let hits = [];
-  let currentName = "";
+  for (let raw of lines) {
+    const line = raw.trim();
+    if (!line) continue;
 
-  lines.forEach(line => {
-    // Ha ez egy név (feltételezzük: nincs ár benne)
-    if (!line.match(/\d+\s*(lej|ron|ft)/i) && line.split(" ").length <= 4) {
-      currentName = line.toLowerCase();
-    } else if (currentName.includes(q)) {
-      hits.push(line);
+    // Címsor felismerése: ha tartalmaz '-' és 'lej' akkor ez a tétel címe
+    if (line.includes("-") && line.toLowerCase().includes("lej")) {
+      currentTitle = line;
+      continue;
     }
-  });
 
-  if (hits.length === 0) {
-    result.innerHTML = "❌ Jelenleg nincs névre szóló csomag.";
+    // Név sorok: pl. "1. Kovács Anabella"
+    const namePart = line.replace(/^\d+\.\s*/, "").trim();
+
+    if (currentTitle && namePart.toLowerCase().includes(q)) {
+      found.add(currentTitle);
+    }
+  }
+
+  if (found.size === 0) {
+    result.innerHTML = "❌ Nem találtunk találatot ezzel a névvel.";
     return;
   }
 
   let html = "✅ Neked érkezett:<br><br>";
-  hits.forEach(h => {
-    html += "• " + h + "<br>";
+  [...found].forEach(t => {
+    html += "• " + t + "<br>";
   });
-
   result.innerHTML = html;
 }
 </script>
