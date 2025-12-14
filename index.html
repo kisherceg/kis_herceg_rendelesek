@@ -187,11 +187,11 @@
     </div>
 
     <p class="sub">
-      Írd be a neved, és megnézzük az <span>ajánlás</span> és a <b>rendelés</b> listákat.
+      Írd be a neved, és megnézzük van-e rendelésed nálunk jelenleg.
     </p>
 
     <div class="panel">
-        <input id="name" placeholder="Pl. Kádár Krisztina" />
+        <input id="name" placeholder="Pl. Kis Herceg" />
         <button id="btn" type="button">Keresés</button>
         <div id="ver" class="muted"></div>
         <div id="result" class="box">🔎 Kereséshez írd be a neved.</div>
@@ -334,20 +334,20 @@
     const foundB = parseRendelesek(rendelesTxt, tok);
 
     if (!foundA.length && !foundB.length) {
-      out.innerHTML = "❌ Nincs találat erre: <b>" + qRaw + "</b>";
+      out.innerHTML = "❌ Nincs találat a te neved alapján! <b>" + qRaw + "</b>";
       return;
     }
 
-    let html = "✅ <b>Találat:</b> <b>" + qRaw + "</b><br><br>";
+    let html = "✅ <b>Találtunk könyvet a te neved alatt:</b> <b>" + qRaw + "</b><br><br>";
 
     if (foundA.length) {
-      html += '<div class="sec">📚 Ajánlás (címek, ahol szerepelsz):</div><ul>';
+      html += '<div class="sec">Az általunk ajánlott könyvek közül:</div><ul>';
       foundA.forEach(t => html += "<li>" + t + "</li>");
       html += "</ul>";
     }
 
     if (foundB.length) {
-      html += '<div class="sec">🧾 Rendelések (NÉV: blokk):</div>';
+      html += '<div class="sec">Az általad kért könyvek közül:</div>';
       foundB.forEach(b => {
         html += "<b>" + b.name + "</b>";
         if (b.items.length) {
