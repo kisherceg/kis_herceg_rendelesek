@@ -52,8 +52,6 @@
     display:flex;
     align-items:center;
     gap:12px;
-    padding: 18px 18px 10px;
-    color: #fff;
   }
 
   .logo{
@@ -63,6 +61,7 @@
     padding: 0;
     border: none;
   }
+    
   .logo img{
     width:100%;
     height:100%;
@@ -71,22 +70,19 @@
     border-radius: 8px;
   }
 
-  h2{
+  .header h2, .header h3{
     margin:0;
-    font-size: 40px;
     line-height: 1.15;
     letter-spacing: .2px;
     text-shadow: 0 2px 12px rgba(0,0,0,.25);
   }
 
-  h3{
-    margin:0;
-    font-size: 22px;
-    line-height: 1.15;
-    letter-spacing: .2px;
-    text-shadow: 0 2px 12px rgba(0,0,0,.25);
+  .title{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
   }
-
+    
   .sub{
     margin: 0;
     padding: 0 18px 16px;
@@ -194,10 +190,10 @@
     <div class="header">
       <div class="logo">
         <img src="logo.png" alt="Kis Herceg">
+      </div class="title">
+        <h2> <span class="gold"> KIS HERCEG KÖNYVESBOLT </span> </h2>
+        <h3> könyvrendelés kereső</h3>
       </div>
-      <h2> <span class="gold"> KIS HERCEG KÖNYVESBOLT </span> </h2>
-      <h3> könyvrendelés kereső</h3>
-    </div>
 
     <p class="sub">
       Írd be a neved, és megnézzük van-e rendelésed nálunk jelenleg.
