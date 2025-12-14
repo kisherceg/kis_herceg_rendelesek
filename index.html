@@ -25,92 +25,113 @@ async function search() {
   const qRaw = document.getElementById("name").value.trim();
   const q = qRaw.toLowerCase();
   const result = document.getElementById("result");
+
   if (!q) { result.innerHTML = "Írj be egy nevet 🙂"; return; }
 
-  const res = await fetch("rendeles.txt", { cache: "no-store" });
-  const text = await res.text();
-  const lines = text.split(/\r?\n/).map(l => (l || "").trim());
-
-  const foundA = new Set();              // 1) Ajánlós lista: címek
-  const foundB = {};                     // 2) Bookline táblázat: {orderTitle: [tételek...]}
-
-  const hasDash = (s) => /[-–—]/.test(s);
-  const isAllCapsTitle = (s) => s && s === s.toUpperCase() && s.length > 6;
-  const isHeaderLine = (s) => /^(NÉV|KÖNYV|ÁR)$/i.test(s.replace(/\s+/g, ""));
-
-  // Segéd: rendelés címének felismerése (pl. "Bookline rendelés DECEMBER 1.")
-  const isOrderTitle = (s) => /rendel[eé]s/i.test(s);
-
-  // =========================
-  // 1) AJÁNLÓS LISTA FORMÁTUM
-  // =========================
-  let currentTitle = "";
-  for (const line of lines) {
-    if (!line) continue;
-
-    // Címsor: van benne "lej" és valamilyen kötőjel/gondolatjel
-    if (hasDash(line) && /lej/i.test(line)) {
-      currentTitle = line;
-      continue;
-    }
-
-    // Név sor: "1. Név" → "Név"
-    const namePart = line.replace(/^\d+\.\s*/, "").trim();
-    if (currentTitle && namePart.toLowerCase().includes(q)) {
-      foundA.add(currentTitle);
-    }
+  let text = "";
+  try {
+    const res = await fetch("rendeles.txt", { cache: "no-store" });
+    text = await res.text();
+  } catch (e) {
+    result.innerHTML = "Nem tudtam betölteni a rendeles.txt fájlt 😕";
+    return;
   }
 
-  // =========================
-  // 2) BOOKLINE / TÁBLÁZATOS FORMÁTUM
-  // =========================
-  let orderTitle = "Bookline / táblázatos rendelés";
+  const lines = text
+    .split(/\r?\n/)
+    .map(l => (l || "").trim())
+    .filter(l => l.length > 0);
+
+  const foundA = new Set();       // Ajánlós listák címei (ahol szerepel a név)
+  const foundB = {};              // { név: [tételek...] }
+
+  const clean = (s) => (s || "")
+    .replace(/^["']+|["']+$/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  // -------- (A) AJÁNLÓS LISTA: "CÍM – xx lej" + számozott nevek --------
+  const isTitleLineA = (s) => {
+    const t = clean(s);
+    // legyen benne "lej" és valamilyen kötőjel/gondolatjel, és ne legyen "NÉV:"
+    return /lej/i.test(t) && /[-–—]/.test(t) && !/^NÉV\s*:/i.test(t) && !/bookline rendelés/i.test(t);
+  };
+
   for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
-    if (!line) continue;
+    const line = clean(lines[i]);
+    if (!isTitleLineA(line)) continue;
 
-    // Rendelés címe (kontektszöveg)
-    if (isOrderTitle(line)) orderTitle = line;
+    const title = line;
+    // a következő soroktól olvasunk neveket amíg jön új cím (A), vagy név-blokk (B)
+    for (let j = i + 1; j < lines.length; j++) {
+      const l2raw = clean(lines[j]);
+      if (isTitleLineA(l2raw)) break;
+      if (/^NÉV\s*:/i.test(l2raw)) break;
+      if (/bookline rendelés/i.test(l2raw)) break;
 
-    // Ha a sor tartalmazza a nevet, itt indulhat egy blokk
-    if (line.toLowerCase().includes(q)) {
-      // A név sor után várhatóan jönnek a tételek sorokban.
-      let items = [];
-      for (let j = i + 1; j < lines.length; j++) {
-        const next = lines[j];
+      // "1. Név" / "2. Név" / "3. Név"
+      const nameLine = l2raw.replace(/^\d+\.\s*/, "").trim();
+      if (!nameLine) continue;
 
-        // megállók: üres sor / új nagy címsor / fejléc / új név (nagyon valószínű)
-        if (!next) break;
-        if (isOrderTitle(next)) break;
-        if (isHeaderLine(next)) continue;
-        if (isAllCapsTitle(next)) break;
-
-        // Heurisztika új névre: rövid, 2-4 szavas, nincs "lej", nincs szám a végén
-        const looksLikeNewName =
-          next.split(/\s+/).length >= 2 &&
-          next.split(/\s+/).length <= 4 &&
-          !/lej/i.test(next) &&
-          !/\d+$/.test(next) &&
-          /^[A-ZÁÉÍÓÖŐÚÜŰ]/.test(next);
-
-        if (looksLikeNewName) break;
-
-        items.push(next);
-      }
-
-      if (items.length) {
-        if (!foundB[orderTitle]) foundB[orderTitle] = [];
-        // duplikátumok ellen:
-        items.forEach(it => {
-          if (!foundB[orderTitle].includes(it)) foundB[orderTitle].push(it);
-        });
+      if (nameLine.toLowerCase().includes(q)) {
+        foundA.add(title);
       }
     }
   }
 
-  // =========================
-  // EREDMÉNY KIÍRÁSA
-  // =========================
+  // -------- (B) BOOKLINE: "NÉV: ..." + • tételek / vagy "Név – Bookline rendelés..." --------
+  const getNameFromHeader = (s) => {
+    const t = clean(s);
+
+    // 1) NÉV: Valaki
+    let m = t.match(/^NÉV\s*:\s*(.+)$/i);
+    if (m) return clean(m[1]);
+
+    // 2) "Valaki – Bookline rendelés DECEMBER 1."
+    if (/bookline rendelés/i.test(t) && /[-–—]/.test(t)) {
+      const namePart = t.split(/[-–—]/)[0];
+      return clean(namePart);
+    }
+
+    return null;
+  };
+
+  for (let i = 0; i < lines.length; i++) {
+    const header = clean(lines[i]);
+    const name = getNameFromHeader(header);
+    if (!name) continue;
+
+    // ha a név nem található, akkor is át kell lépni a tételeken a következő headerig
+    const nameMatches = name.toLowerCase().includes(q);
+    let items = [];
+
+    for (let j = i + 1; j < lines.length; j++) {
+      const l2 = clean(lines[j]);
+
+      // megállunk, ha új név header jön
+      if (getNameFromHeader(l2)) { i = j - 1; break; }
+
+      // tétel sorok: • valami / - valami
+      if (/^[•\-·]\s*/.test(l2)) {
+        const item = clean(l2.replace(/^[•\-·]\s*/, ""));
+        if (item) items.push(item);
+      } else {
+        // ha nincs bullet, de mégis tétel-szerű sor (pl. "Valami – 55 lej")
+        if (/lej/i.test(l2)) items.push(l2);
+      }
+
+      // ha a fájl végén vagyunk
+      if (j === lines.length - 1) i = j;
+    }
+
+    if (nameMatches && items.length) {
+      if (!foundB[name]) foundB[name] = [];
+      // duplikációk ellen
+      items.forEach(it => { if (!foundB[name].includes(it)) foundB[name].push(it); });
+    }
+  }
+
+  // -------- KIMENET --------
   if (foundA.size === 0 && Object.keys(foundB).length === 0) {
     result.innerHTML = "❌ Nem találtunk találatot ezzel a névvel.";
     return;
@@ -119,23 +140,31 @@ async function search() {
   let html = ✅ Találat: <b>${qRaw}</b><br><br>;
 
   if (foundA.size) {
-    html += "<b>📌 Ajánlós listák:</b><br>";
-    [...foundA].forEach(t => { html += "• " + t + "<br>"; });
-    html += "<br>";
+    html += <b>📌 Ajánlós listák:</b><br>;
+    [...foundA].forEach(t => { html += • ${t}<br>; });
+    html += <br>;
   }
 
-  const orders = Object.keys(foundB);
-  if (orders.length) {
-    html += "<b>📦 Bookline / táblázatos rendelések:</b><br><br>";
-    orders.forEach(o => {
-      html += <b>${o}</b><br>;
-      foundB[o].forEach(it => { html += "• " + it + "<br>"; });
-      html += "<br>";
+  const names = Object.keys(foundB);
+  if (names.length) {
+    html += <b>🧾 Bookline / táblázatos rendelések:</b><br><br>;
+    names.forEach(n => {
+      html += <b>${n}</b><br>;
+      foundB[n].forEach(it => { html += • ${it}<br>; });
+      html += <br>;
     });
   }
 
   result.innerHTML = html;
 }
+
+// Enterre is keressen
+document.addEventListener("DOMContentLoaded", () => {
+  const inp = document.getElementById("name");
+  if (inp) inp.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") search();
+  });
+});
 </script>
 </body>
 </html>
