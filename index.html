@@ -20,10 +20,9 @@
   <h2>📚 Kis Herceg – Név szerinti kereső</h2>
   <p class="muted">Írd be a neved, és kilistázzuk a tételeidet.</p>
 
-  <input id="name" placeholder="Pl. Kádár Krisztina" />
-  <button onclick="alert('KATT!')">Keresés</button>
-
-  <div class="box" id="result">🔎 Kereséshez írd be a neved.</div>
+  <input id="name" placeholder="Pl. Kádár Krisztina">
+  <button id="btn">Keresés</button>
+  <div id="result">🔎 Kereséshez írd be a neved.</div>
 
   <script>
     function norm(s) {
@@ -136,10 +135,17 @@
       result.innerHTML = html;  // ⬅️ FIGYELD: PONT, nem kettőspont!
     }
 
-    document.getElementById("btn").addEventListener("click", search);
-    document.getElementById("name").addEventListener("keydown", (e) => {
-      if (e.key === "Enter") search();
-    });
+    document.getElementById("btn").addEventListener("click", () => {
+    alert("KATT!");
+  search();
+});
+
+document.getElementById("name").addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    alert("ENTER!");
+    search();
+  }
+});
   </script>
 </body>
 </html>
