@@ -4,31 +4,203 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Kis Herceg – Kereső</title>
+  
   <style>
-    body { font-family: Arial, sans-serif; max-width: 680px; margin: 0 auto; padding: 18px; }
-    input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box; }
-    button { margin-top: 10px; padding: 12px; width: 100%; font-size: 16px; cursor: pointer; }
-    .box { margin-top: 14px; padding: 12px; border: 1px solid #ddd; border-radius: 10px; }
-    .muted { opacity: .75; font-size: 12px; margin-top: 8px; }
-    .sec { font-weight: bold; margin: 10px 0 6px; }
-    ul { margin: 6px 0 10px 20px; }
-    code { background:#f3f3f3; padding:2px 6px; border-radius:6px; }
-  </style>
+  :root{
+    --blue1: rgba(10, 32, 70, .78);
+    --blue2: rgba(22, 56, 110, .72);
+    --card: rgba(255,255,255,.86);
+    --card2: rgba(255,255,255,.92);
+    --text: #0b1530;
+    --muted: rgba(11,21,48,.72);
+    --line: rgba(11,21,48,.18);
+    --btn: #234b8e;
+    --btn2:#1a3c74;
+    --gold:#f6c45b;
+  }
+
+  *{ box-sizing:border-box; }
+
+  body{
+    margin:0;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    color: var(--text);
+
+    /* háttér */
+    background-image: url("hatter.JPG");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    display:flex;
+    justify-content:center;
+    padding: 28px 14px;
+  }
+
+  /* középre igazított "kártya" */
+  .wrap{
+    width: min(720px, 100%);
+    background: linear-gradient(180deg, var(--blue1), var(--blue2));
+    border: 1px solid rgba(255,255,255,.22);
+    border-radius: 18px;
+    box-shadow: 0 18px 50px rgba(0,0,0,.25);
+    overflow:hidden;
+  }
+
+  .header{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    padding: 18px 18px 10px;
+    color: #fff;
+  }
+
+  .logo{
+    width: 46px;
+    height: 46px;
+    border-radius: 12px;
+    background: rgba(255,255,255,.18);
+    border: 1px solid rgba(255,255,255,.25);
+    padding: 6px;
+    flex: 0 0 auto;
+  }
+  .logo img{
+    width:100%;
+    height:100%;
+    object-fit: contain;
+    display:block;
+    border-radius: 8px;
+  }
+
+  h2{
+    margin:0;
+    font-size: 22px;
+    line-height: 1.15;
+    letter-spacing: .2px;
+    text-shadow: 0 2px 12px rgba(0,0,0,.25);
+  }
+
+  .sub{
+    margin: 0;
+    padding: 0 18px 16px;
+    color: rgba(255,255,255,.92);
+    font-size: 14px;
+  }
+  .sub b{ color: #fff; }
+  .sub span{
+    color: var(--gold);
+    font-weight: 700;
+  }
+
+  .panel{
+    background: var(--card);
+    margin: 0 18px 18px;
+    border-radius: 14px;
+    border: 1px solid rgba(255,255,255,.55);
+    padding: 14px;
+  }
+
+  input{
+    width: 100%;
+    padding: 14px 14px;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 1px solid var(--line);
+    outline: none;
+    background: var(--card2);
+    transition: box-shadow .2s ease, border-color .2s ease;
+  }
+  input:focus{
+    border-color: rgba(35,75,142,.55);
+    box-shadow: 0 0 0 4px rgba(35,75,142,.16);
+  }
+
+  button{
+    width: 100%;
+    margin-top: 12px;
+    padding: 13px 14px;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-radius: 12px;
+    color: #fff;
+    cursor: pointer;
+
+    background: linear-gradient(180deg, var(--btn), var(--btn2));
+    box-shadow: 0 10px 24px rgba(26,60,116,.28);
+    transition: transform .08s ease, filter .2s ease, box-shadow .2s ease;
+  }
+  button:hover{ filter: brightness(1.06); }
+  button:active{ transform: translateY(1px); }
+
+  /* találat blokk */
+  .box{
+    margin-top: 14px;
+    padding: 14px;
+    border-radius: 14px;
+    border: 1px solid rgba(11,21,48,.12);
+    background: rgba(255,255,255,.92);
+  }
+  .box .sec{
+    font-weight: 800;
+    margin: 0 0 8px;
+    display:flex;
+    align-items:center;
+    gap:8px;
+  }
+  .box .sec::before{
+    content:"✨";
+  }
+
+  ul{
+    margin: 8px 0 0 0;
+    padding-left: 18px;
+  }
+  li{ margin: 6px 0; }
+
+  .muted{
+    color: var(--muted);
+    font-size: 13px;
+    margin-top: 10px;
+  }
+
+  /* mobilon is szép */
+  @media (max-width: 520px){
+    body{ padding: 16px 10px; }
+    h2{ font-size: 20px; }
+    .logo{ width: 44px; height: 44px; }
+    .panel{ margin: 0 12px 14px; }
+    .header{ padding: 16px 14px 8px; }
+    .sub{ padding: 0 14px 14px; }
+  }
+</style>
 </head>
+  
 <body>
-  <h2>📚 Kis Herceg – Név szerinti kereső KÉT TXT FILE</h2>
-  <p>Írd be a neved, és megnézzük az <b>ajánlás</b> és a <b>rendelés</b> listákat.</p>
+  <div class="wrap">
+    <div class="header">
+      <div class="logo">
+        <img src="kisherceg.JPG" alt="Kis Herceg">
+      </div>
+      <h2>Kis Herceg könyvesbolt – könyvrendelés kereső</h2>
+    </div>
 
-  <input id="name" placeholder="Pl. Kádár Krisztina" />
-  <button id="btn" type="button">Keresés</button>
+    <p class="sub">
+      Írd be a neved, és megnézzük az <span>ajánlás</span> és a <b>rendelés</b> listákat.
+    </p>
 
-  <div id="ver" class="muted"></div>
-  <div id="result" class="box">🔎 Kereséshez írd be a neved.</div>
+    <div class="panel">
+        <input id="name" placeholder="Pl. Kádár Krisztina" />
+        <button id="btn" type="button">Keresés</button>
+        <div id="ver" class="muted"></div>
+        <div id="result" class="box">🔎 Kereséshez írd be a neved.</div>
+    </div>
+  </div>
 
 <script>
 (() => {
-  const VERSION = "VERZIÓ: 2025-12-14 (2 fájl: ajanlas.txt + rendelesek.txt)";
-  const $ = (id) => document.getElementById(id);
+    const $ = (id) => document.getElementById(id);
 
   // ékezet- és idézőjel-toleráns keresés
   function norm(s) {
