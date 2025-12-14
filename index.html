@@ -355,7 +355,7 @@ li{ margin: 6px 0; }
       return;
     }
 
-    let html = "<b>Kedves <b>" + qRaw + "</b> ezeket a címeket találtuk a nevedhez kapcsolódva :</b> <br><br>";
+    let html = "<b>Kedves <b>" + qRaw + "</b>, ezeket a címeket találtuk a nevedhez kapcsolódva :</b> <br><br>";
 
     if (foundA.length) {
       html += '<div class="sec">Az ajánlásaink nyomán választott könyvek:</div><ul>';
@@ -364,7 +364,7 @@ li{ margin: 6px 0; }
     }
 
     if (foundB.length) {
-      html += '<div class="sec">Ezeken külün kérted:</div>';
+      html += '<div class="sec">Ezeken külön kérted:</div>';
       foundB.forEach(b => {
         html += "<b>" + b.name + "</b>";
         if (b.items.length) {
