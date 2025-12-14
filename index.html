@@ -32,6 +32,8 @@ async function search() {
   try {
     const res = await fetch("rendeles.txt", { cache: "no-store" });
     text = await res.text();
+    result.innerHTML = "✅ TXT betöltve: " + text.length + " karakter";
+return;
   } catch (e) {
     result.innerHTML = "Nem tudtam betölteni a rendeles.txt fájlt 😕";
     return;
