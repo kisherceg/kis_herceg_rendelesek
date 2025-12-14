@@ -48,11 +48,13 @@
     overflow:hidden;
   }
 
-  .header{
+ .header{
     display:flex;
-    flex-direction: column;
+    flex-direction: column;   /* nálad volt kettőspont hiba */
     align-items:center;
-    gap:16px;
+    text-align:center;
+    gap: 10px;
+    padding: 26px 18px 10px;
   }
 
   .logo{
@@ -76,24 +78,26 @@
     line-height: 1.15;
   }
 
-  h2{
-    font-size: 42 px;
-    font-weight: 900;
-    letter-spacing: 1px;
-  } 
+  h2{ font-size: 48px; font-weight: 900; letter-spacing: 1px; }
     
-  h3{
-    font-size: 22 px;
-    font-weight: 700;
-    color: rgba(255,255,255,.92);
-    text-shadow: 0 2px 10 px rgba(0,0,0,.25);
-  }
+  h3{ font-size: 22px; font-weight: 700; color: rgba(255,255,255,.92); }
+    
+  .gold{ color:#f6c45b; }
 
   .title{
     display: flex;
     flex-direction: column;
     gap: 4px;
     min-width: 0;
+  }
+
+  .quote{
+    margin: 6px 0 10px;
+    padding: 0 18px 14px;
+    color: rgba(255,255,255,.92);
+    font-size: 18px;
+    text-align:center;
+    text-shadow: 0 2px 10px rgba(0,0,0,.25);
   }
     
   .sub{
@@ -109,49 +113,24 @@
     font-weight: 700;
   }
 
-  .gold{
-    color: #f6c45b;
-    font-weight: 800;
-  }
+  
     
   .panel{
-    background: var(--card);
-    margin: 0 18px 18px;
-    border-radius: 14px;
-    border: 1px solid rgba(255,255,255,.55);
-    padding: 14px;
-  }
+      background: rgba(255,255,255,.88);
+      margin: 0 18px 24px;
+      border-radius: 18px;
+      padding: 18px;
+    }
 
-  input{
-    width: 100%;
-    padding: 14px 14px;
-    font-size: 16px;
-    border-radius: 12px;
-    border: 1px solid var(--line);
-    outline: none;
-    background: var(--card2);
-    transition: box-shadow .2s ease, border-color .2s ease;
-  }
+  input{ padding: 18px; font-size: 18px; border-radius: 14px; }
+    
+  button{ padding: 18px; font-size: 22px; border-radius: 14px; }
+    
   input:focus{
     border-color: rgba(35,75,142,.55);
     box-shadow: 0 0 0 4px rgba(35,75,142,.16);
   }
-
-  button{
-    width: 100%;
-    margin-top: 12px;
-    padding: 13px 14px;
-    font-size: 16px;
-    font-weight: 700;
-    border: none;
-    border-radius: 12px;
-    color: #fff;
-    cursor: pointer;
-
-    background: linear-gradient(180deg, var(--btn), var(--btn2));
-    box-shadow: 0 10px 24px rgba(26,60,116,.28);
-    transition: transform .08s ease, filter .2s ease, box-shadow .2s ease;
-  }
+    
   button:hover{ filter: brightness(1.06); }
   button:active{ transform: translateY(1px); }
 
@@ -216,9 +195,7 @@
       </div>
     </div>
     
-    <p class="sub">
-      Írd be a neved, és megnézzük van-e rendelésed nálunk jelenleg.
-    </p>
+   <div class="quote">⭐ Talán vár rád itt egy csomag…</div>
 
     <div class="panel">
         <input id="name" placeholder="Pl. Kis Herceg" />
