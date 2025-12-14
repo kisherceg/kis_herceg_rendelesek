@@ -6,192 +6,189 @@
   <title>Kis Herceg – Kereső</title>
   <style>
   :root{
-    --blue1: rgba(10, 32, 70, .78);
-    --blue2: rgba(22, 56, 110, .72);
-    --card: rgba(255,255,255,.86);
-    --card2: rgba(255,255,255,.92);
-    --text: #0b1530;
-    --muted: rgba(11,21,48,.72);
-    --line: rgba(11,21,48,.18);
-    --btn: #234b8e;
-    --btn2:#1a3c74;
-    --gold:#f6c45b;
-  }
+  --blue1: rgba(10, 32, 70, .78);
+  --blue2: rgba(22, 56, 110, .72);
+  --card: rgba(255,255,255,.86);
+  --card2: rgba(255,255,255,.92);
+  --text: #0b1530;
+  --muted: rgba(11,21,48,.72);
+  --line: rgba(11,21,48,.18);
+  --btn: #234b8e;
+  --btn2:#1a3c74;
+  --gold:#f6c45b;
+}
 
-  *{ box-sizing:border-box; }
+*{ box-sizing:border-box; }
 
-  body{
-    margin:0;
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-    color: var(--text);
+body{
+  margin:0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  color: var(--text);
 
-    /* háttér */
-    background-image: url("hatter.JPG");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    min-height: 100vh;
-    display:flex;
-    justify-content:center;
-    padding: 28px 14px;
-  }
+  background-image: url("hatter.JPG");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+  display:flex;
+  justify-content:center;
+  padding: 28px 14px;
+}
 
-  /* középre igazított "kártya" */
-  .wrap{
-    width: min(720px, 100%);
-    background: linear-gradient(180deg, var(--blue1), var(--blue2));
-    border: 1px solid rgba(255,255,255,.22);
-    border-radius: 18px;
-    box-shadow: 0 18px 50px rgba(0,0,0,.25);
-    overflow:hidden;
-  }
+.wrap{
+  width: min(720px, 100%);
+  background: linear-gradient(180deg, var(--blue1), var(--blue2));
+  border: 1px solid rgba(255,255,255,.22);
+  border-radius: 18px;
+  box-shadow: 0 18px 50px rgba(0,0,0,.25);
+  overflow:hidden;
+}
 
- .header{
-    display:flex;
-    flex-direction: column;   /* nálad volt kettőspont hiba */
-    align-items:center;
-    text-align:center;
-    gap: 10px;
-    padding: 26px 18px 10px;
-  }
+.header{
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+  text-align:center;
+  gap: 10px;
+  padding: 26px 18px 10px;
+}
 
-  .logo{
-    width: 150px;
-    height: 150px;
-    background: none;
-    padding: 0;
-    border: none;
-  }
-    
-  .logo img{
-    width:100%;
-    height:100%;
-    object-fit: contain;
-    display:block;
-    border-radius: 8px;
-  }
+.logo{
+  width: 150px;
+  height: 150px;
+  background: none;
+  padding: 0;
+  border: none;
+}
 
-  h2, h3{
-    margin:0;
-    line-height: 1.15;
-  }
+.logo img{
+  width:100%;
+  height:100%;
+  object-fit: contain;
+  display:block;
+  border-radius: 8px;
+}
 
-  h2{ font-size: 48px; font-weight: 900; letter-spacing: 1px; }
-    
-  h3{ font-size: 22px; font-weight: 700; color: rgba(255,255,255,.92); }
-    
-  .gold{ color:#f6c45b; }
+h2, h3{
+  margin:0;
+  line-height: 1.15;
+}
 
-  .title{
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-    min-width: 0;
-  }
+h2{ font-size: 48px; font-weight: 900; letter-spacing: 1px; }
+h3{ font-size: 22px; font-weight: 700; color: rgba(255,255,255,.92); }
 
-  .quote{
-    margin: 6px 0 10px;
-    padding: 0 18px 14px;
-    color: rgba(255,255,255,.92);
-    font-size: 18px;
-    text-align:center;
-    text-shadow: 0 2px 10px rgba(0,0,0,.25);
-  }
-    
-  .sub{
-    margin: 0;
-    padding: 0 18px 16px;
-    color: rgba(255,255,255,.92);
-    font-size: 14px;
-  }
-  .sub b{ color: #fff; }
-    
-  .sub span{
-    color: var(--gold);
-    font-weight: 700;
-  }
+.gold{ color:#f6c45b; }
 
-  
-    
+.title{
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+
+.quote{
+  margin: 6px 0 10px;
+  padding: 0 18px 14px;
+  color: rgba(255,255,255,.92);
+  font-size: 18px;
+  text-align:center;
+  text-shadow: 0 2px 10px rgba(0,0,0,.25);
+}
+
+/* ====== EZ A RÉSZ A FONTOS: panel + input + button ====== */
+
+.panel{
+  background: rgba(255,255,255,.88);
+  margin: 0 auto 24px;          /* középre */
+  max-width: 420px;             /* laptopon is “telefonos” arány */
+  width: calc(100% - 36px);
+  border-radius: 18px;
+  padding: 18px;
+  box-shadow: 0 18px 40px rgba(0,0,0,.20);
+}
+
+.panel input{
+  width: 100%;
+  display: block;
+  padding: 16px 16px;
+  font-size: 18px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  outline: none;
+  background: var(--card2);
+}
+
+.panel input:focus{
+  border-color: rgba(35,75,142,.55);
+  box-shadow: 0 0 0 4px rgba(35,75,142,.16);
+}
+
+.panel button{
+  width: 100%;
+  display: block;
+  margin-top: 12px;
+  padding: 16px 16px;
+  font-size: 20px;
+  font-weight: 800;
+  border: none;
+  border-radius: 14px;
+  color: #fff;
+  cursor: pointer;
+
+  background: linear-gradient(180deg, var(--btn), var(--btn2));
+  box-shadow: 0 10px 24px rgba(26,60,116,.28);
+  transition: transform .08s ease, filter .2s ease, box-shadow .2s ease;
+}
+
+.panel button:hover{ filter: brightness(1.06); }
+.panel button:active{ transform: translateY(1px); }
+
+/* találat blokk */
+.box{
+  margin-top: 14px;
+  padding: 14px;
+  border-radius: 14px;
+  border: 1px solid rgba(11,21,48,.12);
+  background: rgba(255,255,255,.92);
+}
+
+.box .sec{
+  font-weight: 800;
+  margin: 0 0 8px;
+  display:flex;
+  align-items:center;
+  gap:8px;
+}
+
+.box .sec::before{ content:"✨"; }
+
+ul{
+  margin: 8px 0 0 0;
+  padding-left: 18px;
+}
+li{ margin: 6px 0; }
+
+.muted{
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+/* mobil */
+@media (max-width: 520px){
+  body{ padding: 16px 10px; }
+  h2{ font-size: 30px; }
+  h3{ font-size: 16px; }
+  .logo{ width: 120px; height: 120px; }
+  .header{ padding: 16px 14px 8px; }
   .panel{
-      background: rgba(255,255,255,.88);
-      margin: 0 18px 24px;
-      border-radius: 18px;
-      padding: 18px;
-    }
-
-  input{
-    width: 100%;
-    display: block;
-    padding: 18px;
-    font-size: 18px;
-    border-radius: 14px;
+    max-width: 420px;
+    width: calc(100% - 24px);
+    margin: 0 auto 14px;
+    padding: 16px;
   }
-  
-  button{
-    width: 100%;
-    display: block;
-    margin-top: 12px;
-    padding: 18px;
-    font-size: 22px;
-    border-radius: 14px;
-  }
-    
-  input:focus{
-    border-color: rgba(35,75,142,.55);
-    box-shadow: 0 0 0 4px rgba(35,75,142,.16);
-  }
-    
-  button:hover{ filter: brightness(1.06); }
-  button:active{ transform: translateY(1px); }
-
-  /* találat blokk */
-  .box{
-    margin-top: 14px;
-    padding: 14px;
-    border-radius: 14px;
-    border: 1px solid rgba(11,21,48,.12);
-    background: rgba(255,255,255,.92);
-  }
-  .box .sec{
-    font-weight: 800;
-    margin: 0 0 8px;
-    display:flex;
-    align-items:center;
-    gap:8px;
-  }
-  .box .sec::before{
-    content:"✨";
-  }
-
-  ul{
-    margin: 8px 0 0 0;
-    padding-left: 18px;
-  }
-  li{ margin: 6px 0; }
-
-  .muted{
-    color: var(--muted);
-    font-size: 13px;
-    margin-top: 10px;
-  }
-
-  /* mobilon is szép */
-  @media (max-width: 520px){
-    body{ padding: 16px 10px; }
-    h2{ font-size: 30px; }
-    h3{ font-size: 16px; }
-    .title{
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-    .logo{ width: 120px; height: 120px; }
-    .panel{ margin: 0 12px 14px; }
-    .header{ padding: 16px 14px 8px; }
-    .sub{ padding: 0 14px 14px; }
-  }
+}
 </style>
 </head>
   
