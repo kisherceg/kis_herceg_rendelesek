@@ -3,16 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Kis Herceg – Rendelés kereső</title>
+  <title>Kis Herceg - Rendelés kereső</title>
   <style>
-    body { font-family: Arial; max-width: 640px; margin: auto; padding: 18px; }
+    body { font-family: Arial, sans-serif; max-width: 680px; margin: 0 auto; padding: 18px; }
     input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box; }
     button { margin-top: 10px; padding: 12px; width: 100%; font-size: 16px; cursor: pointer; }
     .box { margin-top: 14px; padding: 12px; border: 1px solid #ddd; border-radius: 10px; }
     .muted { color: #666; }
-    h2 { margin: 0 0 6px 0; }
+    h2 { margin: 0 0 8px 0; }
+    h3 { margin: 14px 0 6px 0; }
     ul { margin: 6px 0 0 18px; }
-    hr { border: none; border-top: 1px solid #eee; margin: 12px 0; }
+    .pill { display:inline-block; padding:2px 8px; border:1px solid #ddd; border-radius:999px; font-size:12px; margin-left:8px; color:#444; }
+    .err { color: #b00020; }
   </style>
 </head>
 
@@ -20,132 +22,201 @@
   <h2>📚 Kis Herceg – Név szerinti kereső</h2>
   <p class="muted">Írd be a neved, és kilistázzuk a tételeidet.</p>
 
-  <input id="name" placeholder="Pl. Kádár Krisztina">
-  <button id="btn">Keresés</button>
-  <div id="result">🔎 Kereséshez írd be a neved.</div>
+  <input id="name" placeholder="Pl. Bíró Réka" />
+  <button id="btn" type="button">Keresés</button>
 
-  <script>
-    function norm(s) {
-      return (s || "")
-        .toLowerCase()
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "") // ékezetek le
-        .replace(/\s+/g, " ")
-        .trim();
-    }
+  <div class="box" id="result">🔎 Kereséshez írd be a neved.</div>
 
-    function cleanLine(s) {
-      return (s || "").replace(/^["“”]+|["“”]+$/g, "").trim();
-    }
+<script>
+(function () {
+  const $ = (id) => document.getElementById(id);
 
-    async function search() {
-      const qRaw = document.getElementById("name").value.trim();
-      const q = norm(qRaw);
-      const result = document.getElementById("result");
-
-      if (!q) {
-        result.innerHTML = "Írj be egy nevet 🙂";
-        return;
-      }
-
-      let text = "";
-      try {
-        const res = await fetch("rendeles.txt?v=" + Date.now(), { cache: "no-store" });
-        text = await res.text();
-      } catch (e) {
-        result.innerHTML = "Nem tudtam betölteni a rendeles.txt fájlt 😕";
-        return;
-      }
-
-      const lines = text
-        .split(/\r?\n/)
-        .map(l => cleanLine(l))
-        .filter(l => l.length > 0);
-
-      // ===== 1) AJÁNLÓS LISTA (cím + számozott nevek) =====
-      const foundTitles = new Set();
-      let currentTitle = "";
-
-      const looksLikeTitle = (s) => /[-–—]/.test(s) && /\blej\b/i.test(s); // van kötőjel + "lej"
-      const isNumberedName = (s) => /^\d+\.\s+/.test(s);
-
-      for (const line of lines) {
-        if (looksLikeTitle(line)) {
-          currentTitle = line;
-          continue;
-        }
-        if (currentTitle && isNumberedName(line)) {
-          const namePart = line.replace(/^\d+\.\s+/, "").trim();
-          if (norm(namePart).includes(q)) {
-            foundTitles.add(currentTitle);
-          }
-        }
-      }
-
-      // ===== 2) NÉV: BLOKK (NÉV: XY + • tételek) =====
-      const foundItems = [];
-      let currentName = "";
-      let collecting = false;
-
-      const isNameHeader = (s) => /^NÉV\s*:\s*/i.test(s);
-      const extractName = (s) => s.replace(/^NÉV\s*:\s*/i, "").trim();
-
-      for (let i = 0; i < lines.length; i++) {
-        const line = lines[i];
-
-        if (isNameHeader(line)) {
-          currentName = extractName(line);
-          collecting = norm(currentName).includes(q);
-          continue;
-        }
-
-        // ha épp az adott név blokkja jön:
-        if (collecting) {
-          // tételsor: • valami – ár lej (vagy bármi •-vel)
-          if (/^[•\-\u2022]\s*/.test(line)) {
-            foundItems.push(line.replace(/^[•\-\u2022]\s*/, "• ").trim());
-          } else {
-            // ha nem tétel és jön egy új NÉV: majd kezeljük feljebb
-            // egyéb sort egyszerűen ignoráljuk
-          }
-        }
-      }
-
-      // ===== KIÍRÁS =====
-      if (foundTitles.size === 0 && foundItems.length === 0) {
-        result.innerHTML = ❌ Nem találtunk találatot ezzel a névvel: <b>${qRaw}</b>;
-        return;
-      }
-
-      let html = ✅ Találat: <b>${qRaw}</b><br><br>;
-
-      if (foundTitles.size) {
-        html += <b>📌 Ajánlós listák:</b><br>;
-        [...foundTitles].forEach(t => html += • ${t}<br>);
-        html += <hr>;
-      }
-
-      if (foundItems.length) {
-        html += <b>🧾 Bookline / táblázatos rendelések:</b><br>;
-        html += <ul>;
-        foundItems.forEach(it => html += <li>${it.replace(/^•\s*/, "")}</li>);
-        html += </ul>;
-      }
-
-      result.innerHTML = html;  // ⬅️ FIGYELD: PONT, nem kettőspont!
-    }
-
-    document.getElementById("btn").addEventListener("click", () => {
-    alert("KATT!");
-  search();
-});
-
-document.getElementById("name").addEventListener("keydown", (e) => {
-  if (e.key === "Enter") {
-    alert("ENTER!");
-    search();
+  // ékezetfüggetlen, kisbetűs összehasonlítás
+  function norm(s) {
+    return (s || "")
+      .toString()
+      .trim()
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, ""); // ékezetek leszedése
   }
-});
-  </script>
+
+  function stripQuotes(s) {
+    return (s || "").trim().replace(/^"+|"+$/g, "").trim();
+  }
+
+  function isTitleLine(line) {
+    // Ajánlós cím: tartalmaz kötőjelet/gondolatjelet és "lej"-t
+    const s = norm(line);
+    return /lej/.test(s) && (s.includes(" - ") || s.includes(" – ") || s.includes("-"));
+  }
+
+  function isNumberedName(line) {
+    // pl: "1. Kovács Anabella"
+    return /^\s*\d+\.\s+/.test(line);
+  }
+
+  function isNameHeader(line) {
+    // pl: NÉV: Kádár Krisztina   vagy  "NÉV: Kádár Krisztina"
+    const t = stripQuotes(line);
+    return /^\s*NÉV\s*:\s*/i.test(t);
+  }
+
+  function parseNameHeader(line) {
+    const t = stripQuotes(line).replace(/^\s*NÉV\s*:\s*/i, "").trim();
+    return t;
+  }
+
+  function isBulletItem(line) {
+    // pl: • Sárga – 50 lej    (idézőjelek lehetnek a sor végén/elején)
+    const t = stripQuotes(line);
+    return /^\s*[•\-\*]\s+/.test(t);
+  }
+
+  function cleanBulletItem(line) {
+    return stripQuotes(line).replace(/^\s*[•\-\*]\s+/, "").trim();
+  }
+
+  // A régi "Bakó Jánosi Annmária – Bookline rendelés DECEMBER 1." jellegű blokk is legyen támogatva:
+  function looksLikePersonOrderTitle(line) {
+    // tartalmazza: "Bookline rendelés" és van benne gondolatjel
+    const t = stripQuotes(line);
+    return /bookline\s+rendel[eé]s/i.test(t) && (t.includes(" – ") || t.includes(" - "));
+  }
+
+  // ----------- FŐ KERESŐ -----------
+  async function search() {
+    const raw = $("name").value.trim();
+    const q = norm(raw);
+    const result = $("result");
+
+    if (!q) {
+      result.innerHTML = "Írj be egy nevet 🙂";
+      return;
+    }
+
+    // 1) txt betöltés
+    let text = "";
+    try {
+      const res = await fetch("rendeles.txt?v=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      text = await res.text();
+    } catch (e) {
+      result.innerHTML = `<span class="err">Nem tudtam betölteni a rendeles.txt fájlt.</span><br>
+      Ellenőrizd, hogy a repo gyökerében van-e: <b>rendeles.txt</b> (ugyanott, ahol az index.html).`;
+      return;
+    }
+
+    const lines = text
+      .split(/\r?\n/)
+      .map(l => (l || "").trim())
+      .filter(l => l.length);
+
+    // TALÁLATOK
+    const foundRecommendations = new Set(); // ajánlós címek, ahol szerepel a név
+    const foundOrders = new Map(); // név -> tételek (rendelés)
+
+    // -------- 1) AJÁNLÓS LISTA (cím + 1. Név sorok) --------
+    let currentTitle = "";
+    for (const line0 of lines) {
+      const line = stripQuotes(line0);
+
+      if (isTitleLine(line)) {
+        currentTitle = line;
+        continue;
+      }
+
+      if (currentTitle && isNumberedName(line)) {
+        const namePart = line.replace(/^\s*\d+\.\s+/, "").trim();
+        if (norm(namePart).includes(q)) foundRecommendations.add(currentTitle);
+      }
+    }
+
+    // -------- 2) RENDELÉS LISTA (NÉV: ... + • tételek) --------
+    // plusz: régi Bookline rendelés blokk (név - Bookline rendelés...) + • tételek
+    let currentPerson = "";
+    for (let i = 0; i < lines.length; i++) {
+      const rawLine = lines[i];
+      const line = stripQuotes(rawLine);
+
+      // NÉV: fejléc
+      if (isNameHeader(line)) {
+        currentPerson = parseNameHeader(line);
+        continue;
+      }
+
+      // Bookline rendelés fejléc (régi blokk)
+      if (looksLikePersonOrderTitle(line)) {
+        // név a gondolatjel előtt
+        const parts = line.split("–").length > 1 ? line.split("–") : line.split("-");
+        currentPerson = (parts[0] || "").trim();
+        continue;
+      }
+
+      // bullet tétel
+      if (currentPerson && isBulletItem(line)) {
+        if (norm(currentPerson).includes(q)) {
+          const item = cleanBulletItem(line);
+          if (!foundOrders.has(currentPerson)) foundOrders.set(currentPerson, []);
+          // duplák ellen
+          const arr = foundOrders.get(currentPerson);
+          if (!arr.includes(item)) arr.push(item);
+        }
+      }
+    }
+
+    // -------- EREDMÉNY KIÍRÁSA --------
+    if (foundRecommendations.size === 0 && foundOrders.size === 0) {
+      result.innerHTML = ❌ Nem találtunk találatot ezzel a névvel: <b>${raw}</b>;
+      return;
+    }
+
+    let html = ✅ Találat: <b>${raw}</b><br><br>;
+
+    if (foundRecommendations.size) {
+      html += <b>📌 Ajánlós listák:</b><br>;
+      [...foundRecommendations].forEach(t => {
+        html += • ${t}<br>;
+      });
+      html += <br>;
+    }
+
+    if (foundOrders.size) {
+      html += <b>🛒 Rendelések (NÉV: ... / Bookline blokk):</b><br>;
+      for (const [person, items] of foundOrders.entries()) {
+        html += <div style="margin-top:10px;"><b>${person}</b> <span class="pill">${items.length} tétel</span><br>;
+        if (items.length) {
+          html += <ul>;
+          items.forEach(it => html += <li>${it}</li>);
+          html += </ul>;
+        } else {
+          html += <span class="muted">Nincs tétel sor (•)</span>;
+        }
+        html += </div>;
+      }
+    }
+
+    result.innerHTML = html;
+  }
+
+  // gomb + Enter
+  document.addEventListener("DOMContentLoaded", () => {
+    $("btn").addEventListener("click", search);
+    $("name").addEventListener("keydown", (e) => {
+      if (e.key === "Enter") search();
+    });
+  });
+
+  // ha a script a body végén van, DOMContentLoaded már lehet lefutott,
+  // ezért biztosra megyünk:
+  if (document.readyState !== "loading") {
+    $("btn").addEventListener("click", search);
+    $("name").addEventListener("keydown", (e) => {
+      if (e.key === "Enter") search();
+    });
+  }
+
+})();
+</script>
 </body>
 </html>
