@@ -208,7 +208,7 @@ li{ margin: 6px 0; }
 
     <div class="panel">
         <input id="name" placeholder="Pl. Kis Herceg" />
-        <button id="btn" type="button">Keresés</button>
+        <button id="btn" type="button">Megtekintés</button>
         <div id="ver" class="muted"></div>
         <div id="result" class="box" style="display:none"></div>
     </div>
@@ -355,16 +355,16 @@ li{ margin: 6px 0; }
       return;
     }
 
-    let html = "<b>Találtunk könyvet a te neved alatt:</b> <b>" + qRaw + "</b><br><br>";
+    let html = "<b>Kedves <b>" + qRaw + "</b> ezeket a címeket találtuk a nevedhez kapcsolódva :</b> <br><br>";
 
     if (foundA.length) {
-      html += '<div class="sec">Az általunk ajánlott könyvek közül:</div><ul>';
+      html += '<div class="sec">Az ajánlásaink nyomán választott könyvek:</div><ul>';
       foundA.forEach(t => html += "<li>" + t + "</li>");
       html += "</ul>";
     }
 
     if (foundB.length) {
-      html += '<div class="sec">Az általad kért könyvek közül:</div>';
+      html += '<div class="sec">Ezeken külün kérted:</div>';
       foundB.forEach(b => {
         html += "<b>" + b.name + "</b>";
         if (b.items.length) {
