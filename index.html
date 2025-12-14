@@ -50,7 +50,7 @@
 
   .header{
     display:flex;
-    flex-direction: column:
+    flex-direction: column;
     align-items:center;
     gap:16px;
   }
@@ -77,14 +77,14 @@
   }
 
   h2{
-    font size: 42 px;
-    font weight: 900;
+    font-size: 42 px;
+    font-weight: 900;
     letter-spacing: 1px;
   } 
     
   h3{
-    font size: 22 px;
-    font weight: 700;
+    font-size: 22 px;
+    font-weight: 700;
     color: rgba(255,255,255,.92);
     text-shadow: 0 2px 10 px rgba(0,0,0,.25);
   }
@@ -103,6 +103,7 @@
     font-size: 14px;
   }
   .sub b{ color: #fff; }
+    
   .sub span{
     color: var(--gold);
     font-weight: 700;
@@ -110,7 +111,7 @@
 
   .gold{
     color: #f6c45b;
-    font weight: 800;
+    font-weight: 800;
   }
     
   .panel{
@@ -207,13 +208,14 @@
   <div class="wrap">
     <div class="header">
       <div class="logo">
-        <img src="logo.png" alt="Kis Herceg">
-     
-      </div class="title">
-        <h2> <span class="gold"> KIS HERCEG KÖNYVESBOLT </span> </h2>
-        <h3> könyvrendelés kereső</h3>
+          <img src="logo.png" alt="Kis Herceg">
+       </div>
+       <div class="title">
+          <h2> <span class="gold"> KIS HERCEG KÖNYVESBOLT </span> </h2>
+          <h3> könyvrendelés kereső</h3>
       </div>
-
+    </div>
+    
     <p class="sub">
       Írd be a neved, és megnézzük van-e rendelésed nálunk jelenleg.
     </p>
@@ -222,7 +224,7 @@
         <input id="name" placeholder="Pl. Kis Herceg" />
         <button id="btn" type="button">Keresés</button>
         <div id="ver" class="muted"></div>
-        <div id="result" class="box">🔎 Kereséshez írd be a neved.</div>
+        <div id="result" class="box" style="display:none"></div>
     </div>
   </div>
 
@@ -335,11 +337,12 @@
     const qRaw = $("name").value || "";
     const tok = tokens(qRaw);
     const out = $("result");
-
+    out.style.display = "block";
+    
     out.innerHTML = "⏳ Keresés…";
 
     if (!tok.length) {
-      out.innerHTML = "🔎 Írj be egy nevet 🙂";
+      out.innerHTML = "none;
       return;
     }
 
