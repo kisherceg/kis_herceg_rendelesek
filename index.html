@@ -3,190 +3,20 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Kis Herceg könyvesbolt – rendelés kereső</title>
-
+  <title>Kis Herceg – Kereső</title>
   <style>
-    :root{
-      --card-bg: rgba(255,255,255,.82);
-      --card-border: rgba(255,255,255,.35);
-      --text: #1a1a1a;
-      --muted: rgba(0,0,0,.62);
-      --accent: #f2c14e;      /* arany csillag */
-      --accent2: #2f5aa6;     /* mélykék */
-      --btn-bg: rgba(47,90,166,.92);
-      --btn-bg2: rgba(47,90,166,.78);
-      --btn-text: #ffffff;
-      --shadow: 0 18px 50px rgba(0,0,0,.28);
-    }
-
-    * { box-sizing: border-box; }
-
-    body{
-      margin: 0;
-      min-height: 100vh;
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      color: var(--text);
-
-      /* háttér */
-      background-image: url("hatter.jpg");
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-    }
-
-    /* finom sötét fátyol, hogy olvasható legyen */
-    body::before{
-      content:"";
-      position: fixed;
-      inset: 0;
-      background: linear-gradient(
-        180deg,
-        rgba(6,12,28,.58),
-        rgba(6,12,28,.30),
-        rgba(6,12,28,.55)
-      );
-      pointer-events: none;
-      z-index: 0;
-    }
-
-    .wrap{
-      position: relative;
-      z-index: 1;
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 26px 14px 40px;
-    }
-
-    .card{
-      background: var(--card-bg);
-      border: 1px solid var(--card-border);
-      border-radius: 16px;
-      box-shadow: var(--shadow);
-      padding: 18px 18px 16px;
-      backdrop-filter: blur(6px);
-    }
-
-    .header{
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      margin-bottom: 10px;
-    }
-
-    .logo{
-      width: 54px;
-      height: 54px;
-      object-fit: contain;
-      border-radius: 12px;
-      background: rgba(255,255,255,.35);
-      padding: 6px;
-      border: 1px solid rgba(255,255,255,.25);
-    }
-
-    h1{
-      margin: 0;
-      font-size: 20px;
-      line-height: 1.15;
-      letter-spacing: .2px;
-    }
-
-    .subtitle{
-      margin: 8px 0 14px;
-      color: var(--muted);
-      font-size: 14px;
-    }
-
-    .row{
-      display: grid;
-      gap: 10px;
-      grid-template-columns: 1fr;
-    }
-
-    input{
-      width: 100%;
-      padding: 12px 14px;
-      font-size: 16px;
-      border-radius: 12px;
-      border: 1px solid rgba(0,0,0,.18);
-      outline: none;
-      background: rgba(255,255,255,.90);
-    }
-    input:focus{
-      border-color: rgba(47,90,166,.65);
-      box-shadow: 0 0 0 3px rgba(47,90,166,.18);
-    }
-
-    button{
-      width: 100%;
-      padding: 12px 14px;
-      font-size: 16px;
-      border-radius: 12px;
-      border: none;
-      cursor: pointer;
-      color: var(--btn-text);
-      background: linear-gradient(180deg, var(--btn-bg), var(--btn-bg2));
-      box-shadow: 0 10px 25px rgba(47,90,166,.25);
-      transition: transform .06s ease, filter .15s ease;
-    }
-    button:hover{ filter: brightness(1.04); }
-    button:active{ transform: translateY(1px); }
-
-    .result{
-      margin-top: 14px;
-      padding: 14px;
-      border-radius: 14px;
-      background: rgba(255,255,255,.78);
-      border: 1px solid rgba(0,0,0,.08);
-    }
-
-    .muted{ color: var(--muted); font-size: 13px; }
-
-    .secTitle{
-      margin: 14px 0 6px;
-      font-weight: 800;
-      font-size: 14px;
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 6px 10px;
-      border-radius: 999px;
-      background: rgba(242,193,78,.18);
-      border: 1px solid rgba(242,193,78,.35);
-    }
-
-    ul{ margin: 8px 0 0 18px; }
-    li{ margin: 4px 0; }
-
-    .badge{
-      display:inline-block;
-      padding: 3px 8px;
-      border-radius: 999px;
-      border: 1px solid rgba(0,0,0,.12);
-      background: rgba(255,255,255,.8);
-      font-size: 12px;
-      color: rgba(0,0,0,.70);
-      margin-top: 10px;
-    }
-
-    .smallTop{
-      margin-top: 10px;
-      display:flex;
-      justify-content: space-between;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-
-    .footerNote{
-      margin-top: 10px;
-      font-size: 12px;
-      color: rgba(0,0,0,.55);
-    }
+    body { font-family: Arial, sans-serif; max-width: 680px; margin: 0 auto; padding: 18px; }
+    input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box; }
+    button { margin-top: 10px; padding: 12px; width: 100%; font-size: 16px; cursor: pointer; }
+    .box { margin-top: 14px; padding: 12px; border: 1px solid #ddd; border-radius: 10px; }
+    .muted { opacity: .75; font-size: 12px; margin-top: 8px; }
+    .sec { font-weight: bold; margin: 10px 0 6px; }
+    ul { margin: 6px 0 10px 20px; }
+    code { background:#f3f3f3; padding:2px 6px; border-radius:6px; }
   </style>
 </head>
-  
 <body>
-  <h2>📚 Kis Herceg könyvesbolt - könyvrendelés kereső</h2>
+  <h2>📚 Kis Herceg – Név szerinti kereső KÉT TXT FILE</h2>
   <p>Írd be a neved, és megnézzük az <b>ajánlás</b> és a <b>rendelés</b> listákat.</p>
 
   <input id="name" placeholder="Pl. Kádár Krisztina" />
