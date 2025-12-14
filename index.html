@@ -200,7 +200,7 @@
 
 <script>
 (() => {
-    const VERSION "";
+    const VERSION = "";
     const $ = (id) => document.getElementById(id);
 
   // ékezet- és idézőjel-toleráns keresés
@@ -243,10 +243,10 @@
     return m ? m[1].trim() : null;
   }
   function isBullet(line) {
-    return /^[•\\-]\s/.test((line || "").trim());
+    return /^[•\-]\s/.test((line || "").trim());
   }
   function cleanBullet(line) {
-    return (line || "").trim().replace(/^[•\\-]\s/, "").trim();
+    return (line || "").trim().replace(/^[•\-]\s/, "").trim();
   }
 
   async function loadTxt(file) {
@@ -364,7 +364,6 @@
   }
 
   document.addEventListener("DOMContentLoaded", () => {
-    $("ver").innerText = VERSION;
     $("btn").addEventListener("click", search);
     $("name").addEventListener("keydown", (e) => { if (e.key === "Enter") search(); });
   });
