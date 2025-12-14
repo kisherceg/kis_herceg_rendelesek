@@ -25,7 +25,7 @@
   <p class="muted">Írd be a neved, és kilistázzuk a tételeidet.</p>
 
   <input id="name" placeholder="Pl. Bíró Réka" />
-  <button onclick="search()">Keresés</button>
+  <button id="btn" type="button">Keresés</button>
 
   <div class="box" id="result">🔎 Kereséshez írd be a neved.</div>
 
@@ -173,6 +173,11 @@ async function search() {
 
   result.innerHTML = html;
 }
+ document.getElementById("result").innerHTML = "✅ JS betöltve, mehet a keresés.";
+document.getElementById("btn").addEventListener("click", search);
+document.getElementById("name").addEventListener("keydown", (e) => {
+  if (e.key === "Enter") search();
+});  
 </script>
 </body>
 </html>
