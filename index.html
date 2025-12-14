@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kis Herceg – Rendelés kereső</title>
+<style>
+  body{font-family:Arial;max-width:640px;margin:auto;padding:18px}
+  input{width:100%;padding:12px;font-size:16px;box-sizing:border-box}
+  button{margin-top:10px;padding:12px;width:100%;font-size:16px;cursor:pointer}
+  .box{margin-top:14px;padding:12px;border:1px solid #ddd;border-radius:10px}
+</style>
+</head>
+<body>
+<h2>📚 Kis Herceg – Név szerinti kereső</h2>
+<p>Írd be a neved, és kilistázzuk a tételeidet.</p>
+
+<input id="name" placeholder="Pl. Bíró Réka">
+<button onclick="search()">Keresés</button>
+
+<div class="box" id="result">🔎 Kereséshez írd be a neved.</div>
+
+<script>
+async function search() {
+  const q = document.getElementById("name").value.trim().toLowerCase();
+  const result = document.getElementById("result");
+  if (!q) { result.innerHTML = "Írj be egy nevet 🙂"; return; }
+
+  const res = await fetch("adat.csv", { cache: "no-store" });
+  const text = await res.text();
+
+  const lines = text.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
+  const rows = lines.slice(1).map(line => line.split(";").map(x => (x || "").trim()));
+
+  const hits = rows
+    .filter(r => (r[0] || "").toLowerCase().includes(q))
+    .map(r => ({ nev:r[0], tetel:r[1], ar:r[2], rendeles:r[3] }));
+
+  if (hits.length === 0) { result.innerHTML = "❌ Jelenleg nincs névre szóló csomag."; return; }
+
+  const byOrder = {};
+  hits.forEach(h => {
+    const key = h.rendeles || "Egyéb";
+    (byOrder[key] ||= []).push(h);
+  });
+
+  let html = "✅ Neked érkezett:<br><br>";
+  Object.keys(byOrder).forEach(order => {
+    html += <b>${order}</b><br>;
+    byOrder[order].forEach(item => {
+      html += • ${item.tetel} — ${item.ar} lej<br>;
+    });
+    html += "<br>";
+  });
+  result.innerHTML = html;
+}
+</script>
+</body>
+</html>
