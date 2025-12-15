@@ -11,14 +11,14 @@ A VARÁZSLATOS TÉRKÉP - 86 lej
 
 
 KARÁCSONYI ZONGORÁS KÖNYV - 87 lej
-1. Balla Erzsebet  - 3 db
+1. Balla Erzsebet  3 db
 2. Biró-Urbán Izabella
 3. Borbély Edina 
 4. Bör Blanka
 5. Condrat Anamaria
 6. Fulop Eva 
 7. Gergely Szidónia-Renáta
-8. Magyari Imola  - 2 db
+8. Magyari Imola  2 db
 9. Mészáros Tünde
 10. Szovátára 5 db
 
@@ -65,67 +65,44 @@ NEW YORK CAFÉ BUDAPEST - 84 lej
 
 
 BENEDEK ELEK KARÁCSONYA - 60 lej
-JÓKAI KARÁCSONYA - 60 lej
-1. Abran Csilla BENEDEK
-2. Biró Emese Eszter BENEDEK
-3. Bokor Dalma JÓKAI
-4. Enyedi Annamária BENEDEK
-5. Fazakas Andrea Tímea MIND2
-6. Fülöp Szász Márta MIND2
-7. Gáfli Orsolya MIND2
-8. Gál Attila MIND2
-9. Gergely Szidónia Renéta MIND2
-10. Gombkoto Eniko MIND2
-11. Gombos Réka MIND2
-12. Gyögy Renáta BENEDEK
-13. Győrfi Kátai Fanni BENEDEK
-14. György Erika MIND2
-15. Gyürgy Beáata MIND2
-16. Kacsó Klára MIND2
-17. Kiss Annamária MIND2
-18. Kiss Timi BENEDEK
-19. Kovács Anabella BENEDEK
-20. Kuron Apol JÓKAI
-21. Lőrincz Adél Emőke MIND2
-22. Magyari Csilla MIND2
-23. Magyari Szendi BENEDEK
-24. Máté Orsolya JÓKAI
-25. Meli Meli MIND2
-26. Mészáros Tünde BENEDEK
-27. Novák Ibolya MIND2
-28. Simó Ünige BENEDEK
-29. Simonfi Márta MIND2
-30. Suba Réka BENEDEK
-31. Szász Dalma Rózsa BENEDEK
-32. Szász Erzsébet BENEDEK
-33. Székely Kincső BENEDEK
-34. Szigeti Simon Emőke BENEDEK
-35. Szodorai Emőke BENEDEK - POSTA
-36. Szövérfi Katalin MIND2
-37. Tőkés Katalin BENEDEK
-38. Török Magdolna MIND2
-39. Trombitás Réka BENEDEK
-KARÁCSONY A CICAKÁVÉZÓBAN - 79 lej
-A MÉZESKALÁNY KÁVÉZÓ - 86 lej
-1. Borbély Edina  - MÉZESKALÁCS
-2. Gyorgy Erika  - MIND2
-3. Kalman Szidonia - MIND2 
-4. Kilyen Melinda - MÉZESKALACS
-5. Lőrincz Adél-Emőke MIND2
-6. Nagy Emese - MÉZESKALÁCS
-7. Szilágyi Tünde - CICAKÁVÉZÓ
+1. Abran Csilla 
+5. Fazakas Andrea Tímea 
+6. Fülöp Szász Márta 
+7. Gáfli Orsolya 
+10. Gombkoto Eniko 
+11. Gombos Réka 
+12. Gyögy Renáta 
+18. Kiss Timi 
+28. Simó Ünige 
+29. Simonfi Márta 
+31. Szász Dalma Rózsa 
+32. Szász Erzsébet 
+34. Szigeti Simon Emőke 
+37. Tőkés Katalin 
+39. Trombitás Réka 
 
+JÓKAI KARÁCSONYA - 60 lej
+5. Fazakas Andrea Tímea 
+6. Fülöp Szász Márta 
+7. Gáfli Orsolya 
+10. Gombkoto Eniko 
+11. Gombos Réka
+29. Simonfi Márta 
+
+KARÁCSONY A CICAKÁVÉZÓBAN - 79 lej
+7. Szilágyi Tünde
+
+A MÉZESKALÁNY KÁVÉZÓ - 86 lej
+6. Nagy Emese 
 
 3 PERC ISTENNEL - 52 lej
 1. Baricz Gyöngyi
-2. Batori Timea
 3. Demian Emőke Zsuzsanna
 4. Fechete Bàlint Adél
 5. Iszlai Erzsébet 
-6. Kacso Ilus  - 2 db
 7. Kádár Helga 
 8. Kedei Dalmi 
-9. Pap-Szász Ilonka - 2 db
+9. Pap-Szász Ilonka 2 db
 10. Pop-Frunza Emese
 11. Szabó Boglárka
 12. Szőcs Judith 
@@ -133,13 +110,9 @@ A MÉZESKALÁNY KÁVÉZÓ - 86 lej
 
 ESZTENDŐ KEREKE 93 lej
 1. Bartus Éva Andrea 
-2. Báthori Zsuzsánna
 3. Csiszér Edithke
-4. Dosa Ildiko Reka 
 5. Gombos Réka
-6. Laszlo Zsuzsanna
 7. Lukàcs Erika
-8. Magyari Csilla
 9. Melinda Meli
 10. Sebestyén Orsolya
 11. Suba Réka
@@ -147,19 +120,15 @@ ESZTENDŐ KEREKE 93 lej
 13. Vigh Noémi
 
 
-KARÁCSONYI ÉNEKES MESEKÖNYV - 57 lej
-1. Csiki Annamária 2 db
 
 
 DÖME - SEGÍTSÉG ELVESZTEM! - 51 lej
 1. Csiki Viktória
-2. Csiki Annamária
 3. Szász Dalma Rózsa
 
 
 50 RAJZ A HONFOGLALÓKRÓL - 48 lej
 1. Biró-Kis Gyopár
-2. Magyari Csilla
 3. Melinda Meli
 4. Molnar Judit 
 5. Suba Réka
@@ -169,21 +138,14 @@ DÖME - SEGÍTSÉG ELVESZTEM! - 51 lej
 JEGES VILLANÁS - 84 lej
 1. Borbely Szekeres Etelka
 2. Csiki Viktória 
-3. Gyorgy Erika 
-4. Kálmán Bernadette
-5. Lőrincz Adél-Emőke
 6. Mátyás Henrietta 
-7. Siklodi Jaci
 8. Simon Tundi 
 
 
 NÉGYKÉZLÁB - 79 lej
-1. Balla Dalma-Edina 
 2. Bereczki Henrietta
-3. Csiki Beáta
 4. Kalman Szidonia 
 5. Pásztor Bernadette
-6. Siklodi Jaci
 
 
 
@@ -205,7 +167,7 @@ LOTTI, A TÖLGYTÜNDÉR - 48 lej
 3. Melinda Meli
 4. Nemeth Erzsebet
 5. Puja Orsolya
-6. Szántó Adrien - 2 db
+6. Szántó Adrien 2 db
 
 
 SUNLIGHT  - NAPFÉNY - 84 lej
@@ -215,21 +177,15 @@ SUNLIGHT  - NAPFÉNY - 84 lej
 A GYERMEKKOR TITKA - MONTESSORI - 79 lej
 1. Bartus Éva Andrea 
 2. Bereczki Éva
-3. Bokor Dalma-Timea
 4. Csaba Katalin Rózália
 5. Gombos Réka
 6. Lukàcs Erika
 7. Melinda Meli
 8. Nagy Noémi
-9. Pál Zsuzsánna
 10. Papp Tímea
 11. Szabo Zsuzsa
-12. Szekely Iringo
 13. Szövérfi Renáta 
 14. Török Kinga-Timea
-15. Zajzon Melinda
-16. Zolnai Sarolta
-17. Zsido Jutka 
 
 
 LÁTLAK TÉGED - 80 lej
@@ -239,77 +195,82 @@ LÁTLAK TÉGED - 80 lej
 
 KÖNNYEIDBŐL SZÍNES TOLLAK - 78 lej
 1. Csiki Viktória
-2. György Erika
 3. Szőcs Orsolya (dr.)
 
+A VÍZ SZÖVETSÉGE - 98 lej
+1. Melinda Meli
+2. Csiki Viktória
+
+HA ELSZÁMOLOK TÍZIG - 77 lej
+1. Szász Dalma Rózsa
+2. Marton Júlia
+3. Draxel Brigitta
+
+TÜZIJÁTÉK FINDUSZNAK - 51 lej
+1. Gáspár Tímea
+
+MESÉLJ NEKEM NAGYMAMA - 65 lej
+1. Bakó-Csegzi Erika
+2. Barabási Réka Renáta 2 db
+3. Imreh Eszter
+4. Máthé Andrea Zsuzsanna 
+
+TESTVÉRKÖNYV - 57 lej
+1. Bárdos Katalin Orsolya
+2. Biró-Kis Gyopár
+3. Frunza Péterfi Orsolya
+4. Gálfi Andrea
+5. Gálfi Orsolya
+6. Sebestyén Orsolya
+7. Ursache Enikő
+
+PAMACS KARÁCSONYFÁJA - 63 lej
+1. Csaba Katalin Rózália
+2. Csizmadia Brigitta
+3. Gálfi Orsolya
+4. Jákob Katalin Blanka
+5. Siklódi Ildikó
+6. Szász Dalma Rózsa
+
+KI VISZ MAJD HAZA? - 39 lej
+1. Trombitás Réka
+
+SZÉP KARÁCSONY - 54 lej
+1. Fazakas Andrea Tímea
+2. Gombkoto Enikő
+3. Lukács Boglárka
+4. Tokos Dóra
+
+KARÁCSONYI NAPLÓ - FÁBIÁN JANKA - 73 lej
+1. Duka Erika
+2. Fodor - Bartha Annamária
+3. Kiss Margit
+4. László Zsuzsanna
+5. Nagy Adorjáni Emőke
+6. Pásztor Bernadette
+7. Szász Dalma Rózsa
+
+BORI BÍZIK, MAGÁBAN, BERCI LOVAGVÁRBAN - 17 LEJ DB
+1. Bea Bea
+
+EGY SZÍV KARÁCSONYRA - 128 LEJ
+1. Paizs Gyöngyi
+2. Csiki Viktória
+3. Havadtői Beáta Nikoletta
 
 
 
+MINDIG TÖRTÉNIK VALAMI A DEÁKIBAN - 64 lej 
+1. Bakó Renáta 
+2. Kiss Annamaria 
+3. Kovács Szende 
+4. Szász Sztroja Melinda
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MINDIG TÖRTÉNIK VALAMI A DEÁKIBAN - 64 lej - 1. rész
-TUD RÓLUNK VALAKI A DEÁKIBAN - 74 lej - 2. rész
-1. Bakó Renáta - 1. RÉSZ
-2. Kiss Annamaria - MIND2
-3. Kovács Szende  - MIND2
-4. Szász Sztroja Melinda - MIND2
-5. Szilágyi Tünde - 2. RÉSZ
+TUD RÓLUNK VALAKI A DEÁKIBAN - 74 lej 
+2. Kiss Annamaria 
+3. Kovács Szende 
+4. Szász Sztroja Melinda 
+5. Szilágyi Tünde 
 
 
 CSODALÁMPA - DÍNÓK - 74 lej
@@ -374,7 +335,7 @@ DUBAJ GÉSÁI - 72 lej
 18. Kálmán Bernadette
 19. Kalman Szidonia 
 20. Kocsis Gabriella
-21. M Orban Kinga - 2 db
+21. M Orban Kinga 2 db
 22. Suba Ibolya 
 23. Szőcs Kinga 
 24. Szövérfi Ildikó
@@ -409,7 +370,7 @@ MESÉK A SZÁZHOLDAS PAGONYBÓL - 61 lej
 5. Iszlai Brigitta
 6. Jakab Andrea 
 7. Kacsó Natália
-8. Kiss Eniko - 2 db
+8. Kiss Eniko 2 db
 9. Makkai Krisztina
 10. Néma Andrea
 11. Nemeth Erzsebet
@@ -424,17 +385,17 @@ BARTÓK ÉS A TÜCSÖKLAGZI - 70 lej
 5. Kacsó Beáta
 6. Kacso Klara
 7. Kálmán Bernadette
-8. Kiss Eniko - 2 db
+8. Kiss Eniko 2 db
 9. Kürti Emőke 
 10. Lázár Anna
 11. Lokodi Margit
 12. Magyari Csilla
 13. Péter-Györgyi F. Debora
 14. Sebestyén Orsolya
-15. Szabó Ziti - 3 db
+15. Szabó Ziti 3 db
 16. Szász Dalma-Rózsa
 17. Szász Márta 
-18. Szerényi Henrietta - 2 db
+18. Szerényi Henrietta 2 db
 19. Zolnai Sarolta
 
 
@@ -451,7 +412,7 @@ CSEREBERE AZ ERDŐBEN - 52 lej
 4. Gáspár Tímea
 5. Magyari Szendi
 6. Mészáros Tünde
-7. Siklodi Jaci - 2 db
+7. Siklodi Jaci 2 db
 8. Szilagyi Cornea Noemi 
 
 
@@ -471,7 +432,7 @@ A LEGELSŐ KARÁCSONY - 46 lej
 
 ÖSSZECSERÉLT AJÁNDÉKOK - 39 lej
 1. Csiki Annamaria
-2. Csiki Viktória  - 2 db
+2. Csiki Viktória  2 db
 3. Imola Pap
 4. Mathe Andrea Zsuzsanna
 
@@ -491,7 +452,7 @@ A LEGELSŐ KARÁCSONY - 46 lej
 
 
 AZ 5 SZERETETNYELV - ISTENRE HANGOLVA - 52 lej
-1. Balla Kinga Erzsébet - 3 db
+1. Balla Kinga Erzsébet 3 db
 2. Báthori Zsuzsánna
 3. Csaba Katalin Rózália
 4. Csiki Annamaria
