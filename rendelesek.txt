@@ -1,185 +1,333 @@
-<!-- ****** január 12.***** -->
-
+<!-- ****************************** január 19.***************************************** -->
+"NÉV: Bakó Renáta
+• Tud rólunk valaki a Deákiban – 69 lej"
+"NÉV: Barabási Anita
+• A bosszú otthona – 75 lej"
+• A titok otthona – 76 lej
+"NÉV: Barabási Eszter
+• Ármány és kézfogó Ambrózy báró esetei III. – 72 lej"
+"NÉV: Bari Ibolya Zsuzsanna
+• A legfényesebb csillag – 60 lej"
 "NÉV: Bereczki Krisztina
-• Ki bújt el? Tengeri állatok – 32 lej"
-• Bogyó és Babóca Csigás ablakos könyv – 48 lej
-"NÉV: Borbély Izabella
-• Érints meg (febr 12.) – 32 lej"
+• Piroska és a farkas – 16 lej"
+• Malacbújócska – 32 lej
+• Első kukucs könyvem – 27 lej
+• Pihe, a lepkelány – 18 lej
+• Fürödj velünk Házi kedvencek – 17 lej
+• Állatok a ház körül  KÉSŐBB ferb 15. – 15 lej
+• Útra készen!  KÉSŐBB ferb 15. – 12 lej
+"NÉV: Bodó Delinke 
+• Babanapló – 67 lej"
+"NÉV: Borbély Beáta
+• Légy oly jó és ölj meg – 32 lej"
+"NÉV: Boros Dalma Zsuzsanna
+• Vadon termő gyümölcs – 32 lej"
+• Fák határozó kézikönyvek – 70 lej
 "NÉV: Csalóka Júlia
-• Akár a folyó – 55 lej"
+• Karácsonyi napló – 70 lej"
+"NÉV: Csibi Erika
+• Jóskönyv  KÉSŐBB ferb 15. – 71 lej"
+• Apám meghal NINCS – 63 lej
+• Mi vagyunk a medvék – 51 lej
+"NÉV: Draxel Brigitta
+• Szent Johanna Gimi 3. rész – 55 lej"
+"NÉV: Gombos Kinga
+• A diótörő és az egérkirály – 83 lej"
+"NÉV: Győrfi Bernadett
+• Ugly love – 48 lej"
+"NÉV: Kádár Norbi
+• Futótűz – 88 lej"
+"NÉV: Károly Kincső
+• Apák fiúk – 54 lej"
+"NÉV: Magyari Edina
+• Testvérgyilkos – 48 lej"
+• Végső dalnok – 68 lej
+"NÉV: Marton Bíborka
+• Brutal prince – 69 lej"
+"NÉV: Marton Tímea Aranka 
+• Belső családrendszer – 66 lej"
+"NÉV: Miklósi Kincső
+• Kitelepítés   KÉSŐBB ferb 15. – 60 lej"
+• Különben magyar költő vagyok – 32 lej
+"NÉV: Molnus Emese
+• Szeret, nem szeret – 32 lej"
+• Imádom, utálom – 32 lej
+"NÉV: Nagy Timi
+• Állati jó cimborák – 66 lej"
+• Nem rossz állatok – 66 lej
+"NÉV: Pál Kriszta
+• S.O.S. állatmentők – 36 lej"
+• Sminkpárbaj – 36 lej
+"NÉV: Pap Szász Ilonka
+• Hamupipőke – 16 lej"
+• A béka királyfi – 16 lej
+• Holle anyó  KÉSŐBB ferb 15. – 16 lej
+• Jancsi és Juliska – 16 lej
+• Piroska és a farkas – 16 lej
+• Csipkerózsika – 16 lej
+"NÉV: Ravasz Beáta
+• A füredi földesúr – 83 lej"
+"NÉV: Suba Réka
+• Gyommentes kertészkedés – 90 lej"
+• Fák a kertben  KÉSŐBB ferb 15. – 67 lej
+• Gyümölcstermesztés  – 81 lej
+"NÉV: Szopos Bernadett
+• A szív szabadságharcosai – 31 lej"
+• A nők – 83 lej
+• Mindig történik valami a Deákiban – 63 lej
+"NÉV: Szőcs Kinga
+• Szerintem Náray – 88 lej"
+"NÉV: Szőcs Orsolya dr.
+• Barbara - Az esély 3. rész NINCS – 77 lej"
+"NÉV: Szőcs Orsolya LEADER
+• Álszemérem – 32 lej"
+
+
+<!-- ****************************** január közepe - hozzánk küldött ***************************************** -->
+
+
+"NÉV: Aszalos Henrietta
+• A bosszú otthona  – 76 lej"
+"NÉV: Badics Petra 
+• Vadviragok 1. rész – 66 lej"
+• Vadviragok 2. rész – 77 lej
+• Vadviragok 3. rész – 58 lej
+• A holland ház  – 83 lej
+• Akar a folyó  – 56 lej
+"NÉV: Balázsi Kinga
+• Esküdt ellenségek  – 70 lej"
+"NÉV: Bandi Ágota 
+• Hogyan dolgozz magadon KÉSŐBB ferb 15. – 66 lej"
+• Hogyan legyél te magad a szeretet  – 76 lej
+"NÉV: Bárdos Emőke
+• Jeges villanás  – 81 lej"
+"NÉV: Bereczki Bogi
+• Limada péksége  KÉSŐBB ferb 15. – 102 lej
+"NÉV: Boga Szász Tímea
+• Árvák  – 83 lej"
+"NÉV: Borbély Blanka
+• Büszkeség és balítélet  – 48 lej"
+"NÉV: Császár Anita
+• Geronimo karacsonyi  NINCS – 0 lej"
+• Főzőskönyv Dragomán György NINCS – 0 lej
+"NÉV: Csiszer Éva
+• Zizi naplója 1 – 48 lej"
+"NÉV: Demian Ibolya
+• Az öröm könyve 2 db  – 2x67 lej"
+"NÉV: Gal Katalin 
+• Never too late   KÉSŐBB ferb 15. – 31 lej"
+"NÉV: Galfi Andi
+• Alex számos kalandjai  KÉSŐBB ferb 15. – 19 lej"
+• Előírt matematika 1.osztály  KÉSŐBB ferb 15. – 13 lej
+• Matematika 10-es, 20-as számkör  – 15 lej
+• Két munkafüzet egyben NINCS – 0 lej
+"NÉV: Gombos Kinga
+• Funtineli boszorkány 1. része  – 55 lej"
+• Funtineli boszorkány 2. része  – 61 lej
+• Funtineli boszorkány 3. része  – 55 lej
+"NÉV: Gombos Réka
+• A remény könyve – 61 lej"
+"NÉV: Gyorgy Erika
+• Akár a folyó – 56 lej"
+"NÉV: Incze Irénke
+• Megtört szív  – 31 lej"
+"NÉV: Kacsó Vilmos
+• Az Olimposz hősei – 61 lej"
+"NÉV: Kádár Árpád
+• Assasin’s creed – 61 lej"
+"NÉV: Kovács Henrietta
+• A suttogó titkai  – 67 lej"
+"NÉV: Molnár Beáta
+• A zsiráf aki nem félt egy napon – 0 lej"
+• A gomba alatt – 0 lej
+"NÉV: Nagy Rita 
+• Saint Malo könyvtárosa – 51 lej"
+"NÉV: Nemes Botond
+• Keresztenyseg Magyarorszagon – 96 lej"
+• A Zen Buddhizmus filozófiája – 45 lej
+• Gyere – 49 lej
+• Ha háború lenne nálunk – 42 lej
+"NÉV: Németh Erzsébet
+• Honlapon meséje Csata Éva  – 67 lej"
+"NÉV: Nyíri Nóra
+• 40 nyári nap – 67 lej"
+"NÉV: Rigmányi Teréz
+• A döntés – 73 lej"
+"NÉV: 755318462
+• Az ajándék – 85 lej"
+"NÉV: Szabó Emőke dr
+• Táltosmesék – 64 lej"
+• Álmoskönyv – 55 lej
+• Az élet virágának ősi titka – 85 lej
+• Nagy magyar ősgyűjtemént NINCS – 0 lej
+"NÉV: Szász Dalma Rózsa
+• Bogyó és Babóca érzelmek meséi  – 92 lej"
+"NÉV: Szász Edith 
+• Varázsceruza 1. osztály – 13 lej"
+• A némaértő olvasás alapjai – 17 lej
+"NÉV: Szőcs Henrietta
+• Arab fia NINCS – 0 lej"
+• Arab öröksége NINCS – 0 lej
+• Anya kérek még – 56 lej
+"NÉV: Tőkés Tünde
+• Akar a folyó  – 56 lej"
+"NÉV: Tokos Dóra
+• Nem bézsnek való vidék  – 128 lej"
+• Anna Freud - egy lány az apja árnyékában – 67 lej
+"NÉV: Ola Zita
+• Vadviragok 1. rész – 66 lej"
+• Vadviragok 2. rész – 77 lej
+• Vadviragok 3. rész – 58 lej
+"NÉV: Zolnai Éva
+• Elítéltek  – 85 lej"
+
+<!-- ****************************** január 26.***************************************** -->
+
+"NÉV: Bakó Jánosi Annamária
+• Négy évszak a Vadrózsa utcában – 54 lej"
+• A téboly otthona NINCS – 64 lej
+"NÉV: Bátori Tímea
+• Biológia érthetően  KÉSŐBB ferb 15. – 90 lej"
+"NÉV: Bokor Tímea
+• Mit csinálnak a gépek?  KÉSŐBB ferb 15. – 29 lej"
+"NÉV: Csalóka Júlia
+• Érzelmekről egyszerűen – 74 lej"
+"NÉV: Draxel Brigitta
+• A szent Johanna Gimi 4. rész – 55 lej"
+"NÉV: Jakab Annamária
+• Az éhes lélek gyógyítása – 47 lej"
+"NÉV: Józsa Dalma Lara
+• Frakk a macskák réme  KÉSŐBB ferb 15. – 30 lej"
+• Doktor Bubó – 36 lej
+• Binding 13 – 96 lej
+• Kééping 13 – 114 lej
+• Saving 6 – 114 lej
+"NÉV: Kacsó Katinka
+• Erről nem beszélünk – 42 lej"
+• Verity – 48 lej
+"NÉV: Koós Orsolya
+• Az ember a fellegvárban – 54 lej"
+• Sötét anyag – 60 lej
+"NÉV: Kovács Tímea
+• Számolás, viszonyítás  KÉSŐBB ferb 15. – 15 lej"
+• Írás előkészítés  KÉSŐBB ferb 15. – 15 lej
+• Azonosság, különbség  KÉSŐBB ferb 15. – 15 lej
+"NÉV: Makkai Krisztina
+• Az esszenciális élet 2 db – 2x202 lej"
+"NÉV: Nagy Tímea
+• A rövidlátó zsiráf és a többiek – 60 lej"
+"NÉV: Simon Tündi
+• Magyar népmesék nagykönyve – 60 lej"
+"NÉV: Tündér Tünde
+• Magyarország finom – 120 lej"
+• Bogyó és Babóca foglalkoztatókönyv 12 mesével – 85 lej
+"NÉV: Vass Ilma
+• Kalandok a város alatt – 42 lej"
+• Asterix 15 A perpatvar – 36 lej
+• A kígyó árnyéka – 45 lej
+• Asterix A fényerdő – 38 lej
+• Iskolások vicces könyve – 15 lej
+"NÉV: Zolnai Sarolta
+• Berci egy közönséges hernyó – 16 lej"
+• Berci és a megbocsátás  KÉSŐBB ferb 15. – 16 lej
+• Lili a hazudós légy  KÉSŐBB ferb 15. – 16 lej
+• Zumi a neveletlen méhecske – 16 lej
+• Simon a nem imádkozó sáska – 16 lej
+• Beni a büdösbogár  KÉSŐBB ferb 15. – 16 lej
+• Zümi a zsémbes méhecske – 16 lej
+• Pali a félős pók – 16 lej
+• Dubravka a legeslegnagyobb ölelés – 36 lej
+
+<!-- ****************************** január 12.***************************************** -->
+
+"NÉV: Borbély Izabella
+• Érints meg – 32 lej"
 "NÉV: Cserey Krisztina
-• Losing hope Reményvesztett KÉSŐBB (febr 12.) – 48 lej"
-• Finding perfect Megvan a tökéletes KÉSŐBB (febr 12.) – 28 lej
-• Finding Cinderella KÉSŐBB (febr 12.) – 30 lej
-"NÉV: Farkas Szidónia
-• Nyúl Péter Első lapozóim – 42 lej"
-"NÉV: Fazakas Jáhel
-• Mahabharata – 118 lej"
-• Öngyógyító könyv – 54 lej
-• Hogyan ne sárkányodjunk el? – 44 lej
-• A szakrális új nő – 66 lej
-"NÉV: Gagyi Éva
-• Válás Budán – 32 lej"
-• Mágia – 48 lej
-"NÉV: Garda Emőke
-• Harry Potter és a Félvér Herceg – 71 lej"
+• Losing hope Reményvesztett – 48 lej"
+• Finding perfect Megvan a tökéletes – 28 lej
+• Finding Cinderella KÉSŐBB – 30 lej
 "NÉV: Józsa Dalma Lara
 • A court of thrones and roses – 83 lej"
-• Gyilkolni könnyű NINCS – 32 lej
-• Gyilkosság meghirdetve KÉSŐBB (febr 12.) – 48 lej
+• Gyilkosság meghirdetve KÉSŐBB (febr 15.) – 48 lej
 • A Mézga család  – 32 lej
-• Zengő ABC KÉSŐBB (febr 12.) – 34 lej
+• Zengő ABC KÉSŐBB – 34 lej
 • Vuk – 31 lej
-"NÉV: Kacsó Beáta
-• A tűzoltók Mi micsoda? – 32 lej"
 "NÉV: Kacsó Renáta Erzsébet
-• A tökéletes Mária test 2 db KÉSŐBB (febr 12.) – 2x lej"
-•  – 69 lej
-"NÉV: Keresztesi Klaudia
-• Nyúl Péter Első lapozóim – 42 lej"
+• A tökéletes Mária test 2 db – 2x69 lej
 "NÉV: Kovács Anabella
 • Szárnyak és bilincsek – 32 lej"
-• Mária Terézia KÉSŐBB (febr 12.) – 32 lej
+• Mária Terézia KÉSŐBB – 32 lej
 "NÉV: Lovász Detti
 • A téboly otthona The housemaid – 82 lej"
-"NÉV: Marton Alíz Eszter
-• Rózsakői rejtélyek – 55 lej"
-• Rózsakői rejtélyek 2 – 60 lej
-• Rózsakői rejtélyek 3 – 57 lej
-"NÉV: Marton Barbara
-• Alvilági románc 2 Stolen heir – 71 lej"
-"NÉV: Molnus Emese
-• Kiotó ahol a szerelem örök – 32 lej"
-• A szív hangja KÉSŐBB (febr 12.) – 32 lej
 "NÉV: Nagy Noémi
-• Fel a fejjel! – 32 lej"
-• Minden hiba kinyit egy ajtót – 36 lej
-• Domi és az érzelmek – 32 lej
-• Furi KÉSŐBB (febr 12.) – 42 lej
-• Az ugyanolyan királyfi – 57 lej
+• Furi KÉSŐBB  – 42 lej
+"NÉV: Molnus Emese
+• A szív hangja  – 32 lej
 "NÉV: Papp Tímea
-• Solito – 31 lej"
-• 101 színes kép a gépekről KÉSŐBB (febr 12.) – 31 lej
-• Philadelphia árvái – 31 lej
-• Grimm Családi mesék KÉSŐBB (febr 12.) – 31 lej
+• 101 színes kép a gépekről – 31 lej
+• Grimm Családi mesék – 31 lej
 "NÉV: Pécsi Tímea Éva
 • Catherine – 31 lej"
-• 101 színes kép a gépekről KÉSŐBB (febr 12.) – 31 lej
-"NÉV: Suba Réka
-• Foxwood összes meséje – 95 lej"
-• Süti a kisegér és a váratlan esemény – 48 lej
-"NÉV: Szabó Ziti
-• Viszontlátás a villában – 69 lej"
-• Az én konyhakertem NINCS – 32 lej
-• A messziről jött fiú NINCS – 32 lej
-• Fény a dombok mögött – 32 lej
-• A szív szabadságharcosai – 32 lej
-• Nő kék csillaggal – 32 lej
-• Magaságyások – 32 lej
-"NÉV: Szaló Henrietta
-• Keselyű – 60 lej"
-• Madárember – 60 lej
-• Idegen tollak – 60 lej
-"NÉV: Szőcs Orsolya LEADER
-• Diótörő – 72 lej"
+• 101 színes kép a gépekről  – 31 lej
 "NÉV: Thiesz Mária
-• Kosársuli KÉSŐBB (febr 12.) – 59 lej"
-• Kosársuli Újra a pályán – 59 lej
-• Kosársuli Visszajátszás – 59 lej
-• Kosársuli Új kihívók  – 69 lej
-"NÉV: Vass Ilma
-• A tenger útja – 55 lej"
+• Kosársuli  – 59 lej"
 "NÉV: Veres Heni
-• Az élet hangja KÉSŐBB (febr 12.) – 54 lej"
-"NÉV: Zolnai Sarolta
-• Muzsikáló madárház – 47 lej"
-• Dalok négy évszakra – 49 lej
+• Az élet hangja – 54 lej"
 
+<!-- ****************************** január eleje - hozzánk küldött ****************************** -->
 
-<!-- ****** január eleje - hozzánk küldött ****** -->
-
-
-"NÉV: Bács Blanka
-• Határtalan gondolatok 2026 – 76 lej"
 "NÉV: Baricz Rita Melinda
-• Négyszögletű kerek erdő KÉSŐBB (febr.12.) – 48 lej"
+• Négyszögletű kerek erdő – 48 lej"
 "NÉV: Bauer Ágnes
-• Minecraft könyv KÉSŐBB   (febr.12.) – 55 lej"
+• Minecraft – 55 lej"
 "NÉV: Bereczki Rozsi 
-• Ismerd meg a királyi nyelvtanulast KÉSŐBB   (febr.12.) – 31 lej
-"NÉV: Duka Erika
-• 5 szeretetnyelv Istenre hangolva  – 52 lej"
+• Ismerd meg a királyi nyelvtanulast – 31 lej
 "NÉV: Fűrészes Erzsébet 
 • Dinós hologramos könyv  – 138 lej"
 "NÉV: Galfi Andrea
-• Horváth Ilona illusztrált szakácskönyve KÉSŐBB (febr.12.) – 72 lej"
-• Horváth Ilona 2 db desszertes szakácsk KÉSŐBB  (febr.12.) – 52 lej
+• Horváth Ilona illusztrált szakácskönyve  – 72 lej"
+• Horváth Ilona 2 db desszertes szakácskönyve - 52 lej
 "NÉV: Gergely Gyopi 
-• A fiú, aki nem akart meghalni KÉSŐBB  (febr.12.) – 31 lej"
+• A fiú, aki nem akart meghalni – 31 lej"
 "NÉV: Hodor Délia
-• A zöld könyv KÉSŐBB  (febr.12.) – 30 lej"
-• Magukrahagyottak KÉSŐBB  (febr.12.) – 23 lej
+• A zöld könyv– 30 lej"
+• Magukrahagyottak – 23 lej
 "NÉV: Kacsó Irén 0726784921 
-• Colette KÉSŐBB   (febr.12.) – 88 lej"
+• Colette – 88 lej"
 "NÉV: Lukács Noémi Andrea 
-• Budapest Palotás Petra fizetve KÉSŐBB  (febr.12.) – 84 lej"
+• Budapest Palotás Petra – 84 lej"
 "NÉV: Makkai Krisztina
-• A baba első éve hellobaby! KÉSŐBB   (febr.12.) – 60 lej"
+• A baba első éve hellobaby! – 60 lej"
 "NÉV: Meli Meli
 • Diótörő  – 84 lej"
 • Csengettyű, a karácsonyi póni – 42 lej
 • Karacsony a cicakávézóban  – 63 lej
-"NÉV: Mihaly Erika
-• Marie Aude - Lélekdoki 1 évad   – 40 lej"
 "NÉV: Miklósi Kincső
 • Bánatos kurvaim emlékezete  – 36 lej"
-"NÉV: Nagy Boglárka  
-• Lotti öröksége NINCS  – 31 lej
-• Rózsa szíve NINCS – 31 lej
 "NÉV: Simon Réka
-• Skót kastélyok KÉSŐBB   (febr.12.) – 60 lej"
+• Skót kastélyok – 60 lej"
 "NÉV: Simon Tundi
-• Hegek KÉSŐBB   (febr.12.) – 60 lej"
-"NÉV: Szász Emőke
-• Hulla jó ajándék  – 50 lej"
-• A holló árnyéka  – 68 lej
+• Hegek – 60 lej"
 "NÉV: Szász Réka
-• Magukrahagyottak KÉSŐBB  (febr.12.) – 22 lej"
-• Mire a fák megnőnek KÉSŐBB  (febr.12.)  – 15 lej
+• Magukrahagyottak – 22 lej"
+• Mire a fák megnőnek  – 15 lej
 "NÉV: Székely Kincso
-• A Szoboszlai Sztori KÉSŐBB    (febr.12.) – 88 lej"
-"NÉV: Szkridon Anita
-• Bogyó és Babóca érzelmek  – 92 lej"
+• A Szoboszlai Sztori – 88 lej"
 "NÉV: Szőcs Orsi dr 
 • Hatartalan gondolatok 2026  – 76 lej"
 "NÉV: Tóth Gyöngyike
-• Budapest - Palotás Petra KÉSŐBB  (febr.12.) – 84 lej"
-• Boldogság - Muller Peter KÉSŐBB (febr.12.) – 71 lej
+• Budapest - Palotás Petra – 84 lej"
+• Boldogság - Muller Peter – 71 lej
 
 
-<!-- ****** január 5.******  -->
-"NÉV: Aszalos Nikoletta
-• Az Éden család – 80 lej"
+<!-- ****************************** január 5.***********************************  -->
 "NÉV: Bakó Renáta
 • Prédák háza – 67 lej"
-• Szerelem és egyéb szavak KÉSŐBB (jan. 26) – 38 lej
-"NÉV: Barabási Eszter
-• Beretva és tőr – 31 lej"
-"NÉV: Bari Bernadett Anita
-• Angol társalgás – 31 lej"
-• Gyógynövények Találj meg és használd fel! – 31 lej
-"NÉV: Bereczki Éva
-• Digitális téboly – 31 lej"
-"NÉV: Biró Ágota
-• Sapho  KÉSŐBB (jan 21.) – 31 lej"
-• Agytakarítás – 31 lej
-• A szív szabadságharcosai – 31 lej
-"NÉV: Biró Emese Eszter
+• Szerelem és egyéb szavak KÉSŐBB (febr. 15) – 38 lej
 "NÉV: Biró Noémi
 • Corrupt KÉSŐBB (febr 6.) – 86 lej"
 • Credence KÉSŐBB (febr 6.) – 81 lej
 "NÉV: Boga Szász Tímea
-• Keresd Andreát! – 31 lej
 • Álszemérem KÉSŐBB (febr 6.) – 31 lej
 • A szégyentelen KÉSŐBB (febr 6.) – 31 lej
 "NÉV: Codarcea Vivienn
@@ -187,15 +335,6 @@
 "NÉV: Cserey Krisztina
 • Álszemérem KÉSŐBB (febr 6.) – 31 lej"
 • Vonzó hagyaték KÉSŐBB  (febr. 6) – 31 lej
-"NÉV: Csiki Judit
-• Velence útvesztői  – 31 lej"
-"NÉV: Csiki Viktória
-• Az utolsó szemtanú – 84 lej"
-• Ujjbábos lapozó Kiscica – 31 lej
-• Az én kukucskönyvem A baba világa – 24 lej
-"NÉV: Csiszér Éva
-• A nyár amikor megszépültem – 57 lej"
-• Zizi naplója 1.  – 48 lej
 "NÉV: Dávid Csilla
 • Álszemérem KÉSŐBB (febr 6.) – 31 lej
 "NÉV: Draxel Brigitta
@@ -207,13 +346,7 @@
 • Dzsungeldzsem  KÉSŐBB (febr 6.) – 31 lej
 • Keményebb, mint a gyémánt  KÉSŐBB (febr 6.) – 31 lej
 "NÉV: Erdélyi Tünde
-• Sapho – 31 lej"
-• Egy olasz nyár – 31 lej
-• Kalandos kiruccanás Hawaiira – 31 lej
-• A szív hangja – 31noem lej
 • Álszemérem KÉSŐBB (febr 6.) – 31 lej
-• Pán Péter – 31 lej
-• Keresd Andreát  – 31 lej
 "NÉV: Gál Katalin
 • Az oroszlán leánya Úri csirkefogók 1. - 31 lej"
 • Az oroszlán leánya Úri csirkefogók 2. KÉSŐBB (febr 6.) – 31 lej
@@ -222,16 +355,8 @@
 • Lufi és Szamóca KÉSŐBB  –  lej"
 "NÉV: Gombos Réka
 • 5 szeretetnyelv Szólóban KÉSŐBB (febr 6.) – 48 lej"
-"NÉV: Györfi Bernadett
-• Bűnösök közt – 31 lej"
-• Saving 6 – 113 lej
-"NÉV: Győrfi Kátai Fanni
-• Húsz óra a halálig  KÉSŐBB (febr 6.) – 31 lej
 "NÉV: Incze Irénke
 • Megtör szív KÉSŐBB (jan 26.) – 31 lej"
-"NÉV: Kádár Simonfi Edith
-• Sapho – 31 lej"
-• Egy olasz nyár – 31 lej
 "NÉV: Kása Szidónia Irma
 • Újrajátszás – 82 lej
 "NÉV: Koós Orsolya
@@ -249,39 +374,19 @@
 • Mint a homokszemek KÉSŐBB (febr 6.) – 31 lej"
 "NÉV: Marton Orsolya Beáta
 • Csengettyűk – 72 lej"
-"NÉV: Molnár Beáta
-• Rohadjon meg az összes  – 31 lej"
-• Visszatérő álom – 31 lej
 "NÉV: Molnár Imola
 • Gyerekjáték a matek KÉSŐBB (febr 6.) – 31 lej"
-• Mistery game Bűntény a völgyben – 31 lej
-• Igaz barátok – 31 lej
 "NÉV: Molnus Emese
 • Kávéhercegnő KÉSŐBB (febr 6.) – 31 lej"
-• Vigyél haza – 31 lej
-• Egy olasz nyár – 31 lej
-• Berlin angyalai – 31 lej
 "NÉV: Nádori Csilla Beáta
 • Lufi és Szamóca KÉSŐBB (febr 6.) – 31 lej"
 "NÉV: Nagy Tímea
-• Lupin – 31 lej"
-• A második világháború – 31 lej
-• Ha nem volnátok – 31 lej
-• Agytakarítás – 31 lej
 • A hobbit KÉSŐBB (febr 6.) – 54 lej
-• A rezonancia törvényei – 31 lej
-• Fuck it, bazd meg – 31 lej
-• Szerintem – 88 lej
 • Horrostor  KÉSŐBB (febr 6.) – 31 lej
 "NÉV: Papp Tímea
 • A messziről jött fiú KÉSŐBB (febr 6.) – 31 lej
 "NÉV: Pécsi Tímea Éva
 • Vonzó hagyaték KÉSŐBB (febr 6.) – 31 lej
-"NÉV: Piron Nagy Szilvia
-• Sapho – 31 lej"
-• Sava Borsa – 31 lej
-"NÉV: Portik Szabó Krisztina
-• Életkör – 42 lej"
 "NÉV: Rigmányi Linda
 • Vonzó hagyaték KÉSŐBB (febr 6.) – 31 lej"
 "NÉV: Siklódi Orsolya
@@ -289,10 +394,6 @@
 "NÉV: Simon Tündi
 • Téveszmék KÉSŐBB (febr 6.) – 70 lej
 • Fitt konyha KÉSŐBB (febr 6.) – 31 lej
-"NÉV: Sófalvi Tímea
-• Álmok csokoládéboltja – 31 lej"
-• Gyógynövények Találd meg és használd fel! – 31 lej
-• Egy könyvmoly regényes élete – 31 lej
 "NÉV: Szabó Noémi Dalma
 • A messziről jött fiú KÉSŐBB (febr 6.) – 31 lej"
 • Róza szíve KÉSŐBB (febr 6.) – 31 lej
@@ -300,28 +401,12 @@
 • Szarvasbőgés KÉSŐBB (febr 6.) – 31 lej"
 • Álszemérem KÉSŐBB (febr 6.) – 31 lej
 • Róza szíve KÉSŐBB (febr 6.) – 31 lej
-"NÉV: Szopos Bernadett
-• Kölyökkutya gazdit keres – 31 lej"
-• A titok kertje – 31 lej
-• A szív hangja – 31 lej
-• 180 jóéjtmese  – 31 lej
-• A szív hangja – 31 lej
-• Domi és az érzelmek Dühös vagyok – 31 lej
-"NÉV: Szövérfi Leila
-• 101 kép a tanyáról – 31 lej"
-• Vízcseppmesék KÉSŐBB (jan 23.) – 31 lej
 "NÉV: Tóth Gyöngyike
 • Utálom, hogy szeretlek KÉSŐBB (febr 6.) – 31 lej
 
 
-
-<!-- ****** RÉGIEK ****** -->
+<!-- ****************************** RÉGIEK ****************************** -->
 "NÉV: Lészai Borbély Kinga
 • Titoktündér társasjáték – 48 lej"
 • Ég veled rémálom! Szia szép álom! – 38 lej
-"NÉV: Molnus Emese
-• A Szoboszlai sztori – 89 lej"
-• Egy karácsony éjszakára – 60 lej
-• Keress, találj, mesélj Karácsony – 36 lej
-
 
