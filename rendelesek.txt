@@ -2,11 +2,6 @@
 
 "NÉV: Alpár Ildi
 • Első napom az oviba KÉSŐBB febr 27. – 29 lej"
-"NÉV: Barabás Kork Izabella
-• Bori és a táncoló póni – 24 lej"
-• Bori filmforgatáson – 23 lej
-• Bori és a családi ünnep – 26 lej
-• Bori táborozik – 25 lej
 "NÉV: Barabási Eszter
 • Nász és téboly Ambrózy báró esetei KÉSŐBB febr 23. – 68 lej"
 "NÉV: Berei Beáta Imola
@@ -22,17 +17,11 @@
 • Csillámvarázs – 31 lej
 "NÉV: Dávid Csilla
 • A kezdet KÉSŐBB febr 23. – 22 lej"
-"NÉV: Demeter Csilla
-• És boldogan éltek – 47 lej"
 "NÉV: Erdélyi Tünde
 • Maradj – 80 lej"
 • Jóság néni csokija – 22 lej
-• Egy macska külföldön – 26 lej
+• Egy macska külföldön KÉSŐBB (febr 23.)– 26 lej
 • Mr Escobar – 23 lej
-"NÉV: Györfi Bernadett
-• Gild – 39 lej"
-• Glint – 43 lej
-• Promises we meant to keep – 43 lej
 "NÉV: Kádár Helga
 • Mesepszichológia – 52 lej"
 • Onyx sotorm – 99 lej
@@ -90,7 +79,7 @@
 "NÉV: Siklódi Orsolya
 • Diadalváros – 60 lej"
 "NÉV: Szabó Zsuzsa
-• Boribon rajzol – 36 lej"
+• Boribon rajzol KÉSŐBB (febr 23.)– 36 lej"
 "NÉV: Szopos Bernadett
 • Macska a karácsonyfa alatt – 51 lej"
 "NÉV: Szőcs Orsolya dr
@@ -135,10 +124,10 @@
 • Tücsökringató antikvár KÉSŐBB febr 25. – 60 lej"
 "NÉV: Hodor Delia
 • Wass Albert Mire a fák megnőnek antikvár KÉSŐBB febr 25. – 32 lej"
-"NÉV: Hajdú Emese
+"NÉV: Hajdu Emese
 • A kegyelem vonala  – 83 lej"
-• Ha összetörik egy szív  – 53 lej
-• Sötét vágyak fogságában  – 48 lej
+• Ha összetörik egy szív  KÉSŐBB – 53 lej
+• Sötét vágyak fogságában  KÉSŐBB – 48 lej
 • Intimitás és hasadás  – 112 lej
 • Ez nem atomfizika  – 63 lej
 "NÉV: Keresztesi Ildikó
@@ -301,76 +290,70 @@
 
 <!-- ****************************** január 5.***********************************  -->
 "NÉV: Biró Noémi
-• Corrupt KÉSŐBB (febr 17.) – 86 lej"
-• Credence KÉSŐBB (febr 17.) – 81 lej
+• Corrupt – 86 lej"
+• Credence – 81 lej
 "NÉV: Boga Szász Tímea
-• Álszemérem KÉSŐBB (febr 17.) – 31 lej
-• A szégyentelen KÉSŐBB (febr 17.) – 31 lej
-"NÉV: Codarcea Vivienn
-• Szarvasbőgés KÉSŐBB (febr 17.) – 31 lej
+• Álszemérem – 31 lej
+• A szégyentelen – 31 lej
 "NÉV: Cserey Krisztina
-• Álszemérem KÉSŐBB (febr 17.) – 31 lej"
-• Vonzó hagyaték KÉSŐBB  (febr. 17) – 31 lej
+• Álszemérem – 31 lej"
+• Vonzó hagyaték – 31 lej
 "NÉV: Dávid Csilla
-• Álszemérem KÉSŐBB (febr 17.) – 31 lej
+• Álszemérem – 31 lej
 "NÉV: Draxel Brigitta
-• Róza szíve KÉSŐBB (febr 17.) – 31 lej
-• A fiú, aki nem akart meghalni KÉSŐBB (febr 17.) – 31 lej
-• Kávéhercegnő KÉSŐBB (febr 17.) – 31 lej
+• Róza szíve NEM JÖN MEG – 31 lej
+• A fiú, aki nem akart meghalni - 31 lej
+• Kávéhercegnő – 31 lej
 "NÉV: Enyedi Annamária
-• Földre néző szem - égre néző lélek KÉSŐBB (febr 17.) – 31 lej
-• Dzsungeldzsem  KÉSŐBB (febr 17.) – 31 lej
-• Keményebb, mint a gyémánt  KÉSŐBB (febr 17.) – 31 lej
+• Földre néző szem - égre néző lélek – 31 lej
+• Dzsungeldzsem – 31 lej
+• Keményebb, mint a gyémánt – 31 lej
 "NÉV: Erdélyi Tünde
-• Álszemérem KÉSŐBB (febr 17.) – 31 lej
+• Álszemérem Ű – 31 lej
 "NÉV: Gál Katalin
-• Az oroszlán leánya Úri csirkefogók 1. - 31 lej"
-• Az oroszlán leánya Úri csirkefogók 2. KÉSŐBB (febr 17.) – 31 lej
-• Sosem elég Never too late KÉSŐBB (febr 17.) – 31 lej
+• Az oroszlán leánya Úri csirkefogók 2. - 31 lej"
+• Az oroszlán leánya Úri csirkefogók 3.  – 31 lej
+• Sosem elég Never too late NME JÖN MEG  – 31 lej
 "NÉV: Gombos Réka
-• 5 szeretetnyelv Szólóban KÉSŐBB (febr 17.) – 48 lej"
+• 5 szeretetnyelv Szólóban  – 48 lej"
 "NÉV: Koós Orsolya
-• Frankenstein  KÉSŐBB (febr 17.) – 31 lej"
+• Frankenstein  – 31 lej"
 "NÉV: Kürti Emőke
 • Gyökerek nélkül nem lehet repülni – 31 lej
-• Szarvasbőgésen KÉSŐBB (febr 17.) – 31 lej
-• Földre néző szem, égre néző lélek KÉSŐBB (febr 17.) – 31 lej
-• Téves riasztás KÉSŐBB (febr 17.) – 31 lej
+• Szarvasbőgésen – 31 lej
+• Földre néző szem, égre néző lélek – 31 lej
+• Téves riasztás – 31 lej
 "NÉV: László Erika
-• Szeret, nem szeret KÉSŐBB (febr 17.) – 31 lej
+• Szeret, nem szeret  – 31 lej
 "NÉV: Magyari Bara Erzsébet
-• Miami álarca KÉSŐBB (febr 17.) – 31 lej
+• Miami álarca – 31 lej
 "NÉV: Marton Alíz Eszter
-• Mint a homokszemek KÉSŐBB (febr 17.) – 31 lej"
+• Mint a homokszemek – 31 lej"
 "NÉV: Molnár Imola
-• Gyerekjáték a matek KÉSŐBB (febr 31.) – 31 lej"
+• Gyerekjáték a matek – 31 lej"
 "NÉV: Molnus Emese
-• Kávéhercegnő KÉSŐBB (febr 17.) – 31 lej"
+• Kávéhercegnő - 31 lej"
 "NÉV: Nádori Csilla Beáta
-• Lufi és Szamóca KÉSŐBB (febr 17.) – 31 lej"
+• Lufi és Szamóca – 31 lej"
 "NÉV: Nagy Tímea
-• A hobbit KÉSŐBB (febr 17.) – 54 lej
-• Horrostor  KÉSŐBB (febr 17.) – 31 lej
+• A hobbit – 54 lej
+• Horrostor – 31 lej
 "NÉV: Papp Tímea
-• A messziről jött fiú KÉSŐBB (febr 17.) – 31 lej
+• A messziről jött fiú – 31 lej
 "NÉV: Pécsi Tímea Éva
-• Vonzó hagyaték KÉSŐBB (febr 17.) – 31 lej
+• Vonzó hagyaték – 31 lej
 "NÉV: Rigmányi Linda
-• Vonzó hagyaték KÉSŐBB (febr 17.) – 31 lej"
+• Vonzó hagyaték KÉSŐBB – 31 lej"
 "NÉV: Siklódi Orsolya
-• Kitömött barbár  KÉSŐBB (febr 17.) – 31 lej
+• Kitömött barbár – 31 lej
 "NÉV: Simon Tündi
-• Téveszmék KÉSŐBB (febr 17.) – 70 lej
-• Fitt konyha KÉSŐBB (febr 17.) – 31 lej
+• Téveszmék – 70 lej
+• Fitt konyha – 31 lej
 "NÉV: Szabó Noémi Dalma
-• A messziről jött fiú KÉSŐBB (febr 17.) – 31 lej"
-• Róza szíve KÉSŐBB (febr 17.) – 31 lej
-"NÉV: Szaló Henrietta
-• Szarvasbőgés KÉSŐBB (febr 17.) – 31 lej"
-• Álszemérem KÉSŐBB (febr 17.) – 31 lej
-• Róza szíve KÉSŐBB (febr 17.) – 31 lej
+• A messziről jött fiú – 31 lej"
+• Róza szíve NEM JÖN MEG – 31 lej
 "NÉV: Tóth Gyöngyike
-• Utálom, hogy szeretlek KÉSŐBB (febr 17.) – 31 lej
+• Utálom, hogy szeretlek – 31 lej
 
 
 <!-- ****************************** RÉGIEK ****************************** -->
