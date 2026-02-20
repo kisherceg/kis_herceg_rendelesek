@@ -1,3 +1,106 @@
+
+<!-- ****************************** február 9.***************************************** -->
+
+"NÉV: Bakó Jánosi Annamária
+• Dioráma A naprendszer – 103 lej"
+"NÉV: Balázsi Ramóna
+• A vonzás törvénye – 61 lej"
+• A vonzás szépsége – 61 lej
+• A vonzás ereje – 61 lej
+• A vonzás hatalma – 61 lej
+"NÉV: Bereczki Boglárka
+• Utazás a mélybe – 26 lej"
+"NÉV: Bereczki Krisztina
+• Bogyó és Babóca Pöttyös ablakos könyv – 49 lej"
+• Dorottya a dongólány – 25 lej
+• Színes zöldésegek – 12 lej
+• Nézd meg milyen egy farm KÉSŐBB márc 1. – 33 lej
+"NÉV: Berei Beáta Imola
+• Én uram és legyőzöm – 64 lej"
+• Babaróka esti meséi – 49 lej
+"NÉV: Boros Dalma Zsuzsanna
+• A társ – 78 lej"
+• Magtermesztők könyve – 156 lej
+• Kártevők – 67 lej
+"NÉV: Csiki Viktória
+• A Riina ház – 77 lej"
+• Csókja megmondja – 48 lej
+• Minden jó, ha kisüt a nap – 61 lej
+"NÉV: Draxel Brigitta
+• Twis Oliver – 47 lej"
+• Nincs nyár nélküled – 56 lej
+• A dzsungel könyve – 19 lej
+• A Koppányi aga testamentuma – 37 lej
+• Tüskevár – 43 lej
+"NÉV: Fazakas Jáhel
+• Beavatás – 89 lej"
+• A most hatalma KÉSŐBB márc 1. – 52 lej
+"NÉV: Gergely Szidónia Renáta
+• Kovásziskola – 104 lej"
+"NÉV: Hajdu Emese
+• Ez nem atomfizika munkafüzet – 64 lej"
+"NÉV: Ildi Alpár
+• Bogyó és Babóca Érzelmek meséi – 90 lej"
+"NÉV: Jákob Katalin Blanka
+• Tavaszi böngésző – 61 lej"
+• Icinke Picinke – 45 lej
+• Bori színes világa – 25 lej
+"NÉV: Kádár Árpád
+• Assassins creed Reneszánsz KÉSŐBB márc 1. – 34 lej"
+"NÉV: Kádár Krisztina
+• Carrie Soto visszatér – 66 lej"
+• Amit sohase mondtam el KÉSŐBB márc 1. – 25 lej
+• Öt dráma  – 37 lej
+"NÉV: Kocsis Katalin
+• Az élet játéka – 27 lej"
+"NÉV: Lőrinczi Katalin
+• A szépség ritmusa – 128 lej"
+"NÉV: Magyari Edina
+• Stolen heir – 60 lej"
+• A pokol fiai – 75 lej
+• Empire of the Vampire Vámpírbirodalom KÉSŐBB márc 1. – 85 lej
+• Sorsdöntő pillanat – 78 lej
+• Lapokba zárt titkok – 60 lej
+• Ördögi kísértés – 79 lej
+• Kincs a Toszkán hó alatt – 81 lej
+• Ez a mi titkunk marad – 86 lej
+• Ha tökéletesek lennénk – 71 lej
+• Bloody heart – 81 lej
+• Savage heir – 77 lej
+• Lopott szerencse – 40 lej
+• Átkozott szerencse – 43 lej
+• Szavad ne feledd – 46 lej
+• Arran játékszere – 97 lej
+• Connor zsákmánya – 97 lej
+• Credence – 83 lej
+• Szókereső – 52 lej
+"NÉV: Nádori Csilla Beáta
+• Nagy könyv az autókról kis mesélőknek – 51 lej"
+• Képes szótáram Járművek – 22 lej
+• Bogyó és Babóca érzelmek meséi – 90 lej
+• El camino – 55 lej
+"NÉV: Nagy Noémi
+• Gyermekpszichodráma – 58 lej"
+• Normalitás és patológia KÉSŐBB márc 1. – 41 lej
+• Ég veled szorongás! Szia optimizmus! – 37 lej
+• Sémáink fogságában  KÉSŐBB márc 1. – 65 lej
+"NÉV: Posztuly Tünde
+• Óvodás lettem – 54 lej"
+• Hogyan közlekedj a városban? – 54 lej
+"NÉV: Siklódi Nikolett
+• A remény rabjai – 78 lej"
+"NÉV: Simon Réka
+• Reggel és este – 49 lej"
+• Tudatos élet a gyakorlatban – 49 lej
+• Pont pont vesszőcske – 55 lej
+"NÉV: Szabó Emőke 
+• Táltosmesék – 64 lej"
+• Álmoskönyv – 55 lej
+• Az élet virágának ősi titka – 85 lej
+• Nagy magyar ősgyűjtemént NINCS – 0 lej
+"NÉV: Varga Csenge
+• Földre néző szem, Égre néző lélek KÉSŐBB márc 1. – 37 lej"
+
 <!-- ****************************** február 2.***************************************** -->
 
 "NÉV: Alpár Ildi
