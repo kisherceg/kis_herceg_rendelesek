@@ -3,11 +3,6 @@
 
 "NÉV: Bakó Jánosi Annamária
 • Dioráma A naprendszer – 103 lej"
-"NÉV: Balázsi Ramóna
-• A vonzás törvénye – 61 lej"
-• A vonzás szépsége – 61 lej
-• A vonzás ereje – 61 lej
-• A vonzás hatalma – 61 lej
 "NÉV: Bereczki Boglárka
 • Utazás a mélybe – 26 lej"
 "NÉV: Bereczki Krisztina
@@ -121,21 +116,11 @@
 • Verity – 48 lej
 "NÉV: Keresztesi Kinga
 • Európa NAPTÁR KÉSŐBB febr 23. – 25 lej
-"NÉV: Nagy Katalin
-• Vilkó útra kel – 52 lej"
-• Vilkó Afrikában – 52 lej
-• Örökszerda – 42 lej
-"NÉV: Nagy Tímea
-• Szem, kéz, pocak KÉSŐBB febr 23. – 36 lej"
-• Jázművek KÉSŐBB febr 23. – 16 lej
-• Első kukucs könyvem KÉSŐBB febr 23. – 27 lej
 "NÉV: Pataki Szidónia
 • Téli kert – 48 lej"
 • Slammed – 48 lej
 "NÉV: Szabó Zsuzsa
 • Boribon rajzol KÉSŐBB (febr 23.)– 36 lej"
-"NÉV: Szőcs Orsolya dr
-• Az utolsó reggel Párizsban – 51 lej"
 
 <!-- ****************************** február eleje - hozzánk küldött ***************************************** -->
 
