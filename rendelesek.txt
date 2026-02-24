@@ -41,7 +41,7 @@
 "NÉV: László Zsuzsanna
 • Vitamipar – 64 lej"
 "NÉV: Magyari Csilla
-• Vannak nálad sokkal rosszabb anyák 3 db – 61 lej"
+• Vannak nálad sokkal rosszabb anyák 3 db KÉSŐBB márc 9. – 61 lej"
 "NÉV: Májai Renáta
 • A szerelem üzenete – 57 lej"
 • A szerelem ára NINCS – 0 lej
@@ -111,7 +111,7 @@
 • Vörös Viktória: Ellenséges szobatárs – 55 lej"
 • Leiner Laura: 40 nyári nap – 67 lej
 "NÉV: Szodorai Emőke 
-• Anne és az Álmok háza – 51 lej"
+• Anne és az Álmok háza KÉSŐBB márc 9. – 51 lej"
 • Az ég minden kékje – 70 lej
 • Zodiákus akadémia – 83 lej
 "NÉV: Todoran Amália
@@ -127,7 +127,7 @@
 • Vuk - képeskönyv - 2 db  – 49 lej"
 • Pizsamaparti Babarókánál - 2 db  – 90 lej
 "NÉV: Zsu Zsuzsi 
-• Mire a fák megnőnek Wass Albert új könyv  – 62 lej"
+• Mire a fák megnőnek Wass Albert új könyv  KÉSŐBB márc 9.  – 62 lej"
 
 <!-- ****************************** február 9.***************************************** -->
 
