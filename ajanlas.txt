@@ -57,120 +57,59 @@ Tisztességes ajánlat - 50 lej
 14. Szávuly Ágota
 
 KICSIMACKÓ MEGFÁZOTT - 51 lej
-1. Bereczki Krisztina
 2. Csiki Annamaria
-3. Marton Zsoka 
-4. Szatmári Beáta 2 db
 
 KUCKÓZZ BE BORIVAL! - 27 lej
 1. Bakó-Jánosi Annamária
 2. Barabási Eszter 
-3. Bereczki Boglárka
 4. Bokor Tímea
 5. Imreh Eszter
 6. Kacsó Beáta
 7. Lázár Anna
 8. Sebestyén Orsolya
-9. Siklodi Jaci
-10. Simó Andrea Ünige
 11. Suba Tímea
-12. Szántó Adrien
-13. Török Kinga-Timea
 
 NEM KÍVÁNT HÁZASSÁG - 79 lej
-1. Boga Szász Tímea Renáta
-2. Borbely Szekeres Etelka
-3. Fodor Bartha Annamaria
 4. Gáll Reni
-5. Kalman Szidonia 
 6. Kása Szidónia-Irma
-7. Kilyen Melinda 
-8. Marton Zsoka 
-9. Pécsi Tímea Éva
-10. Szasz Erzsebet 
 11. Tőkés Tünde 
-12. Zsido Andrea
-13. Zsido Jutka 
 
 A LEGGAZDAGABB ÁRVA - 53 lej 
-1. Fabian Hajnal 
-2. Mihaly Hajnal 
-3. Szeredai Ildiko
 4. Veres Heni
 
 ELSUTTOGOM SZÁZSZOR - 53 lej 
 1. Emilia Izabella
-2. Kálmán Bernadette
 3. Kilyen Judit 
-4. Mihaly Hajnal 
 5. Puja Orsolya
 
 A FEKETE RÓZSA - 53 lej 
 1. Kuron Apol
 
-Gyerekek érzelmi intelligenciája - 45 lej
-1. Abran Csilla
-2. Ágnes Bodoni
-3. Báthori Zsuzsánna
-4. Bereczki Henrietta
-5. Bereczki Krisztina
-6. Biro Beata
+Gyerekek érzelmi intelligenciája - 46 lej
 7. Biro Eva 
-8. Borbély Delinke 
 9. Bör Blanka
-10. Csaba Katalin Rózália
-11. Csiszer Eva 
-12. Fogarasi Brigitta
-13. Gombos Réka
-14. Győrfi Kátai Fanni
-15. Heny Henike
-16. Kilyen Judit 
 17. Kovács Henrietta
-18. Kozma Orsii 
-19. Laszlo Zsuzsanna
-20. Magyari Emőke
-21. Marton Julia 
-22. Marton Zsoka 
-23. Mészáros Tünde
 24. Moldovan Renáta
 25. Páll Edina
-26. Peterfi Ibolya 
-27. Suba Réka
-28. Suba Tímea
-30. Szabadi Izabella 
-31. Szász Dalma-Rózsa
-32. Szász Júlia
 33. Szávuly Ágota
-34. Szőcs Judith 
-35. Szövérfi Leilla
+34. Csíki Bea
+35. Zsu Zsuzsa
 
 <!-- *********** FEBRUÁR 1. rendelések *********** -->
 
 A TÉBOLY OTTHONA - 86 lej
 2. Bancsi Timea 
-5. Kovacs Beata
-8. Pál Zsuzsánna
 10. Szávuly Ágota
 
-
-PINGVIN A BILIN - 49 lej          
-4. Csiki Annamaria        
+PINGVIN A BILIN - 49 lej             
 5. Foris Eva        
 6. György Beáta           
-9. Molnár Hortenzia     
-   
-TIGRIS FOGAT MOS - 49 lej      
-17. Csiki Annamaria                 
-19. Marton Noémi Emese        
     
-
 ROSEN DIVATSZALON - 85 lej
-1. Novák Erzsike
 2. Tóth Gyöngyike
 
 SZERELMES ABLAKOK - 65 lej
 8. Kacsó Natália
-10. Nemet Scheila Andrea
 
 BULLY - 72 lej
 4. Dalma-Edina Balla
@@ -178,8 +117,6 @@ BULLY - 72 lej
 10. Zsido Andrea
 
 PUMUKLI ÉS ÉDER MESTER - 58 lej
-4. Marton Orsolya 
-6. Molnár Hortenzia
 14. Balogh Blanka
 15. Nyulas Tímea
 16. Chiricuta Dorottya
@@ -187,7 +124,6 @@ PUMUKLI ÉS ÉDER MESTER - 58 lej
 
 A ZSIRÁF, AKI NEM FÉRT EL EGY LAPON - 39 lej
 3. Nagy Adorjáni Emőke
-4. Nagy Beáta
 
 <!-- *********** JANUÁR 15. rendelések *********** -->
 
