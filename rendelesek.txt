@@ -1,28 +1,120 @@
+<!-- ****************************** március 9 .***************************************** -->
+
+"NÉV: Aszalos Henrietta
+• Furcsaság a fejemben – 45 lej"
+"NÉV: Bokor Dalma Tímea
+• Bing Indulhat a vécévonat – 30 lej"
+• Bing Flop beteg – 30 lej
+• Bing Az üres medence – 30 lej
+• Bing Születésnapi ajándék – 30 lej
+"NÉV: Csalóka Imola
+• Lili a rózsabogár – 24 lej"
+• Pumukli nyári meséi – 53 lej
+• Kicsikről nagyoknak – 42 lej
+• Fejtörők a fociról – 24 lej
+• Foci – 24 lej
+"NÉV: Demeter Csilla
+• Himnusz az élethez – 75 lej"
+"NÉV: Farkas Szidónia
+• Kukucskálj keresgélj Hopp! – 41 lej"
+• Kukucskálj keresgélj! Tavasz az erdőben – 41 lej
+"NÉV: Józsa Dalma Lara
+• Riválisok játszma – 62 lej"
+• Volt egyszer egy összetört szív – 49 lej
+• A soha többé balladája – 59 lej
+• Egy átok az igaz szerelemért – 59 lej
+"NÉV: Keresztesi Klaudia
+• Húsvéti Móka Bluey – 24 lej"
+• Mesék minden évszakra Nyúl Péter – 87 lej
+"NÉV: Kocsis Roland
+• Akhilleusz dala – 59 lej"
+• Madeline Kirke – 65 lej
+"NÉV: Magyari Emese
+• Mate - A társ – 87 lej"
+• The sinner A bűnös – 93 lej
+"NÉV: Magyari Emese
+• A titkok otthona – 74 lej"
+"NÉV: Makkai Krisztina
+• Anya kérek még! – 54 lej"
+"NÉV: Mészáros Tünde
+• Történetek a Bibliából gyerekeknek – 81 lej"
+"NÉV: Papp Tímea
+• Bontsd le a korlátaidat – 33 lej"
+• Ébreszd fel a benned szunnyadó óriást – 25 lej
+"NÉV: Szabó Boglárka
+• Egy átok az igaz szerelemért – 59 lej"
+• Spectacular – 59 lej
+• Titkok alkímiája – 87 lej
+"NÉV: Székely Sándor
+• Kárhozott vér – 75 lej"
+• Boszorkánysüveg – 50 lej
+"NÉV: Szőcs Orsolya
+• Az esély Barbara Náray – 76 lej"
+"NÉV: Tóth Izabella
+• Egy ropi naplója 1. Dupla para – 41 lej"
+• Pitypang és a húsvéti nyúl – 35 lej
+• Ott maradtok egymásnak – 55 lej
+
+<!-- ****************************** hozzánk küldött - március közepe  ***************************************** -->
+
+"NÉV: Adorjáni Réka
+• Vilkó hazatér – 54 lej"
+• Kukucs mi mozog?  – 27 lej
+"NÉV: Balla Csilla
+• Félkegyelmű – 125 lej"
+• Feljegyzések az egérlyukból   – 48 lej
+"NÉV: Bereczki Rózsi
+• Angolul a trónon PONS  – 25 lej"
+"NÉV: Bíró Erika
+• A gonosz bűntársa  – 87 lej"
+"NÉV: Bocskay Eszter 
+• Füredi földesúr – 82 lej"
+• Füredi gyermek – 82 lej
+• Füredi lány – 82 lej
+• Zserbó 1. – 82 lej
+• Zserbó 2. – 82 lej
+• Talizman – 87 lej
+• Hunyadi – 87 lej
+"NÉV: Csecs Edith
+• Póniszív Anni talál egy pónit – 36 lej"
+"NÉV: György Erika
+• Az átmeneti feleség – 76 lej"
+• A rossz menyasszony  – 72 lej
+"NÉV: Kiss Zsuzsi
+• Toppancs 3 perces meséi  – 41 lej"
+"NÉV: Kovacs Dalma Fannitól elküldeni
+• Szent Johanna gimi 8. – 78 lej"
+"NÉV: Magyari Katalin
+• Ugly love – 48 lej"
+"NÉV: 752166808
+•  –  lej"
+"NÉV: Nyíri Anett
+• Szabályszegők – 72 lej"
+"NÉV: Nyulas Szász Ildikó  
+• A holdfeny őrei Az aranypók – 63 lej"
+"NÉV: Szabó Esztike
+• A öreg halász és a tenger KÉSŐBB ápr.vége. – 0 lej"
+"NÉV: Szász Dalma Rózsa
+• Bogyó és Babóca böngésző  – 59 lej"
+• Tökmagok a tűzhányón  – 39 lej
+• Matricás Laci kerítést lop – 33 lej
+• Patrik a pattanóbogár – 22 lej
+• Dalma a darázslány – 24 lej
+• Sün Soma álma – 47 lej
+• Patkány a táskában  – 36 lej
+• Pilvax tarsasjatek  – 56 lej
+"NÉV: Szopos Detti 
+• Egy igazán ölelés mese  – 59 lej"
+"NÉV: Todoran Emilia
+• A bosszú otthona  – 75 lej"
+
 <!-- ****************************** hozzánk küldött - március első hete ***************************************** -->
 
 "NÉV: Zsu Zsuzsa
 • Wass Albert Mire a fák megnőnek – 60 lej"
-"NÉV: Adorjáni Réka
-• Vilkó Afrikában – 53 lej"
-"NÉV: Molnár Imola
-• Mandala naptár 3 db – 86 lej"
 
 <!-- ****************************** március 2 .***************************************** -->
 
-"NÉV: Aszalos Tamara
-• 365 mese jégvarázs – 91 lej"
-"NÉV: Erdélyi Tünde
-• A csatár – 97 lej"
-"NÉV: Fazakas Jáhel
-• 100 magyar népmese NINCS – 0 lej"
-• Ovis jelek meséi Sárga – 64 lej
-• Ovis jelek meséi zöld – 64 lej
-• Szia, önuralom! – 37 lej
-• Szia, optimizmus! – 37 lej
-• Szia, figyelmesség! – 37 lej
-"NÉV: Fülöp Orsika felvíve Dettihez
-• Babaróka esti meséi – 49 lej"
-• Kicsimackó nagymamánál – 49 lej
 "NÉV: Lukács Erika
 • A most hatalma a gyakorlatban – 63 lej"
 • Új Föld – 81 lej
