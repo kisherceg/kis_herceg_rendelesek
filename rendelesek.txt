@@ -1,77 +1,96 @@
+<!-- ****************************** március 16. rendelés ***************************************** -->
+
+"NÉV: Benedekfi Mónika
+• Tentepente – 26 lej"
+• Kedves állatok Fürdőskönyv – 18 lej
+• Anya, tanítsd engem – 51 lej
+• Bébik Fürdőskönyv – 20 lej
+"NÉV: Bereczki Boglárka
+• Róka Robi és az óriás – 30 lej"
+"NÉV: Cserey Krisztina
+• The resurrection of wildflowers – 70 lej"
+• All you’re perfects  – 47 lej
+"NÉV: Enyedi Annamária
+• Távol telt tőled tavaszom – 33 lej"
+"NÉV: Józsa Dalma Lara
+• Karácsonyváró – 50 lej"
+• A zongoristaprojekt – 41 lej
+"NÉV: Magyari Csilla
+• Kalandos Kiruccanás Geronimo Stilton – 35 lej"
+• Szuperkupa döntő Geronimo Stilton – 39 lej
+• Szörmeresztő vidámpark Geronimo Stilton – 39 lej
+• Micsoda barátnők voltak – 99 lej
+• Ezerszer Júlia – 59 lej
+• Kedves apu – 41 lej
+• Kosz – 99 lej
+• Miért röhög a hiéna? ANT. KÉSŐBB ápr. közepe – 0 lej
+"NÉV: Nagy Tímea
+• Ismerd meg a szörnyeidet – 40 lej"
+• 180 jóéjtmese – 48 lej
+• Végre egy nyelvet beszélünk – 53 lej
+"NÉV: Siklódi Orsolya
+• Padmaly – 99 lej"
+"NÉV: Simó Ünige
+• Mit kezdjünk az akaratossággal? – 36 lej"
+"NÉV: Suba Tímea
+• Bori húsvéti foglalkoztatója – 18 lej"
+"NÉV: Szász Réka
+• Távol telt tőled tavaszom – 33 lej"
+"NÉV: Szigeti Simon Emőke
+• 100 grimm mese – 70 lej"
+• A herceg és én – 46 lej
+• A vikomt aki engem szeretett – 46 lej
+• Kicsik lapozgató Bibliája 2 db – 59 lej
+"NÉV: Szőcs Orsolya
+• Gyilkos elme – 74 lej"
+"NÉV: Vass Ilma
+• Háborgó csend – 54 lej"
+• Telihold – 13 lej
+• Fizika a fiókból – 26 lej
+• Merre van a bárhova? – 47 lej
+• Leleményes lelencek – 24 lej
+• Kémia a kamrából KÉSŐBB ápr. közepe – 27 lej
+• Így él Petőfi – 35 lej
+• Asterix 40. A fehér írisz – 33 lej
+• Az idő urai – 54 lej
+"NÉV: Zolnai Sarolta
+• Boribon tojást fest – 35 lej"
+
 <!-- ****************************** febr - márc***************************************** -->
 
-"NÉV: Adorjáni Réka
-• Vilkó hazatér – 54 lej"
-• Kukucs mi mozog?  – 27 lej
-"NÉV: Balla Csilla
-• Félkegyelmű – 125 lej"
-• Feljegyzések az egérlyukból   – 48 lej
 "NÉV: Bereczki Krisztina
 • Aki bújt, aki nem KÉSŐBB márc. 23.  – 23 lej"
 • Nézd meg milyen egy farm KÉSŐBB márc 23. – 33 lej
-"NÉV: Bereczki Rózsi
-• Angolul a trónon PONS  – 25 lej"
 "NÉV: Biró Erika
 • The lost sisters KÉSŐBB márc. 23.  – 25 lej"
-"NÉV: Biró Réka
-• Póniszív Erdei vetélkedő KÉSŐBB márc 23. – 37 lej"
-"NÉV: Bocskay Eszter 
-• Füredi földesúr – 82 lej"
-• Füredi gyermek – 82 lej
-• Füredi lány – 82 lej
-• Zserbó 1. – 82 lej
-• Zserbó 2. – 82 lej
-• Talizman – 87 lej
-• Hunyadi – 87 lej
 "NÉV: Boros Dalma Zsuzsanna
 • Termések KÉSŐBB márc. 23.  – 17 lej"
-"NÉV: Csecs Edith
-• Póniszív Anni talál egy pónit – 36 lej"
 "NÉV: Erdélyi Tünde
 • Egy macska külföldön KÉSŐBB márc 23. – 26 lej"
-"NÉV: Fazakas Jáhel
-• A most hatalma KÉSŐBB márc 23. – 52 lej"
-"NÉV: Gáll Reni
-• Imafüzet KÉSŐBB márc.13. – 24 lej"
-• Akit villámcsapás ért 2 db KÉSŐBB márc.23. – 63 lej
 "NÉV: Hajdu Emese
 • Ha összetörik egy szív KÉSŐBB márc 23. – 53 lej"
 • Sötét vágyak fogságában  – 48 lej
-"NÉV: Józsa Dalma Lara
-• Riválisok játszma – 62 lej"
-• Volt egyszer egy összetört szív – 49 lej
-• A soha többé balladája – 59 lej
-• Egy átok az igaz szerelemért – 59 lej
 "NÉV: Kádár Árpád
 • Assassins creed Reneszánsz KÉSŐBB márc 23. – 34 lej"
 "NÉV: Kádár Krisztina
 • Amit sohase mondtam el KÉSŐBB márc 1. – 25 lej"
 "NÉV: Keresztesi Klaudia
 • Húsvéti Móka Bluey KÉSŐBB – 24 lej"
-• Mesék minden évszakra Nyúl Péter – 87 lej
-"NÉV: Kovacs Dalma Fannitól elküldeni
-• Szent Johanna gimi 8. – 78 lej"
 "NÉV: Lukács Noémi FIZETVE
 • Budapest – 84 lej"
-"NÉV: Magyari Csilla
-• Vannak nálad sokkal rosszabb anyák 3 db KÉSŐBB márc.23. – 61 lej"
-"NÉV: Magyari Edina
-• Empire of the vampire KÉSŐBB márc.23. – 85 lej"
 "NÉV: Magyari Emese
-• Mate - A társ KÉSŐBB – 87 lej"
+• Mate - A társ  – 87 lej"
 "NÉV: Magyari Katalin
 • Ugly love – 48 lej"
 "NÉV: Molnár Hortenzia
 • Pettson és Findusz autót szerel  – 55 lej"
 "NÉV: Molnár Nóra
-• Szabadesés KÉSŐBB márc 23. – 48 lej"
+• Szabadesés KÉSŐBB  – 48 lej"
 "NÉV: Nagy Adorjáni Emőke
-• Képes szotaram az óvodában KÉSŐBB márc 23. – 22 lej"
-• Ordításmentes gyereknev. KÉSŐBB márc 23. – 38 lej
-"NÉV: Nagy Katalin
-• Örökszerda KÉSŐBB márc. 23. – 42 lej"
+• Képes szotaram az óvodában – 22 lej"
+• Ordításmentes gyereknev. – 38 lej
 "NÉV: Nagy Noémi
-• Normalitás és patológia KÉSŐBB márc.23. – 41 lej"
+• Normalitás és patológia  - 41 lej"
 "NÉV: Nyulas Szász Ildikó  
 • A holdfeny őrei Az aranypók – 63 lej"
 "NÉV: Puja Orsi
@@ -81,8 +100,6 @@
 • Jelenetek egy házasságból KÉSŐBB márc.23. – 25 lej
 "NÉV: Szabó Esztike
 • A öreg halász és a tenger KÉSŐBB ápr.vége. – 0 lej"
-"NÉV: Szabó Zsuzsa
-• Boribon rajzol KÉSŐBB márc. 23. – 36 lej"
 "NÉV: Szász Dalma Rózsa
 • Bogyó és Babóca böngésző  – 59 lej"
 • Tökmagok a tűzhányón  – 39 lej
@@ -92,14 +109,8 @@
 • Sün Soma álma – 47 lej
 • Patkány a táskában  – 36 lej
 • Pilvax tarsasjatek  – 56 lej
-"NÉV: Szász Edith
-• Némaértő olvasás KÉSŐBB márc 23. – 17 lej"
 "NÉV: Szodorai Emőke POSTA
-• Anne és az álmok háza KÉSŐBB márc. 23.  – 51 lej"
-"NÉV: Szopos Detti 
-• Egy igazán ölelés mese  – 59 lej"
-"NÉV: Szőcs Orsolya
-• Az esély Barbara Náray – 76 lej"
+• Anne és az álmok háza   51 lej"
 "NÉV: Thiesz Mária
 • A táncoló sárkány KÉSŐBB márc. 23.  – 49 lej"
 "NÉV: Todoran Amália
@@ -112,4 +123,3 @@
 • Földre néző szem, égre néző lélek KÉSŐBB márc.23. – 37 lej"
 "NÉV: Zsu Zsuzsa
 • Wass Albert Mire a fák megnőnek – 60 lej"
-• Gyerekek érzelmi intelligenciája – 46 lej
