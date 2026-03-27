@@ -1,18 +1,77 @@
-<!-- *********** MÁRCIUS 1. rendelések *********** -->
+<!-- *********** MÁRCIUS 15. rendelések *********** -->
+AZ ÉG MINDEN KÉKJE - 81 lej
+1. Fabian Hajnal 
+2. Gyorgy Erika 
+3. Kalman Szidonia 
+4. Kuron Apol
+5. Moldován Emese 
+6. Nagy Emese 
+7. Szabó Ziti
+8. Tőkés Tímea Andrea
 
-KALAND A HÚSVÉT SZIGETEN - 45 lej       
-2. Gombkoto Eniko         
-3. Szodorai Emőke         
+HÚSVÉTVÁRÓ - 56 lej
+1. Magyari Csilla
+2. Szántó Adrien
 
-MIRE JÓ A BARÁTSÁG? - 45 lej
-3. Gombkoto Eniko                               
-6. Szodorai Emőke         
-
+ÁRTATLANOK - 92 lej
+1. Ambrus Teodora
+2. Balazsi Kinga Erika 
+3. Bari Ibolya Zsuzsánna
+4. Becher Nicoleta
+5. Biro Eva 
+6. Biro Lilla 
+7. Boár Éva 
+8. Boga Szász Tímea Renáta
+9. Borbely Szekeres Etelka
+10. Bustya Izabella 
+11. Codarcea Vivienn 
+12. Csilla Demeter
+13. Demény Hilda
+14. Demian Zsuzsanna
+15. Dordea Edit 
+16. Draxel Brigitta-Katalin 
+17. Fabian Hajnal 
+18. Farkas Szidónia
+19. Fazakas Andrea Tímea 
+20. Fazakas Ildiko 
+21. Fekete Bodó Kinga
+22. Fülöp Izabella
+23. Gáll Reni
+24. Gyorgy Erika 
+25. Istvanfi Katalin 
+26. Jenei-Jakab Emese
+27. Kálmán Bernadette
+28. Kalman Szidonia 
+29. Katalin Todor-Monus
+30. Kilyen Melinda 
+31. Kovacs Beata
+32. Lovász Detti
+33. Magyari Edina 
+34. Magyari Emese 
+35. Marton Julia 
+36. Mathe Renata 
+37. Melinda Meli
+38. Molnár Nóra
+39. Nemeth Erzsebet
+40. Ola Zita 
+41. Pál Csenge
+42. Siklodi Ildiko 
+43. Siklodi Jaci
+44. Simon Tundi 
+45. Szabó Noémi Dalma
+46. Szabó Ziti
+47. Szász Dalma-Rózsa
+48. Szávuly Ágota
+49. Szőcs Kinga 
+50. Szőcs Orsolya
+51. Szőcs Orsolya dr 
+52. Zsido Jutka
 LEGYEN VÉGRE TAVASZ - 38 lej
-3. Fekete Noémi
 4. Kovács Tímea
 5. Nagy-Keresztesi Zsuzsa
 6. Zolnai Sarolta
+
+<!-- *********** MÁRCIUS 1. rendelések *********** -->
 
 ÉRTSD MEG A CSALÁDODAT - 66 lej
 1. Bustya Izabella 
@@ -48,7 +107,6 @@ EGY IGAZÁN ÖLELŐS MESE - 63 lej
 
 A herceg és én - 50 lej
 3. Dangelo Edina
-4. Incze Irenke
 6. Kálmán Bernadette
 7. Kovacs Beata 
 10. Ravasz Beáta  
@@ -56,14 +114,12 @@ A herceg és én - 50 lej
 13. Szávuly Ágota 
 
 A vikomt, aki engem szeretett - 50 lej
-3. Incze Irenke
 5. Kálmán Bernadette
 6. Kovacs Beata 
 8. Ravasz Beáta 
 11. Szávuly Ágota  
 
 Mr. Bridgerton csábítása - 50 lej
-3. Incze Irenke
 4. Jenei-Jakab Emese
 5. Kálmán Bernadette
 6. Kovacs Beata 
@@ -71,7 +127,6 @@ Mr. Bridgerton csábítása - 50 lej
 11. Szávuly Ágota  
 
 Tisztességes ajánlat - 50 lej
-4. Incze Irenke
 6. Kálmán Bernadette
 7. Kovacs Beata 
 8. Lovász Detti 
@@ -94,10 +149,4 @@ ELSUTTOGOM SZÁZSZOR - 53 lej
 
 Gyerekek érzelmi intelligenciája - 46 lej
 7. Biro Eva 
-17. Kovács Henrietta
-25. Páll Edina
-
-MIT KEZDJÜNK A TESTVÉRFÉLTÉKENYSÉGGEL? - 60 lej
-1. Csegzi Andrea-Izabella
-3. Szőcs Henrietta
 
