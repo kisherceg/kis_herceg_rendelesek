@@ -1,231 +1,60 @@
 <!-- *********** MÁRCIUS 15. rendelések *********** -->
-
-Húsvéti móka nagy matricákkal - 19 lej
-1. Csiki Annamaria 
-2. Dangelo Edina 
-3. Gergely Szidónia-Renáta
-4. Kovács Beáta
-5. Papp Tímea 
-6. Péterfi Beáta
-7. Radu Magdolna 
-8. Szabó Ziti
-9. Szász Dalma-Rózsa
-10. Szőcs Orsolya
-11. Szőcs Orsolya
-12. Szövérfi Leilla 
-13. Zolnai Renata 
-14. Zolnai Sarolta
-
-Húsvéti játékos foglalkoztató - 19 lej
-1. Bokor Dalma-Timea
-2. Gáspár Tímea
-3. Csizmadia Brigitta 
-4. Gergely Szidónia-Renáta
-5. Marton Beáta Orsolya
-6. Péterfi Beáta
-7. Radu Magdolna 
-8. Szabó Ziti
-9. Szőcs Orsolya
-10. Szőcs Orsolya
+THE BOYFRIEND - 91 lej
+1. Gáll Reni
+2. Kálmán Szidónia
+3. Ola Zita
 
 Húsvéti nyuszi kifestő - 19 lej
-1. Csiki Annamaria 
 2. Marton Noémi Emese
-3. Radu Magdolna 
-4. Szabó Ziti
-5. Zolnai Sarolta
-
-BLUEY HÚSVÉT - 46 lej
-1. Biró-Kis Gyopár
-2. Iszlai Brigitta
-3. Keresztesi Klaudia
-
-KISNYUSZI KÖNYVE - 42 lej
-1. Berei Beáta Imola
-2. Gergely Szidónia-Renáta
-3. Székely Kata
-4. Zolnai Sarolta
 
 KUKUCS AZ ELSŐ HÚSVÉT - 42 lej
 1. Csiki Beáta
-2. Farkas Szidónia
-3. György Beáta
-4. Sebestyén Orsolya 4 db
-5. Szabó Ziti
-6. Szász Dalma-Rózsa
 
 BARKA, BARKA, BERKENYE - 19 lej
-1. Bereczki Henrietta
-2. Bokor Timea
-3. Bör Blanka 3 db
-4. Csiki Bea 
-5. Gal Attila 2 db
-6. Gombos Réka
 7. Kozma Orsii 
 8. Marton Noémi Emese
-9. Szabó Ziti 2 db
 10. Varga Andrea-Noémi
 
 BARÁTNŐM, BORI HÚSVÉT FOGLALKOZTATÓJA - 21 lej
-1. Ballai Krisztina 
-2. Bokor Dalma-Timea
-3. Fogarasi Brigitta
 4. Heny Henike
 5. Kémenes Hajnal 
-6. Magyari Emőke
 7. Nagy Sándor
-8. Raduly Kinga
-9. Sebestyén Orsolya 2 db
 10. Siklodi Jaci 3 db
-11. Simó Andrea Ünige
-12. Szőcs Orsolya
-
-AZ ÉG MINDEN KÉKJE - 81 lej
-1. Fabian Hajnal 
-2. Gyorgy Erika 
-3. Kalman Szidonia 
-4. Kuron Apol
-5. Moldován Emese 
-6. Nagy Emese 
-7. Szabó Ziti
-8. Tőkés Tímea Andrea
-
-HÚSVÉTVÁRÓ - 56 lej
-1. Magyari Csilla
-2. Szántó Adrien
 
 ÁRTATLANOK - 92 lej
-1. Ambrus Teodora
-2. Balazsi Kinga Erika 
-3. Bari Ibolya Zsuzsánna
-4. Becher Nicoleta
 5. Biro Eva 
-6. Biro Lilla 
-7. Boár Éva 
-8. Boga Szász Tímea Renáta
-9. Borbely Szekeres Etelka
-10. Bustya Izabella 
-11. Codarcea Vivienn 
-12. Csilla Demeter
-13. Demény Hilda
-14. Demian Zsuzsanna
-15. Dordea Edit 
-16. Draxel Brigitta-Katalin 
 17. Fabian Hajnal 
-18. Farkas Szidónia
-19. Fazakas Andrea Tímea 
-20. Fazakas Ildiko 
-21. Fekete Bodó Kinga
-22. Fülöp Izabella
-23. Gáll Reni
-24. Gyorgy Erika 
-25. Istvanfi Katalin 
-26. Jenei-Jakab Emese
-27. Kálmán Bernadette
-28. Kalman Szidonia 
-29. Katalin Todor-Monus
-30. Kilyen Melinda 
 31. Kovacs Beata
-32. Lovász Detti
-33. Magyari Edina 
-34. Magyari Emese 
-35. Marton Julia 
-36. Mathe Renata 
-37. Melinda Meli
-38. Molnár Nóra
-39. Nemeth Erzsebet
-40. Ola Zita 
 41. Pál Csenge
 42. Siklodi Ildiko 
 43. Siklodi Jaci
-44. Simon Tundi 
-45. Szabó Noémi Dalma
-46. Szabó Ziti
-47. Szász Dalma-Rózsa
 48. Szávuly Ágota
-49. Szőcs Kinga 
-50. Szőcs Orsolya
 51. Szőcs Orsolya dr 
-52. Zsido Jutka
-LEGYEN VÉGRE TAVASZ - 38 lej
-4. Kovács Tímea
-5. Nagy-Keresztesi Zsuzsa
-6. Zolnai Sarolta
 
 <!-- *********** MÁRCIUS 1. rendelések *********** -->
 
 ÉRTSD MEG A CSALÁDODAT - 66 lej
-1. Bustya Izabella 
-2. Csaba Katalin Rózália
-5. Farkas Varga Katalin 
 6. Fazakas Gabo 
 7. Fülöp Mária 
-12. Keresztesi Beáta
-14. Keresztesi Kinga
-15. Kilyen Judit 
-18. Lukàcs Erika
-22. Nemeth Erzsebet
-27. Szőcs Judith 
 
 EGY IGAZÁN ÖLELŐS MESE - 63 lej
-1. Bács Mónika
-4. Gál Eszter  2 db
-6. Keresztesi Ildiko 
-7. Keresztesi Klaudia
-8. Máté Orsolya
 9. Nagy Adorjáni Emőke
 11. Simon Beata
-12. Szabó Ziti
-13. Szász Dalma-Rózsa
-14. Szekeres Ildiko
-15. Szerényi Henrietta
-16. Tekeres Andrea
-17. Kakucs Moga Szidónia
-
 <!-- *********** FEBRUÁR 15. rendelések *********** -->
 
 A herceg és én - 50 lej
-3. Dangelo Edina
-6. Kálmán Bernadette
 7. Kovacs Beata 
 10. Ravasz Beáta  
-12. Szász Júlia 
-13. Szávuly Ágota 
-
+ 
 A vikomt, aki engem szeretett - 50 lej
-5. Kálmán Bernadette
 6. Kovacs Beata 
 8. Ravasz Beáta 
-11. Szávuly Ágota  
 
 Mr. Bridgerton csábítása - 50 lej
-4. Jenei-Jakab Emese
-5. Kálmán Bernadette
 6. Kovacs Beata 
 8. Ravasz Beáta 
-11. Szávuly Ágota  
 
 Tisztességes ajánlat - 50 lej
-6. Kálmán Bernadette
 7. Kovacs Beata 
-8. Lovász Detti 
 11. Ravasz Beáta
-12. Simon Tundi  
-14. Szávuly Ágota
-
-KICSIMACKÓ MEGFÁZOTT - 51 lej
-2. Csiki Annamaria
-
-KUCKÓZZ BE BORIVAL! - 27 lej
-8. Sebestyén Orsolya
-
-NEM KÍVÁNT HÁZASSÁG - 79 lej
-1. Máté Orsolya
-
-ELSUTTOGOM SZÁZSZOR - 53 lej 
-1. Emilia Izabella
-5. Puja Orsolya
-
-Gyerekek érzelmi intelligenciája - 46 lej
-7. Biro Eva 
 
