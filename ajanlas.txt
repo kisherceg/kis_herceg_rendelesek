@@ -1,46 +1,142 @@
+VISSZATÉRÉS - 84 lej
+1. Aszalos Henrietta
+2. Badics Petra
+3. Balázs Katinka Beáta
+4. Barta Zsòfia
+5. Bíró Krisztina-Kinga
+6. Biro Lilla 
+7. Boga Szász Tímea Renáta
+8. Bustya Izabella 
+9. Csalai Melinda Anna 
+10. Császár Mónika-Erika
+11. Demény Hilda
+12. Domo Eva 
+13. Draxel Brigitta-Katalin 
+14. Enyedi Annamária
+15. Fazakas Ildiko 
+16. Fodor Bartha Annamaria
+17. Fülöp Adrienn 
+18. Gagyi Éva
+19. Gaspar Ildiko 
+20. Gyorgy Erika 
+21. Hints Andrea
+22. Hodor Délia
+23. Józsa Dalma Lara 
+24. Kacsó Natália
+25. Kádár Ica
+26. Kálmán Bernadette
+27. Kalman Szidonia 
+28. Kilyen Melinda 
+29. Kovács Mónika 
+30. Kuron Apol
+31. Mezei Zsófi
+32. Mihaly Hajnal 
+33. Moldován Emese 
+34. Molnár Nóra
+35. Nagy Kinga 
+36. Nemeth Erzsebet
+37. Orbán Barbi 
+38. Peterfi Ibolya 
+39. Simon Monika 
+40. Szabó Noémi Dalma
+41. Szabó Ziti
+42. Szabo Zsuzsa
+43. Szeredai Ildiko
+44. Tőkés Katalin
+45. Zsido Jutka 
+
+BOGYÓ ÉS BABÓCA KONCERTEN - 40 lej
+1. Balla Erzsebet 
+2. Barabási Eszter 
+3. Bernád Laura
+4. Gombos Réka
+5. Imreh Eszter
+6. Józsa Dalma Lara 
+7. Keresztesi Klaudia
+8. Kovács Tímea
+9. Kozma Orsii 
+10. Mészáros Bogi 
+11. Orban Kinga M 
+12. Radu Magdolna 
+13. Szabó Garda Tímea
+14. Szász Dalma-Rózsa
+15. Szász Júlia
+16. Szávuly Emese 
+17. Szövérfi Renáta 
+18. Szűcs Lilla
+19. Tökés Timea
+
+BOGYÓ ÉS BABÓCA ÉS A DINÓK - 40 lej
+1. Balla Erzsebet 
+2. Bernád Laura
+3. Birò Izabella 
+4. Biró-Kis Gyopár
+5. Bota Anita
+6. Csiki Annamaria
+7. Gombos Réka
+8. Harsan Saci
+9. Imreh Eszter
+10. Józsa Dalma Lara 
+11. Kacsó Beáta
+12. Kakucs Moga Szidonia
+13. Keresztesi Klaudia
+14. Kolozsvari Anna 
+15. Kovács Tímea
+16. Kozma Orsii 
+17. Mészáros Tünde
+18. Nagy Adorjáni Emőke
+19. Nagy Rita 
+20. Péterfi Beáta
+21. Pop-Frunza Emese
+22. Radu Magdolna 
+23. Siklodi Jaci
+24. Szabó Garda Tímea
+25. Szász Dalma-Rózsa
+26. Szász Júlia
+27. Szövérfi Renáta 
+28. Szűcs Lilla
+29. Tökés Timea
+
+BOGYÓ ÉS BABÓCA  A MALOMBAN - 40 lej
+1. Balla Erzsebet 
+2. Barabási Eszter 
+3. Bereczki Krisztina
+4. Bernád Laura
+5. Biró-Kis Gyopár
+6. Bör Blanka
+7. Galfi Gyongyver
+8. Gombos Réka
+9. Imreh Eszter
+10. Józsa Dalma Lara 
+11. Keresztesi Klaudia
+12. Kovács Tímea
+13. Kozma Orsii 
+14. Marton Noémi Emese
+15. Pop-Frunza Emese
+16. Radu Magdolna 
+17. Szász Dalma-Rózsa
+18. Szász Júlia
+19. Szövérfi Renáta 
+20. Szűcs Lilla
+21. Zolnai Renata
+
 <!-- *********** MÁRCIUS 15. rendelések *********** -->
+
 THE BOYFRIEND - 91 lej
 1. Gáll Reni
-2. Kálmán Szidónia
-3. Ola Zita
 
 Húsvéti nyuszi kifestő - 19 lej
 2. Marton Noémi Emese
 
-KUKUCS AZ ELSŐ HÚSVÉT - 42 lej
-1. Csiki Beáta
 
 BARKA, BARKA, BERKENYE - 19 lej
 7. Kozma Orsii 
-8. Marton Noémi Emese
 10. Varga Andrea-Noémi
 
 BARÁTNŐM, BORI HÚSVÉT FOGLALKOZTATÓJA - 21 lej
 4. Heny Henike
-5. Kémenes Hajnal 
 7. Nagy Sándor
-10. Siklodi Jaci 3 db
 
-ÁRTATLANOK - 92 lej
-5. Biro Eva 
-17. Fabian Hajnal 
-31. Kovacs Beata
-41. Pál Csenge
-42. Siklodi Ildiko 
-43. Siklodi Jaci
-48. Szávuly Ágota
-51. Szőcs Orsolya dr 
-
-<!-- *********** MÁRCIUS 1. rendelések *********** -->
-
-ÉRTSD MEG A CSALÁDODAT - 66 lej
-6. Fazakas Gabo 
-7. Fülöp Mária 
-8. Szávuly Ágota
-
-EGY IGAZÁN ÖLELŐS MESE - 63 lej
-9. Nagy Adorjáni Emőke
-11. Simon Beata
 <!-- *********** FEBRUÁR 15. rendelések *********** -->
 
 A herceg és én - 50 lej
