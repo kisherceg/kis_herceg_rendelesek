@@ -1,12 +1,71 @@
+<!-- ****************************** március 30. rendelés ***************************************** -->
+
+"NÉV: Aszalos Balásy Andrea
+• A fémjelzett ember – 132 lej"
+• Limara pékség (péntek délben érkezik) – 108 lej
+"NÉV: Aszalos Tamara
+• A most hatalma – 65 lej"
+"NÉV: Bakó Renáta
+• A million kisses in youre lifetime – 75 lej"
+• Blokkolj ha tudsz – 76 lej
+"NÉV: Biró Erika
+• Tövisek hálójában – 81 lej"
+• Feleselő királyság – 64 lej
+"NÉV: Borbély Izabella
+• Bori és a szomszéd fiúk – 24 lej"
+• A maffia hercegnője – 50 lej
+"NÉV: Borbély Szekeres Etelka
+• Abigél – 63 lej"
+"NÉV: Csalóka Júlia
+• A soha fel nem engedő föld – 47 lej"
+"NÉV: Csiki Beáta
+• Találj meg Csodálatos állatok – 82 lej"
+"NÉV: Demeter Csilla
+• The shadows rule all – 85 lej"
+"NÉV: Enyedi Annamária
+• A gyermekek mentális egészsége – 67 lej"
+"NÉV: Ercse Éva
+• János vitéz – 17 lej"
+"NÉV: Gál Dalma
+• A telepi lány – 51 lej"
+• Ártatlanok – 94 lej
+"NÉV: Józsa Dalma Lara
+• A négy szél – 63 lej"
+"NÉV: Kacsó Vilmos
+• Lackfi Igaz mese a keresztelésről – 51 lej"
+"NÉV: Keresztesi Klaudia
+• Until you – 80 lej"
+• Bully – 71 lej
+"NÉV: László Zsuzsanna
+• Buda tornya Brunó Budapesten – 89 lej"
+• Különleges vagy – 46 lej
+• 38 levél – 65 lej
+"NÉV: Marton Dalma
+• A világ legrosszabb osztálya – 21 lej"
+• Szimat naplója Akiért a laszti gurul  – 52 lej
+• Utazás Dinomdánomba – 48 lej
+"NÉV: Molnus Emese
+• Levendulaszoba – 42 lej"
+• Bárcsak visszajönnél – 40 lej
+• Asszonyom, édes úrnőm – 38 lej
+"NÉV: Nagy Iza
+• János vitéz – 17 lej"
+"NÉV: Nagy Tímea
+• Saját utakon – 38 lej"
+• Az utolsó gyufaszál – 67 lej
+• Az auschwitzi bába – 71 lej
+• Gondolkozz és gazdagodj – 80 lej
+• Napló, a kiemelkedően eredményes – 63 lej
+"NÉV: Szász Eszter
+• A konfirmáció ajándéka – 48 lej"
+"NÉV: Szigeti Simon Emőke
+• Mancs Őrjárat Dinómentők 2 db KÉSŐBB – 16 lej"
+• Kicsik lapozgató bibliája – 63 lej
+
 <!-- ****************************** március 23. rendelés ***************************************** -->
-"NÉV: Csibi Erika
-• Egymás KÁRTYA – 116 lej"
-• Örökölt sors – 59 lej
+
 "NÉV: Ila Ildikó
 • Mamó 2 db KÉSŐBB ápr.vége – 39 lej"
-"NÉV: Imre Miklós Noémi Dalma
-• Pitypang és a húsvéti nyúl – 35 lej"
-• Babaróka iskolája – 50 lej
 "NÉV: Nagy Noémi
 • Amikor dühös vagyok – 47 lej"
 • Ne add fel – 53 lej
@@ -16,31 +75,17 @@
 
 <!-- ****************************** március vége hozzánk küldött  ***************************************** -->
 
-"NÉV: Borbély Etelka Szekeres 
-• Abigél KÉSŐBB – 49 lej"
-"NÉV: Csont Andi
-• A némaértő olvasás alapjai  – 17 lej"
-"NÉV: Fechete Bálint Adél
-• Nincs hatalmad felettem – 83 lej"
-"NÉV: Gál Judit könyvelőnő 
-• Engedd el önmagad és valj úriemberré KÉSŐBB  – 0 lej"
-• Hangos cimborák A kirándulás – 71 lej
-• Hangos cimborák Járművek – 71 lej
-"NÉV: Marton Irénke tanci 
-• A lila boríték Már tudok olvasni 10 DB – 22 lej"
 "NÉV: Szekely Iringó
 • Hangos cimborák Móka a farmon – 71 lej"
 • Hangos cimborák Kacsa barátkozik – 71 lej
 
 <!-- ****************************** március 16. rendelés ***************************************** -->
-"NÉV: Józsa Dalma Lara
-• Karácsonyváró – 50 lej"
-• A zongoristaprojekt – 41 lej
+
 "NÉV: Vass Ilma
 • Kémia a kamrából KÉSŐBB ápr. közepe – 27 lej
 
 <!-- ****************************** febr - márc***************************************** -->
-• Termések KÉSŐBB márc. 23.  – 17 lej"
+
 "NÉV: Hajdu Emese
 • Ha összetörik egy szív KÉSŐBB márc 23. – 53 lej"
 • Sötét vágyak fogságában  – 48 lej
