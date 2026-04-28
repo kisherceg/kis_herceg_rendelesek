@@ -1,41 +1,102 @@
+<!-- ****************************** április eleje - hozzánk küldött  ***************************************** -->
+
+"NÉV: Balázs Kinga Erika
+• Bestiák – 79 lej"
+"NÉV: Bereczki Boglárka
+• Pom Pom meséi Szegény Gombóc Artúr – 38 lej"
+• Pom Pom meséi Radírpók – 38 lej
+"NÉV: Biró Erika
+• Spectacular – 52 lej"
+• Heartless – 76 lej
+• One dark window – 63 lej
+"NÉV: Bocskay Eszter
+• The endurance of wildflowers – 60 lej"
+• The resurrection of wildflowers – 74 lej
+"NÉV: Fogarasi Brigitta
+• Közlekedj okosan Borival – 19 lej"
+• Az évszakok Barátnőm, Bori – 19 lej
+• Írás előkészítő feladatok Bori KÉSŐBB – 19 lej
+• Írás előkészítő feladatok Disney suli KÉSŐBB – 17 lej
+"NÉV: Jeremiás Hajnalka
+• Ég veled – 58 lej"
+• Maradj velem – 58 lej
+"NÉV: Szántó Adrien
+• Matyi a kis villamos – 47 lej"
+"NÉV: Szász Dalma Rózsa
+• Tisztességes ajánlat – 50 lej"
+"NÉV: Szász Ervinke
+• Őrület határán – 52 lej"
+"NÉV: Szilveszter Boga Noémi
+• Faking it – 55 lej"
+• Darabokra törtél – 78 lej
+• Nélküled soha – 79 lej
+"NÉV: Todor Amália
+• A bosszú otthona – 74 lej"
+
+<!-- ****************************** április 13. rendelés ***************************************** -->
+
+"NÉV: Alb Kinga Noémi
+• Kosársuli Visszajátszás – 53 lej"
+"NÉV: Albert Ildikó Irma
+• Lélekben óriások voltunk KÉSŐBB ANTIKV. – 36 lej"
+"NÉV: Boros Dalma Zsuzsanna
+• Iron flame – 66 lej"
+"NÉV: Csiki Viktória
+• Idesüss Mesék és versek KÉSŐBB, ANTIK – 64 lej"
+• Idesüss Mesék és versek KÉSŐBB, ANTIK – 64 lej
+"NÉV: Enyedi Annamária
+• Csírakert – 17 lej"
+• A klasszikus zene – 75 lej
+"NÉV: Erdélyi Tünde
+• Dark cinderella – 86 lej"
+• Az úriház – 60 lej
+"NÉV: Jákob Katalin Blanka
+• Zakatoló – 51 lej"
+• Anyám tyúkja – 57 lej
+• Évszakok – 51 lej
+"NÉV: Kacsó Beáta
+• Bing és a négy évszak – 69 lej"
+"NÉV: Magyari Csilla
+• Úgy ahogy vagy – 63 lej"
+• Affér – 69 lej
+• A férfiaknak szex kell a nőknek szerelem KÉSŐBB – 63 lej
+• Szimat naplója A bolhák ura – 51 lej
+• Szimat naplója A csetepaté – 51 lej
+• Szimat naplója Akiért a laszti gurul – 54 lej
+• Így működik a szerelem – 61 lej
+• Alsógatyás Kapitány és a beszélő vécécsészék – 51 lej
+• Alsógatyás Kapitány és a pukisgatyó – 51 lej
+• Alsógatyás Kapitány és a szupergonosz – 51 lej
+• Leválás az érzelmileg éretlen emberekről – 66 lej
+"NÉV: Májai Anita
+• Bestiák – 79 lej"
+"NÉV: Makkai Tilda
+• Mese a keresztelésről – 50 lej"
+• Igaz mese a húsvétról – 50 lej
+"NÉV: Márton Dalma
+• Két kis dinó és a honfoglalás – 57 lej"
+"NÉV: Molnár Nóra
+• Interferencia – 51 lej"
+"NÉV: Papp Tímea
+• Tükröm, tükröm – 85 lej"
+• Feng shui – 25 lej
+"NÉV: Pécsi Tímea Éva 
+• Boldog születésnapot – 20 lej"
+"NÉV: Silye Kiss Krisztina
+• Álmok könyve – 75 lej"
+• Benkő Laci – 51 lej
+"NÉV: Suba Tímea
+• Egymás Önismereti kártyák – 124 lej"
+• A teljes beszélgetések Istennel – 91 lej
+"NÉV: Thiesz Mária
+• A jég szerelmesei – 81 lej"
+
 <!-- ****************************** március 30. rendelés ***************************************** -->
 
-"NÉV: Aszalos Balásy Andrea
-• A fémjelzett ember – 132 lej"
-• Limara pékség (péntek délben érkezik) – 108 lej
-"NÉV: Aszalos Tamara
-• A most hatalma – 65 lej"
-"NÉV: Bakó Renáta
-• A million kisses in youre lifetime – 75 lej"
-• Blokkolj ha tudsz – 76 lej
-"NÉV: Biró Erika
-• Tövisek hálójában – 81 lej"
-• Feleselő királyság – 64 lej
-"NÉV: Borbély Izabella
-• Bori és a szomszéd fiúk – 24 lej"
-• A maffia hercegnője – 50 lej
-"NÉV: Borbély Szekeres Etelka
-• Abigél – 63 lej"
-"NÉV: Csalóka Júlia
-• A soha fel nem engedő föld – 47 lej"
-"NÉV: Csiki Beáta
-• Találj meg Csodálatos állatok – 82 lej"
-"NÉV: Demeter Csilla
-• The shadows rule all – 85 lej"
-"NÉV: Enyedi Annamária
-• A gyermekek mentális egészsége – 67 lej"
-"NÉV: Ercse Éva
-• János vitéz – 17 lej"
 "NÉV: Gál Dalma
 • A telepi lány – 51 lej"
 • Ártatlanok – 94 lej
-"NÉV: Józsa Dalma Lara
-• A négy szél – 63 lej"
-"NÉV: Kacsó Vilmos
-• Lackfi Igaz mese a keresztelésről – 51 lej"
-"NÉV: Keresztesi Klaudia
-• Until you – 80 lej"
-• Bully – 71 lej
+
 "NÉV: László Zsuzsanna
 • Buda tornya Brunó Budapesten – 89 lej"
 • Különleges vagy – 46 lej
@@ -48,14 +109,6 @@
 • Levendulaszoba – 42 lej"
 • Bárcsak visszajönnél – 40 lej
 • Asszonyom, édes úrnőm – 38 lej
-"NÉV: Nagy Iza
-• János vitéz – 17 lej"
-"NÉV: Nagy Tímea
-• Saját utakon – 38 lej"
-• Az utolsó gyufaszál – 67 lej
-• Az auschwitzi bába – 71 lej
-• Gondolkozz és gazdagodj – 80 lej
-• Napló, a kiemelkedően eredményes – 63 lej
 "NÉV: Szász Eszter
 • A konfirmáció ajándéka – 48 lej"
 "NÉV: Szigeti Simon Emőke
