@@ -1,7 +1,5 @@
 <!-- ****************************** április eleje - hozzánk küldött  ***************************************** -->
 
-"NÉV: Balázs Kinga Erika
-• Bestiák – 79 lej"
 "NÉV: Bereczki Boglárka
 • Pom Pom meséi Szegény Gombóc Artúr – 38 lej"
 • Pom Pom meséi Radírpók – 38 lej
@@ -10,11 +8,6 @@
 • Az évszakok Barátnőm, Bori – 19 lej
 • Írás előkészítő feladatok Bori KÉSŐBB – 19 lej
 • Írás előkészítő feladatok Disney suli KÉSŐBB – 17 lej
-"NÉV: Jeremiás Hajnalka
-• Ég veled – 58 lej"
-• Maradj velem – 58 lej
-"NÉV: Szántó Adrien
-• Matyi a kis villamos – 47 lej"
 "NÉV: Szász Dalma Rózsa
 • Tisztességes ajánlat – 50 lej"
 "NÉV: Szász Ervinke
@@ -32,17 +25,9 @@
 • Kosársuli Visszajátszás – 53 lej"
 "NÉV: Albert Ildikó Irma
 • Lélekben óriások voltunk KÉSŐBB ANTIKV. – 36 lej"
-"NÉV: Boros Dalma Zsuzsanna
-• Iron flame – 66 lej"
 "NÉV: Csiki Viktória
 • Idesüss Mesék és versek KÉSŐBB, ANTIK – 64 lej"
 • Idesüss Mesék és versek KÉSŐBB, ANTIK – 64 lej
-"NÉV: Enyedi Annamária
-• Csírakert – 17 lej"
-• A klasszikus zene – 75 lej
-"NÉV: Erdélyi Tünde
-• Dark cinderella – 86 lej"
-• Az úriház – 60 lej
 "NÉV: Jákob Katalin Blanka
 • Zakatoló – 51 lej"
 • Anyám tyúkja – 57 lej
@@ -50,74 +35,34 @@
 "NÉV: Kacsó Beáta
 • Bing és a négy évszak – 69 lej"
 "NÉV: Magyari Csilla
-• Úgy ahogy vagy – 63 lej"
-• Affér – 69 lej
 • A férfiaknak szex kell a nőknek szerelem KÉSŐBB – 63 lej
-• Szimat naplója A bolhák ura – 51 lej
-• Szimat naplója A csetepaté – 51 lej
-• Szimat naplója Akiért a laszti gurul – 54 lej
-• Így működik a szerelem – 61 lej
-• Alsógatyás Kapitány és a beszélő vécécsészék – 51 lej
-• Alsógatyás Kapitány és a pukisgatyó – 51 lej
-• Alsógatyás Kapitány és a szupergonosz – 51 lej
-• Leválás az érzelmileg éretlen emberekről – 66 lej
-"NÉV: Májai Anita
-• Bestiák – 79 lej"
-"NÉV: Makkai Tilda
-• Mese a keresztelésről – 50 lej"
-• Igaz mese a húsvétról – 50 lej
-"NÉV: Márton Dalma
-• Két kis dinó és a honfoglalás – 57 lej"
-"NÉV: Molnár Nóra
-• Interferencia – 51 lej"
 "NÉV: Papp Tímea
 • Tükröm, tükröm – 85 lej"
 • Feng shui – 25 lej
-"NÉV: Pécsi Tímea Éva 
-• Boldog születésnapot – 20 lej"
 "NÉV: Silye Kiss Krisztina
 • Álmok könyve – 75 lej"
 • Benkő Laci – 51 lej
-"NÉV: Suba Tímea
-• Egymás Önismereti kártyák – 124 lej"
-• A teljes beszélgetések Istennel – 91 lej
-"NÉV: Thiesz Mária
-• A jég szerelmesei – 81 lej"
 
 <!-- ****************************** március 30. rendelés ***************************************** -->
 
 "NÉV: Gál Dalma
 • A telepi lány – 51 lej"
 • Ártatlanok – 94 lej
-
-"NÉV: László Zsuzsanna
-• Buda tornya Brunó Budapesten – 89 lej"
-• Különleges vagy – 46 lej
-• 38 levél – 65 lej
-"NÉV: Marton Dalma
-• A világ legrosszabb osztálya – 21 lej"
-• Szimat naplója Akiért a laszti gurul  – 52 lej
-• Utazás Dinomdánomba – 48 lej
 "NÉV: Molnus Emese
 • Levendulaszoba – 42 lej"
 • Bárcsak visszajönnél – 40 lej
 • Asszonyom, édes úrnőm – 38 lej
 "NÉV: Szász Eszter
 • A konfirmáció ajándéka – 48 lej"
+"NÉV: Enyedi Annamária
+• A gyermekek mentális egészsége – 67 lej"
 "NÉV: Szigeti Simon Emőke
 • Mancs Őrjárat Dinómentők 2 db KÉSŐBB – 16 lej"
-• Kicsik lapozgató bibliája – 63 lej
 
 <!-- ****************************** március 23. rendelés ***************************************** -->
 
 "NÉV: Ila Ildikó
 • Mamó 2 db KÉSŐBB ápr.vége – 39 lej"
-"NÉV: Nagy Noémi
-• Amikor dühös vagyok – 47 lej"
-• Ne add fel – 53 lej
-• Apa üvege – 47 lej
-"NÉV: Puja Orsolya
-• Találj meg  – 42 lej"
 
 <!-- ****************************** március vége hozzánk küldött  ***************************************** -->
 
@@ -132,20 +77,9 @@
 
 <!-- ****************************** febr - márc***************************************** -->
 
-"NÉV: Hajdu Emese
-• Ha összetörik egy szív KÉSŐBB márc 23. – 53 lej"
-• Sötét vágyak fogságában  – 48 lej
 "NÉV: Lukács Noémi FIZETVE
 • Budapest – 84 lej"
 "NÉV: Nyulas Szász Ildikó  
 • A holdfeny őrei Az aranypók – 63 lej"
-"NÉV: Puja Orsi
-• Lily the pond mermaid KÉSŐBB ápr. vége – 58 lej"
-"NÉV: Szabó Esztike
-• A öreg halász és a tenger KÉSŐBB ápr.vége. – 0 lej"
 "NÉV: Thiesz Mária
 • A táncoló sárkány KÉSŐBB márc. 23.  – 49 lej"
-"NÉV: Todoran Amália
-• A bosszú otthona KÉSŐBB – 75 lej"
-"NÉV: Zsu Zsuzsa
-• Wass Albert Mire a fák megnőnek – 60 lej"
