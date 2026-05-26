@@ -1,12 +1,84 @@
+<!-- ****************************** május 18.  ***************************************** -->
+
+"NÉV: Bancsi Tímea
+• Harry Potter és a bölcsek köve – 65 lej"
+"NÉV: Biró Kusztás Kincső
+• Szem, kéz, pocak 2 db – 39 lej"
+"NÉV: Bodó Delinke
+• Verseny a győzelemért Lego – 40 lej"
+• A foci mestere Legendák JÚNIUSBAN JELENIK MEG– 35 lej
+• Színezz velünk Foci – 27 lej
+• Domi és a nagypálya – 42 lej
+• Tudás tábor  – 27 lej
+"NÉV: Bokor Dalma Zsuzsanna
+• Buborékfújás – 23 lej"
+• A magas csúszda – 23 lej
+"NÉV: Borbély Edina
+• Tökmagok Afrikában – 46 lej"
+"NÉV: Csiszér Helga Armella
+• Bori és a piros bicikli KÉSŐBB – 16 lej"
+• Bori óvodába megy – 16 lej
+• Momo és Max Éjjel alszik a nap? – 46 lej
+"NÉV: Csiszér Magyari Hedving 
+• Vuk, a kisróka – 27 lej"
+• Jó éjt, Toppancs! – 33 lej
+"NÉV: Dászkel Karácsonyi Andrea
+• Bogyó és Babóca ünnepel – 38 lej"
+• Boldog vagyok – 33 lej
+• Szomorú vagyok – 33 lej
+"NÉV: Erdei Renáta
+• Pont pont vesszőcske – 59 lej"
+• Rímfestő – 35 lej
+"NÉV: Garda Emőke
+• Aranyszövedék Woven by dold – 97 lej"
+• Vétekben megedzve JÚNIUSBAN JELENIK  – 0 lej
+"NÉV: Kacsó Katinka
+• A titkok otthona – 90 lej"
+"NÉV: Lovász Detti
+• The deal Az üzlet – 79 lej"
+"NÉV: Lőrinczi Katalin
+• Mozgó pop up enger – 52 lej"
+• Nincs több pelus – 30 lej
+"NÉV: Májai anita
+• Hegek – 65 lej"
+"NÉV: Molnár Hortenzia
+• Csontváz küldetés – 46 lej"
+"NÉV: Molnár Hortenzia
+• Tavaszi matricás füzetem – 16 lej"
+"NÉV: Nagy Katalin
+• Alma – 73 lej"
+"NÉV: Sipos Éva Katalin
+• A tündérhold alatt – 46 lej"
+• Soha ne add fel – 52 lej
+• Csodálatos csobbanás – 46 lej
+• Veszéyben a lovatanya – 43 lej
+• Anne Parázslakból – 69 lej
+"NÉV: Smaltig Jusztina
+• Atlas – 78 lej"
+"NÉV: Szopos Bernadett
+• Macskazene és sok más fejtörők – 22 lej"
+"NÉV: Troznai Klementina
+• A don csapdájában – 69 lej"
+"NÉV: Zsidó Andrea
+• All your perfects mind – 52 lej"
+• Nova – 76 lej
+
+<!-- ****************************** MÁJUS KÖZEPE - hozzánk küldött  ***************************************** -->
+
+"NÉV: Adorjáni Réka
+• Zaj-szünet 2 db – 23 lej"
+"NÉV: Szodorai Emőke
+• Kincskereső kisködmön – 27 lej"
+"NÉV: POSTA
+• Pál utcai fiúk – 35 lej"
+• Minden testnek sorsa – 66 lej
+"NÉV: Varga Emőke
+• Theta healing (Vianna Stibal) – 80 lej"
+
 <!-- ****************************** május 11.  ***************************************** -->
 
 "NÉV: Bancsi Tímea
 • A sportvilág szupersztárjai – 39 lej"
-"NÉV: Győrfi Bernadett
-• Powerful – 77 lej"
-• Hogyan ne érezd magad szarul – 57 lej
-"NÉV: Kádár Helga
-• Hogyan szeretsz – 60 lej"
 "NÉV: Nagy Noémi
 • A varázslat benned van KÉSŐBB  – 40 lej"
 • Beszéljünk a halálról! KÉSŐBB – 33 lej
@@ -57,10 +129,6 @@
 
 "NÉV: Erdei Renáta
 • Minden gyerek kicsi kincs – 35 lej"
-"NÉV: Kádár Árpád
-• Testvériség Assassins creed – 64 lej"
-"NÉV: Kürti Emőke
-• A modern én felemelkedése KÉSŐBB – 88 lej
 "NÉV: Varga Csenge
 • The cruel prince – 64 lej
 
