@@ -3,27 +3,13 @@
 
 "NÉV: Antal Katalin Erzsébet
 • Biblia KÉSŐBB – 82 lej"
-"NÉV: Bakó Jánosi Annamária
-• Futóterápia – 78 lej"
-• Mr Escobar – 25 lej
-• A viszkis – 71 lej
 "NÉV: Balogh Noémi
 • Ezerarcú szépség – 127 lej"
 • A szépség ritmusa – 142 lej
 • Az én kék zónám – 156 lej
-"NÉV: Boga Szász Tímea
-• Kincs a toszkán hó alatt – 89 lej"
 "NÉV: Hajdu Emese
 • 500 smoothie – 64 lej"
 • Most – 127 lej
-"NÉV: Magyari Csilla
-• Míg a halál el nem választ – 85 lej"
-• Amíg életben vagyunk  – 71 lej
-"NÉV: Papp Tímea
-• Nem a te hibád – 41 lej"
-• Mit érzel, kismackó? – 22 lej
-"NÉV: Puja Orsi
-• Az első kirakós könyvem Dzsungel könyve – 29 lej"
 "NÉV: Szopos Bernadett
 • Az emlékek könyvtára – 91 lej"
 • Farkasokkal futó – 113 lej
@@ -33,83 +19,37 @@
 • Autós kifestő matricákkal 2 db KÉSŐBB – 14 lej
 • Patrik a pattanóbogár – 28 lej
 
-<!-- ****************************** június közepe hozzánk küldött ***************************************** -->
+<!-- **************************** június közepe hozzánk küldött **************************************** -->
 
 "NÉV: Biró Erika
 • Mit kezdjünk az akaratossággal? – 52 lej"
-"NÉV: Csiki Örs
-• Őrületbe kergetsz – 69 lej"
-• Megőrülök érted – 85 lej
-"NÉV: Demeter Zsófia
-• Until you – 86 lej"
-• The boyfriend – 99 lej
-• Brutal prince – 90 lej
-"NÉV: Fogarasi Brigitta
-• Barátnőm Bori foglalkoztató írás előkészítő – 22 lej"
-• Micimackó írás előkészítő foglalkoztató – 20 lej
 "NÉV: Kerekes Anna
 • Hova járnak a fiúk sírni – 75 lej"
-"NÉV: Sándor Éva
-• Álarcosbáról 2 db – 45 lej"
 "NÉV: Sófalvi Kinga
 • A négyszögletű  kerek erdő – 58 lej"
 • A Pál utcai fiúk – 50 lej
 "NÉV: Szász Edit
-• Nyári szünet – 92 lej"
 • A napfény földje KÉSŐBB ANTIKV – 0 lej
-"NÉV: Székely Tünde
-• Zizi 3. – 57 lej"
-"NÉV: Kisgyörgy 
+"NÉV: Kisgyörgy Kinga
 • A vad robot szökés – 48 lej"
-"NÉV: Kinga
 • A vad robot megvéd – 56 lej"
 
-<!-- ****************************** június eleje hozzánk küldött ***************************************** -->
+<!-- **************************** június eleje hozzánk küldött *************************************** -->
 
-"NÉV: Bárdos Réka
-• Véletlen írtam egy könyvet – 50 lej"
-"NÉV: Nyíri Anett
-• Impulzus – 45 lej"
 "NÉV: Sófalvi Tímea
 • Keeping 13 – 126 lej"
-"NÉV: Szász Edit
-• A napfény földje KÉSŐBB ANTIKV – 0 lej"
 "NÉV: Szodorai Emőke
 • János vitéz  – 59 lej"
 • Négyszögletű kerek erdő – 58 lej
 
 <!-- ****************************** június 1. ***************************************** -->
 
-"NÉV: Aszalos Henrietta
-• Kétszáz éves szerelem – 71 lej"
-• Égből hullott három alma – 60 lej
-"NÉV: Asztalos Balásy Andrea
-• Aviva módszer II. – 90 lej"
-• Aviva módszer I. – 110 lej
-• Nélkülözhetetlen – 113 lej
 "NÉV: Chirilla Enikő
 • Bogyó és Babóca Érzelmek meséi – 99 lej"
 "NÉV: Csiki Viktória
 • A sorsod nem áldás – 86 lej"
-"NÉV: Erdélyi Tünde
-• Reménytelen Hopeless – 99 lej"
-"NÉV: Fazakas Jáhel
-• A vörös oroszlán – 120 lej"
-"NÉV: Jákob Katalin Blanka
-• Az év vesztese 4 db – 57 lej"
-• Sári születésnapja – 43 lej
-• Nyári böngésző – 71 lej
 "NÉV: Katalin Siklódi
 • A fiam titka KÉSŐBB – 70 lej"
-"NÉV: Koós Orsolya
-• Gyógynövények lexikona – 112 lej"
-"NÉV: Marton Aranka Tímea
-• Egymásmesék – 54 lej"
-"NÉV: Puja Orsolya
-• Csötörtök, a kisördög – 38 lej"
-"NÉV: Suba Réka
-• Örökség A titokzatos varázserdő – 71 lej"
-• Nagy rajziskola – 71 lej
 "NÉV: Szopos Bernadett
 • Színezz és játssz Számok és formák 2 db – 25 lej"
 • Színezz és játssz Betűk és szavak 2 db – 25 lej
@@ -123,90 +63,31 @@
 
 "NÉV: Balazs Erika 
 • Random Leiner Laura ANTIKV. KÉSŐBB – 0 lej"
-"NÉV: Dávid Beáta 
-• Ábel Amerikában - zsebkonyvek 67. - 6 db  – 36 lej"
-"NÉV: Major Anita
-• Esküdt ellenségek  – 79 lej"
 "NÉV: Mihocsa Andi 
-• Belső utakon – 65 lej"
-• Minden jó, ha együtt vagyunk NINCS – 0 lej
 • Mit tehetünk magunkért KÉSŐBB – 65 lej
-• Kiskamaszok – 71 lej
 • Belső utazás KÉSŐBB – 50 lej
-• A belső gyermek gyógyítása – 85 lej
-"NÉV: Nagy Noémi
-• Beszéljünk a halálról  – 36 lej"
 "NÉV: Zari Noémi 
 • Törökországi levelek  ANTIKV. KÉSŐBB – 40 lej
 • A buta felnőtt  ANTIKV. KÉSŐBB – 50 lej
 • A dzsungel könyve ANTIKV. KÉSŐBB – 50 lej
 
-<!-- ****************************** május 25.  ***************************************** -->
-"NÉV: Pál Noémi
-• Ne felejts – 60 lej"
-"NÉV: Thiesz Mária
-• Tiltólistás szerelem – 98 lej"
-
-<!-- ****************************** május 18.  ***************************************** -->
-
-"NÉV: Csiszér Helga Armella
-• Bori és a piros bicikli KÉSŐBB – 16 lej"
-• Bori óvodába megy – 16 lej
-• Momo és Max Éjjel alszik a nap? – 46 lej
-"NÉV: Csiszér Magyari Hedving 
-• Vuk, a kisróka – 27 lej"
-• Jó éjt, Toppancs! – 33 lej
-"NÉV: Kacsó Katinka
-• A titkok otthona – 90 lej"
-"NÉV: Lovász Detti
-• The deal Az üzlet – 79 lej"
-"NÉV: Molnár Hortenzia
-• Tavaszi matricás füzetem – 16 lej"
-"NÉV: Nagy Katalin
-• Alma – 73 lej"
-"NÉV: Sipos Éva Katalin
-• A tündérhold alatt – 46 lej"
-• Soha ne add fel – 52 lej
-• Csodálatos csobbanás – 46 lej
-• Veszéyben a lovatanya – 43 lej
-• Anne Parázslakból – 69 lej
-"NÉV: Smaltig Jusztina
-• Atlas – 78 lej"
-"NÉV: Troznai Klementina
-• A don csapdájában – 69 lej"
-<!-- ****************************** MÁJUS KÖZEPE - hozzánk küldött  ***************************************** -->
+<!-- ************************** MÁJUS KÖZEPE - hozzánk küldött  ************************************** -->
 
 "NÉV: Szodorai Emőke
 • Kincskereső kisködmön – 27 lej"
 • Pál utcai fiúk – 35 lej"
 • Minden testnek sorsa – 66 lej
-"NÉV: Varga Emőke
-• Theta healing (Vianna Stibal) – 80 lej"
 
-<!-- ****************************** május 11.  ***************************************** -->
 
-"NÉV: Bancsi Tímea
-• A sportvilág szupersztárjai – 39 lej"
-"NÉV: Nagy Noémi
-• A varázslat benned van KÉSŐBB  – 40 lej"
-• Beszéljünk a halálról! KÉSŐBB – 33 lej
-
-<!-- ****************************** május eleje - hozzánk küldött  ***************************************** -->
 "NÉV: Szász Edit
 • Tanuljunk meg írni ANTIKV KÉSŐBB – 0 lej"
 
 <!-- ****************************** május 4.  ***************************************** -->
 "NÉV: Péter Vas Helga
 • Természetes gyógymódok a babavárásról ANTIKVÁR KÉSŐBB – 26 lej
-"NÉV: Simon Réka
-• Járom az új váramat – 66 lej"
-• 33 mese a nagyobbaknak – 56 lej
-
 
 <!-- ****************************** április 13. rendelés ***************************************** -->
 
-"NÉV: Albert Ildikó Irma
-• Lélekben óriások voltunk – 36 lej"
 "NÉV: Csiki Viktória
 • Idesüss Mesék és versek – 64 lej"
 
