@@ -70,9 +70,7 @@
 "NÉV: Csíki Beáta
 • Első Zongorás könyvem – 95 lej"
 "NÉV: Fülöp Abigél
-• D: 02 ™ Csecsemő és kora gyermekkori..NINCS – 0 lej"
-"NÉV: 743992440
-•  –  lej"
+• D: 02 Csecsemő és kora gyermekkori NINCS – 0 lej"
 "NÉV: Kádár Ica
 • Ábel a rengetegben – 36 lej"
 • Őrzők – 79 lej
@@ -82,8 +80,6 @@
 • Csodálatos évszakok Nyár – 20 lej"
 "NÉV: Kürti Jenő
 • Sumér nyomok Erdélyben – 38 lej"
-"NÉV: 745111589
-•  –  lej"
 "NÉV: Nagy Ildikó
 • Toldi – 43 lej"
 "NÉV: Szatmári Beáta
@@ -133,26 +129,14 @@
 • Játék katicával 2 db – 10 lej
 • Írás előkészítő foglalkoztató – 19 lej
 
-
-
 <!-- ****************************** június vége hozzánk küldött ***************************************** -->
 
-"NÉV: Badics Petra
-• Outlander 2 – 127 lej"
-• Outlander 3 – 155 lej
 "NÉV: Bakó Beáta
 • Tüskevár – 53 lej"
 • Legyek ura – 44 lej
 • Anne Frank naplója – 71 lej
-"NÉV: Chirircuta Dorottya
-• Csipesz a tacsi – 36 lej"
-• Távol telt tőled tavaszom – 38 lej
 "NÉV: Csegzi Simó Ildi
 • Ábel a rengeteben – 38 lej"
-"NÉV: Jeremiás Hajnalka
-• Állj mellém – 65 lej"
-"NÉV: Molnár Judit
-• Ahol a folyami rákok énekelnek – 85 lej"
 "NÉV: Nagy Tímea Ehed
 • Emíl és a detektívek – 43 lej"
 • Az osztály vesztese – 57 lej
