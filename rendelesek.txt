@@ -1,3 +1,91 @@
+<!-- ****************************** július 6. ***************************************** -->
+
+"NÉV: Asztalos Balásy Andrea
+• Nagy rajziskola – 120 lej"
+• Rajz 10 lépésben Állatok – 71 lej
+• Rajz 10 lépésben Emberek – 71 lej
+"NÉV: Bakó Renáta
+• Hibátlan – 92 lej"
+"NÉV: Bodó Jácinta
+• Deviant King – 66 lej"
+• Steel Princess – 66 lej
+"NÉV: Boga Szász Tímea Renáta
+• Rejtély a toszkán napfényben – 89 lej"
+"NÉV: Dászkel Karácsonyi Andrea
+• Kismackó az óvodában – 40 lej"
+• Keress találj mesélj A mi óvodánk – 57 lej
+• Bori óvodába megy – 17 lej
+"NÉV: Gombos Réka
+• Járműves örömök – 33 lej"
+"NÉV: Győrfi Bernadett
+• Nero – 71 lej"
+• Helyesírás mindenkinek – 70 lej
+"NÉV: Kacsó Beáta
+• Dinoszauruszok – 92 lej"
+• Berci az építkezésen – 17 lej
+"NÉV: Keresztesi Klaudia
+• Bluey 5 perces mesék – 85 lej"
+"NÉV: Kovács Beáta Beba
+• Bori óvódába megy – 17 lej"
+• Bori és a szuper nyár – 17 lej
+• Bori úszni tanul NINCS – 0 lej
+• Bori a nagyszülőknél alszik – 17 lej
+"NÉV: Makkai Dorottya
+• Orbán kora KÉSŐBB – 85 lej"
+• A barátaim – 89 lej
+"NÉV: Mihály Beáta
+• Megőrülök érted – 83 lej"
+"NÉV: Silye Kiss Krisztina
+• Lengemesék ősz – 48 lej"
+• Miért nem járnak fogorvoshoz a cápák? – 57 lej
+"NÉV: Szász Sztroja Melinda
+• Az őrzők – 79 lej"
+"NÉV: Székely Sándor
+• Az osztály vesztese – 57 lej"
+• Cseresznyeliget NINCS – 0 lej
+"NÉV: Szopos Bernadett
+• Nagy matricák kis kezekbe Járművek – 22 lej"
+• Nagy matricák kis kezekbe Állatok – 22 lej
+• Berci és az összevissza érzések 6 db – 18 lej
+• Bori és a szuper nyár 6 db – 18 lej
+• The confidence of wildflowers – 43 lej
+• A sárkány ígérete – 81 lej
+• Biding 13 2 db – 63 lej
+• Több mint ellenségek – 85 lej
+• Bori óvodába megy – 17 lej
+"NÉV: Tóth Izabella
+• Kiváló testek – 106 lej"
+"NÉV: Tőkés Tünde
+• Szemtől szemben a halállal – 85 lej"
+
+
+<!-- ****************************** június vége - hozzánk küldött ***************************************** -->
+
+"NÉV: ?
+• A döntés – 83 lej"
+"NÉV: Bereczki Boglárka
+• Henri és Henrietta nyaralni megy – 49 lej"
+• Mi micsoda? Medvék – 49 lej
+"NÉV: Biró Réka
+• Hunyadi - Túl a tűz és érc falán – 118 lej"
+"NÉV: Bukur Enikő
+• Pál utcai fiúk – 38 lej"
+• Bradley az osztály réme – 52 lej
+• Emlékek őre NINCS – 0 lej
+"NÉV: Csécs Zsuzsi
+• A kalózok és a vajas keksz – 42 lej"
+"NÉV: Csiki Annamária
+• Esti mesék nehéz estékre – 74 lej"
+"NÉV: Jakab Rozina Éva
+• A két Lotti – 42 lej"
+"NÉV: Nagy Ilona 
+• Leszel a padtársam? NINCS – 0 lej"
+"NÉV: Szabó Eszter
+• A négy madár titka NINCS – 0 lej"
+• A négyszögletű kerek erdő – 57 lej
+"NÉV: Trufán Terézke
+• A gyógyító kód – 77 lej"
+
 <!-- ****************************** június 29. ***************************************** -->
 
 "NÉV: Bakó Renáta
