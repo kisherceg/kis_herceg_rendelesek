@@ -1,3 +1,106 @@
+
+<!-- **************************** július közepe hozzánk küldött *************************************** -->
+
+"NÉV: Bakó Beáta
+• A kis herceg – 30 lej"
+"NÉV: Baricz Rita Melinda
+• Túl a maszat hegyen – 70 lej"
+"NÉV: Bartok Olga
+• Csodálatos évszakok tél – 25 lej"
+• Csodálatos évszakok nyár – 25 lej
+"NÉV: Bíró Julianna
+• Tündérboszorkány KÉSŐBB – 50 lej"
+• Panthera - A hógömb fogságában – 70 lej
+"NÉV: Gál Csilla
+• Nagybetűs könyv - A kalózok és a vajas keksz – 43 lej"
+"NÉV: Hegyi Attila
+• Cruel prince – 92 lej"
+"NÉV: Kacsó Nóra Katalin
+• Anne Frank naplója – 70 lej"
+• Tüskevár – 49 lej
+• Törökországi levelek NINCS – 0 lej
+"NÉV: Kiss Zsuzsi
+• Bogyó és Babóca Ki kicsoda? – 83 lej"
+"NÉV: Kovács Mónika Ildikó
+• Észérvek – 82 lej"
+• Téveszmék – 70 lej
+"NÉV: Miklós Lajos
+• A négyszögletű kerek erdő – 56 lej"
+"NÉV: 747962059
+• Tüskevár – 49 lej"
+"NÉV: Sipos Anna Henrietta
+• Esküdt ellenségek – 76 lej"
+• Good boy – 56 lej
+"NÉV: Szabadi Lilla
+• Kopj le jófiú – 75 lej"
+"NÉV: Tőkés Zsóka
+• Anne Frank naplója – 70 lej"
+
+<!-- ****************************** július 13. ***************************************** -->
+
+"NÉV: Balogh Judit
+• Gyógynövények gyógyhatásai – 96 lej"
+"NÉV: Balogh Noémi
+• Mindent a böjtről a nőknek – 70 lej"
+• Hormonkonyha – 112 lej
+"NÉV: Bereczki Boglárka
+• Csetepaté a kiskertben – 52 lej"
+• Tüzijáték rókának – 56 lej
+"NÉV: Bodó Delinke
+• Mit főzzön anya – 74 lej"
+"NÉV: Garda Emőke
+• Lightlark – 98 lej"
+• Nightbane – 98 lej
+• Ksyshade – 98 lej
+"NÉV: Gergely Gyopár
+• Míg a halál el nem választ – 84 lej"
+"NÉV: Józsa Dalma Lara
+• Az aranyműves fia – 38 lej"
+• Porlik, mint a szikla – 49 lej
+• Not in love – 66 lej
+"NÉV: Kádár Helga
+• Helyesírás mindenkinek – 70 lej"
+"NÉV: Kakucs Móga Szidónia
+• Nyúl Péter Esti mesék – 105 lej"
+• Bogyó és Babóca Hónapok meséi – 98 lej
+"NÉV: Máthé Györgyi
+• Újra nyeregben – 24 lej"
+• Irma a rettenetes – 35 lej
+"NÉV: Mike Melinda
+• Az átmeneti feleség – 66 lej"
+"NÉV: Molnár Imola
+• Így kezeld a haragodat – 56 lej"
+"NÉV: Szigeti Simon Emőke
+• Imádnivaló cicák – 14 lej"
+• Tisztességes ajánlat – 55 lej
+• Mr Bridgerton csábítása – 55 lej
+"NÉV: Szopos Bernadett
+• A láthatatlan fonal – 50 lej"
+• Nyugodj meg kicsi kincsem! – 38 lej
+• Testrészek 2 db – 12 lej
+• Átmeneti feleség – 66 lej
+• Bori Az óvodában 2 db – 21 lej
+• Bing Az üres medence 2 db – 30 lej
+• Bing Hapi lufi 2 db – 30 lej
+• Bori és a szuper nyár – 20 lej
+• Beri és az összevissza érzések 2 db – 18 lej
+• Rejtett örökség – 84 lej
+• Hisztimesék – 45 lej
+• Bence pillangó kertje – 63 lej
+• Tesz vesz a farmon – 28 lej
+• Néma tanú – 55 lej
+• A magabiztos gyermek – 23 lej
+"NÉV: Varga Csenge
+• Az utolsó boszorkány ANTIKVÁR KÉSŐBB – 42 lej"
+"NÉV: Vizeli Tünde
+• Esküdt ellenségek – 77 lej"
+• Több mint ellenségek – 84 lej
+• A négyszögletű kerek erdő – 56 lej
+"NÉV: Zolnai Evelyn Anett
+• Bajban Dubajban – 51 lej"
+• Pons megszólalni – 82 lej
+
+
 <!-- ****************************** július 6. ***************************************** -->
 
 "NÉV: Asztalos Balásy Andrea
