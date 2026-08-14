@@ -82,26 +82,9 @@
 
 <!-- ****************************** augusztus 3. ***************************************** -->
 
-"NÉV: Bancsi Tímea
-• A hivatalos képregény KPOP Démonvadászok – 83 lej"
-"NÉV: Bátori Tímea
-• Böngészd a világ csodáit – 83 lej"
-"NÉV: Berei Beáta Imola
-• Egy kis élet – 117 lej"
-"NÉV: Bíró Ágota
-• Egyenes út az iskolába – 22 lej"
-"NÉV: Császár Anita Barbara
-• Áfonyaszedők – 76 lej"
-• Éld az életed – 104 lej
 "NÉV: Jákob Katalin Blanka
 • Kicsimackó a Balatonon – 55 lej"
 • Kicsimackó megfázott – 55 lej
-"NÉV: Mike Melinda
-• Pacsirtám – 79 lej"
-"NÉV: Silye Kiss Krisztina
-• Ezt én választottam – 14 lej"
-• Saját hangon – 41 lej
-• Elmegyek – 27 lej
 "NÉV: Suba Réka
 • Utazás Dinomdánomba – 41 lej"
 • Kollázsnapló – 12 lej
@@ -119,18 +102,6 @@
 
 "NÉV: Csiszér Éva
 • Mindig történik valami a Deákiba – 74 lej"
-"NÉV: Enyedi Annamária
-• A nyár veled kezdődik – 75 lej"
-• Köszi, apu – 63 lej
-"NÉV: Moldovan Emma
-• Milleniumi napló – 76 lej"
-"NÉV: Pécsi Éva Tímea
-• Csodálatos családok Peppa – 21 lej"
-• Peppa kedvenc meséi foglalkoztató NINCS – 0 lej
-• Peppa varázslatos barátai  – 18 lej
-"NÉV: Salat Tamás
-• Nyáron a párom – 83 lej"
-• Nem mézes hetek – 83 lej
 "NÉV: Szász Dalma Rózsa
 • Franklin a sötétben – 49 lej"
 • Hisztinemsék – 44 lej
@@ -144,10 +115,6 @@
 
 "NÉV: Bács Blanka
 • The wilder angolul KÉSŐBB – 0 lej"
-"NÉV: Hodor Délia
-• Ezüstszülött – 90 lej"
-"NÉV: László Emese Hanga 0748639166
-• Twisted love – 76 lej"
 
 <!-- ****************************** július 20. ***************************************** -->
 
@@ -163,10 +130,6 @@
 
 "NÉV: Kolozsvári Tünde
 • Micimackó – 28 lej"
-"NÉV: Péter Szilágyi Mónika
-• Kiváló testek – 104 lej"
-• Tésztaműhely – 77 lej
-• Második csillag jobbra – 84 lej
 "NÉV: Siklódi Jutka
 • A titkok otthona – 91 lej"
 
@@ -174,35 +137,16 @@
 
 "NÉV: Balogh Judit
 • Gyógynövények gyógyhatásai – 96 lej"
-"NÉV: Szigeti Simon Emőke
-• Imádnivaló cicák – 14 lej"
-• Tisztességes ajánlat – 55 lej
-• Mr Bridgerton csábítása – 55 lej
-"NÉV: Varga Csenge
-• Az utolsó boszorkány – 42 lej"
 
 <!-- **************************** július közepe hozzánk küldött *************************************** -->
 
-
 "NÉV: Bartok Olga
-• Csodálatos évszakok tél KÉSŐBB – 25 lej"
+• Csodálatos évszakok tél – 25 lej"
 "NÉV: Kacsó Nóra Katalin
 • Anne Frank naplója – 70 lej"
 • Tüskevár – 49 lej
 • Törökországi levelek NINCS – 0 lej
-"NÉV: Miklós Lajos
-• A négyszögletű kerek erdő – 56 lej"
-• Tüskevár – 49 lej"
 
-<!-- ****************************** július 13. ***************************************** -->
-
-"NÉV: Balogh Judit
-• Gyógynövények gyógyhatásai KÉSŐBB – 96 lej"
-• Imádnivaló cicák  – 14 lej"
-• Tisztességes ajánlat – 55 lej
-• Mr Bridgerton csábítása – 55 lej
-"NÉV: Varga Csenge
-• Az utolsó boszorkány – 42 lej"
 
 <!-- ****************************** július 6. ***************************************** -->
 
@@ -214,15 +158,7 @@
 "NÉV: Bukur Enikő
 • Pál utcai fiúk – 38 lej"
 • Bradley az osztály réme – 52 lej
-"NÉV: Szabó Eszter
-• A négy madár titka – 48 lej"
-• A négyszögletű kerek erdő – 57 lej
 
-
-<!-- ****************************** június 29. ***************************************** -->
-
-"NÉV: Keresztesi Klaudia
-• Rázd meg az almafát – 50 lej"
 
 <!-- ***************************** június váge hozzánk küldött ***************************************** -->
 
@@ -235,23 +171,11 @@
 • A belső csend ereje – 56 lej
 • Biblia  – 82 lej"
 
-<!-- **************************** június vége - hozzánk küldött *************************************** -->
-
-"NÉV: Kovács Margit Irén
-• A nagy evangéliumi katasztrófa – 252 lej"
-
 <!-- **************************** június közepe hozzánk küldött **************************************** -->
 
 "NÉV: Sófalvi Kinga
 • A négyszögletű  kerek erdő – 58 lej"
 • A Pál utcai fiúk – 50 lej
-"NÉV: Szász Edit
-• A napfény földje – 60 lej
-
-<!-- ****************************** június 1. ***************************************** -->
-
-"NÉV: Katalin Siklódi
-• A fiam titka – 70 lej"
 
 <!-- ****************************** május vége hozzánk küldött ***************************************** -->
 
@@ -261,11 +185,6 @@
 • Törökországi levelek – 40 lej
 • A buta felnőtt – 50 lej
 • A dzsungel könyve  – 50 lej
-
-<!-- ************************** MÁJUS KÖZEPE - hozzánk küldött  ************************************** -->
-
-"NÉV: Szász Edit
-• Tanuljunk meg írni  – 82 lej"
 
 <!-- ****************************** május 4.  ***************************************** -->
 "NÉV: Péter Vas Helga
