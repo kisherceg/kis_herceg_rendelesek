@@ -1,4 +1,64 @@
 
+<!-- ****************************** augusztus 24. ***************************************** -->
+
+"NÉV: Asztalos Balásy Andrea
+• A tökéletes fagylalt – 89 lej"
+"NÉV: Bodó Delinke
+• Pöttöm pajtik Minták – 14 lej"
+• Kerekmese – 55 lej
+• Erdei pajtársak – 35 lej
+• Mentősereg – 35 lej
+"NÉV: Simó Andrea 
+• A láthatatlan fonal – 49 lej"
+"NÉV: Ünige
+• A bagoly aki félt a sötétben – 67 lej"
+"NÉV: Simon Kriszta
+• A pénzköltés művészete – 82 lej"
+"NÉV: Simon Réka
+• Quo vadis – 69 lej"
+"NÉV: Varga Csenge
+• Pumpkin space kávézó – 83 lej"
+
+<!-- ****************************** augusztus hozzánk küldött ***************************************** -->
+
+"NÉV: Biró Réka
+• Póniszív a tengernél – 41 lej"
+• Veszélyben a vadlovak – 41 lej
+• A hercegnő lova – 41 lej
+• Panzió a csodamező birtokon KÉSŐBB – 41 lej
+"NÉV: Bokor Tímea
+• Bori és a Mikulás KÉSŐBB – 18 lej"
+• Bori lovagolni tanul – 18 lej
+• Bori orvoshoz megy – 18 lej
+"NÉV: Borbély Etelka
+• Tűzbe mennék érted – 90 lej"
+• Tényleg több mint testőr – 90 lej
+"NÉV: Csíki Timi
+• Heidi – 25 lej"
+"NÉV: Demeter Szilárd
+• Az ajándék – 69 lej"
+"NÉV: Jeremiás Zsófi
+• Zuhanórepülés – 62 lej"
+"NÉV: Keresztesi Beáta
+• Már iskolás vagyok – 54 lej"
+"NÉV: Kiss Nikoletta
+• A pénz pszichológiája – 83 lej"
+"NÉV: Kovács Réka dr
+• Wonka – 49 lej"
+"NÉV: Nagy Bözsi néni
+• El camino – 56 lej"
+• Szókereső – 17 lej
+"NÉV: Pataki Katalin
+• Berci ovis KÉSŐBB – 18 lej"
+"NÉV: Szabó Ziti
+• Berci óvodába megy KÉSŐBB – 18 lej"
+"NÉV: Szász Emőke
+• Pettson horgászni megy – 55 lej"
+"NÉV: Székely Kincső
+• Az ég minden kékje – 90 lej"
+"NÉV: Todoran Annamária
+• Kerek élet fája – 73 lej"
+
 <!-- ****************************** augusztus 17. ***************************************** -->
 
 "NÉV: Asztalos Balásy Andrea
