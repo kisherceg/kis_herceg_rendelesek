@@ -1,4 +1,78 @@
 
+<!-- ****************************** szeptember 7. ***************************************** -->
+
+"NÉV: Bot Henrietta
+• Játssz és tapints NINCS – 0 lej"
+• Szia Micimackó KÉSŐBB – 42 lej
+"NÉV: Detti
+• Bölcsődés vagyok KÉSŐBB – 35 lej"
+• Keress találj mesélj ADVENTI – 186 lej
+"NÉV: Dósa Ibolya
+• Pinocchio KÉSŐBB – 0 lej"
+"NÉV: Fülöp Andrea
+• Észérvek – 83 lej"
+• Téveszmék – 76 lej
+"NÉV: Kacsó Nóra Katalin 
+• Esküdt ellenségek – 76 lej"
+"NÉV: Kiss Virág
+• Murdoku  – 88 lej"
+"NÉV: László Emese
+• Twisted games – 83 lej"
+"NÉV: Marton Szidónia
+• Bosszú otthona – 90 lej"
+• Dubaj gésái 2. – 88 lej
+• Verity – 55 lej
+• Torz Tükör – 98 lej
+"NÉV: Szövérfi Erika
+• Kvirtek és kvartok – 42 lej"
+• Kukkantó manó és kerekítő manó titkai – 69 lej
+"NÉV: Barabási Anita
+• A pénzköltés művészete – 83 lej"
+"NÉV: Bodó Delinke
+• Éjszaka a dzsungelben – 35 lej"
+• Süss fel nap – 26 lej
+"NÉV: Farkas Szidónia
+• Boribon utazik – 39 lej"
+• Boribon házikója – 42 lej
+• Maszat játszik – 42 lej
+"NÉV: Győrfi Bernadett
+• Tánc a tündérherceggel – 70 lej"
+"NÉV: Kacsó Beáta
+• Sziasztok hóvirágok – 55 lej"
+• Berci óvodába megy KÉSŐBB – 17 lej
+"NÉV: Lovász Detti
+• A pumpkin spice kávézó – 83 lej"
+• A cinnamon bun könyvesbolt KÉSŐBB – 83 lej
+"NÉV: Magyari Emese
+• Saving 6 – 124 lej"
+"NÉV: Mészáros Tünde
+• Szandra és az ovi – 42 lej"
+• Leszel e a barátom? – 68 lej
+• Ákos óvodába megy – 42 lej
+• Akkor is szeretnél? KÉSŐBB – 48 lej
+• Elég nagy vagyok már? KÉSŐBB – 48 lej
+"NÉV: Mihály Beáta
+• A gyilkos nem Alice – 69 lej"
+"NÉV: Papp Tímea
+• Lindt – 65 lej"
+• Mind detox  – 27 lej
+• Számok – 13 lej
+• Digitális téboly – 35 lej
+• Neveljünk e gyerekeket? KÉSŐBB – 26 lej
+"NÉV: Simon Tündi
+• Powerless – 70 lej"
+"NÉV: Szerényi Henrietta
+• Pipp és Polli születésnap 2 db – 37 lej"
+"NÉV: Szopos Bernadett
+• Ha egy nap visszatérnék – 110 lej"
+• Fedezd fel a tested – 90 lej
+• Esti mesék Nyúl Péter – 103 lej
+• Reckless – 90 lej
+• Powerless – 70 lej
+• A harag King of wrath – 97 lej
+"NÉV: Szőcs Orsolya
+• Ákos óvodába megy  – 42 lej"
+
 <!-- ****************************** augusztus 31. ***************************************** -->
 
 "NÉV: Bakó Jánosi Annamária
