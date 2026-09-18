@@ -1,5 +1,83 @@
 
+<!-- ****************************** szeptember 14. ***************************************** -->
+
+"NÉV: Berei Beáta Imola
+• Tesz Vesz a világ – 59 lej"
+"NÉV: Csiszér Éva
+• Tud rólunk valaki a Deákiból – 75 lej"
+"NÉV: Fodor Kinga
+• Figyelemfejlesztő gyakorlatok – 20 lej"
+"NÉV: Gombos Réka
+• Tesz-vesz város Atól Zig – 65 lej"
+• Mosó Masa Mosodája – 43 lej
+• Varázslatos színező ovi – 8 lej
+• Thomas Mennyi az idő? KÉSŐBB – 20 lej
+• Őszi tollforgató – 19 lej
+• A sorsod nem áldás – 47 lej
+"NÉV: Keresztesi Klaudia
+• Franklin iskolába megy – 48 lej"
+"NÉV: Nagy Tímea
+• Hónapok meséi – 97 lej"
+• Bogyó és Babóca érzelmek meséi 2 db – 97 lej
+"NÉV: Néma Andrea
+• Murdoku – 89 lej"
+"NÉV: Portik Szabó Krisztina
+• Gyógynövények lexikona – 110 lej"
+"NÉV: Silye Kiss Krisztina
+• Abba – 165 lej"
+• Balázs Fecó – 41 lej
+"NÉV: Suba Tímea
+• Zootropolis 2. – 83 lej"
+• Ásásmentes kertészkedés – 63 lej
+• Body code – 90 lej
+"NÉV: Szopos Bernadett
+• Kincses kalandok – 27 lej"
+• Az erdő ünnepe – 55 lej
+• Bori és a kistestvér 2 db – 20 lej
+• Bori óvodába megy 2 db – 20 lej
+• Ablakos Keress Találj Mesélj Dinosz. – 69 lej
+
+
+"NÉV: Fazekas Gabó
+• Vackor az első Bbe – 62 lej"
+"NÉV: Fekete Attila
+• Kamionok teherautók – 17 lej"
+• Nagy járművek a városban – 17 lej
+• Szirénázó járművek – 17 lej
+• Különleges munkagépek – 17 lej
+"NÉV: Incze Klemi
+• Valami mindig történik a Deákiban – 73 lej"
+• Állj mellém – 64 lej
+• Késtél – 64 lej
+"NÉV: Keresztesi Klaudia
+• Keress Találj Mesélj Advent KÉSŐBB – 128 lej"
+"NÉV: Lőrincz Erika
+• Murdoku 2 db – 89 lej"
+"NÉV: Péter Szilágyi Mónika
+• Üveghattyú NINCS – 0 lej"
+"NÉV: Székely Renáta
+• A pénz pszichológiája – 83 lej"
+
 <!-- ****************************** szeptember 7. ***************************************** -->
+
+"NÉV: Kacsó Beáta
+• Berci óvodába megy KÉSŐBB – 17 lej
+"NÉV: Lovász Detti
+• A cinnamon bun könyvesbolt KÉSŐBB – 83 lej
+"NÉV: Mészáros Tünde
+• Akkor is szeretnél? KÉSŐBB – 48 lej
+• Elég nagy vagyok már? KÉSŐBB – 48 lej
+"NÉV: Mihály Beáta
+• A gyilkos nem Alice – 69 lej"
+"NÉV: Papp Tímea
+• Neveljünk e gyerekeket? KÉSŐBB – 26 lej
+"NÉV: Szopos Bernadett
+• Ha egy nap visszatérnék – 110 lej"
+• Fedezd fel a tested – 90 lej
+• Esti mesék Nyúl Péter – 103 lej
+• Reckless – 90 lej
+• Powerless – 70 lej
+• A harag King of wrath – 97 lej
 
 "NÉV: Bot Henrietta
 • Játssz és tapints NINCS – 0 lej"
@@ -9,102 +87,20 @@
 • Keress találj mesélj ADVENTI – 186 lej
 "NÉV: Dósa Ibolya
 • Pinocchio KÉSŐBB – 0 lej"
-"NÉV: Fülöp Andrea
-• Észérvek – 83 lej"
-• Téveszmék – 76 lej
-"NÉV: Kacsó Nóra Katalin 
-• Esküdt ellenségek – 76 lej"
 "NÉV: Kiss Virág
 • Murdoku  – 88 lej"
 "NÉV: László Emese
 • Twisted games – 83 lej"
-"NÉV: Marton Szidónia
-• Bosszú otthona – 90 lej"
-• Dubaj gésái 2. – 88 lej
-• Verity – 55 lej
-• Torz Tükör – 98 lej
 "NÉV: Szövérfi Erika
 • Kvirtek és kvartok – 42 lej"
 • Kukkantó manó és kerekítő manó titkai – 69 lej
-"NÉV: Barabási Anita
-• A pénzköltés művészete – 83 lej"
-"NÉV: Bodó Delinke
-• Éjszaka a dzsungelben – 35 lej"
-• Süss fel nap – 26 lej
-"NÉV: Farkas Szidónia
-• Boribon utazik – 39 lej"
-• Boribon házikója – 42 lej
-• Maszat játszik – 42 lej
-"NÉV: Győrfi Bernadett
-• Tánc a tündérherceggel – 70 lej"
-"NÉV: Kacsó Beáta
-• Sziasztok hóvirágok – 55 lej"
-• Berci óvodába megy KÉSŐBB – 17 lej
-"NÉV: Lovász Detti
-• A pumpkin spice kávézó – 83 lej"
-• A cinnamon bun könyvesbolt KÉSŐBB – 83 lej
-"NÉV: Magyari Emese
-• Saving 6 – 124 lej"
-"NÉV: Mészáros Tünde
-• Szandra és az ovi – 42 lej"
-• Leszel e a barátom? – 68 lej
-• Ákos óvodába megy – 42 lej
-• Akkor is szeretnél? KÉSŐBB – 48 lej
-• Elég nagy vagyok már? KÉSŐBB – 48 lej
-"NÉV: Mihály Beáta
-• A gyilkos nem Alice – 69 lej"
-"NÉV: Papp Tímea
-• Lindt – 65 lej"
-• Mind detox  – 27 lej
-• Számok – 13 lej
-• Digitális téboly – 35 lej
-• Neveljünk e gyerekeket? KÉSŐBB – 26 lej
-"NÉV: Simon Tündi
-• Powerless – 70 lej"
-"NÉV: Szerényi Henrietta
-• Pipp és Polli születésnap 2 db – 37 lej"
-"NÉV: Szopos Bernadett
-• Ha egy nap visszatérnék – 110 lej"
-• Fedezd fel a tested – 90 lej
-• Esti mesék Nyúl Péter – 103 lej
-• Reckless – 90 lej
-• Powerless – 70 lej
-• A harag King of wrath – 97 lej
-"NÉV: Szőcs Orsolya
-• Ákos óvodába megy  – 42 lej"
 
 <!-- ****************************** augusztus 31. ***************************************** -->
-
-"NÉV: Bakó Jánosi Annamária
-• Snögfrid virágvölgyből – 62 lej"
-• A titkos őt – 37 lej
-• Süti a kisegér és a váratlan esemény – 66 lej
-"NÉV: Barabási Eszter
-• A hullaházi skandalum – 48 lej"
-"NÉV: Csiszér Magyari Hedving Hevilla
-• Bori szobatiszta lesz – 17 lej"
-• Első kukucs könyvem A tanyán – 31 lej
-• Első kukucs könyvem Az állatkertben – 31 lej
-"NÉV: Csog Melinda
-• Harry Potter és a titkok kamrája – 248 lej"
-"NÉV: Lörinczi Katalin
-• Bogyó és Babóca Csigás ablakos könyv – 55 lej"
-"NÉV: Magyari Anna
-• Zöldlámpa – 96 lej"
-"NÉV: Nagy Katalin
-• Anya hol vagy? – 32 lej"
-• Ki kopog? – 32 lej
-• Mi mozog? – 32 lej
-"NÉV: Simon Tündi
-• A gyilkos nem Alice 2 db KÉSŐBB – 55 lej"
 "NÉV: Suba Réka
 • Zabaszauruszok 1. – 23 lej"
 • Ácsorgó mocsarak – 70 lej
 • Ásásmentes biokert NINCS – 0 lej
 • A zsálya illata – 104 lej
-"NÉV: Suba Tímea
-• Lassie hazatér – 33 lej"
-• Zootropolis – 83 lej
 "NÉV: Szopos Bernadett
 • Beni szobatiszta lesz – 31 lej"
 • Bing A szétrontott torta 2 db – 35 lej
@@ -130,322 +126,11 @@
 • Dacszövetség 5. rész – 90 lej"
 "NÉV: Bács Blanka
 • 1884 – 52 lej"
-"NÉV: Balogh Judit
-• A belső csend ereje – 55 lej"
-"NÉV: Benkő Barbi 
-• A döntés – 82 lej"
-"NÉV: Bokor Dalma
-• Unikornisos könyv 5+ éveseknek – 0 lej"
-"NÉV: Csiki Viktória
-• Üveghattyú – 95 lej"
 "NÉV: Demeter Szilárd
 • Atomi szokások – 95 lej"
-"NÉV: Havadtői Mária
-• Micimackó puzzle első kirakóskönyvem – 60 lej"
 "NÉV: Német Scheila Andrea
 • Kavics a cipőben – 41 lej"
 • Gyógypuszi kék – 82 lej
-"NÉV: Nikolics Izabella
-• Torzonborz megjavul – 68 lej"
-"NÉV: Papp Melinda
-• Tea Stilton Varázslatos unikornisok – 68 lej"
-"NÉV: Szabó Csilla
-• A házasságlabirintus – 68 lej"
 "NÉV: Szopos Bernadett
 • Doktor matek 7 db – 99 lej"
-
-<!-- ****************************** augusztus 24. ***************************************** -->
-
-"NÉV: Asztalos Balásy Andrea
-• A tökéletes fagylalt – 89 lej"
-"NÉV: Bodó Delinke
-• Pöttöm pajtik Minták – 14 lej"
-• Kerekmese – 55 lej
-• Erdei pajtársak – 35 lej
-• Mentősereg – 35 lej
-"NÉV: Simó Andrea 
-• A láthatatlan fonal – 49 lej"
-"NÉV: Ünige
-• A bagoly aki félt a sötétben – 67 lej"
-"NÉV: Simon Kriszta
-• A pénzköltés művészete – 82 lej"
-"NÉV: Simon Réka
-• Quo vadis – 69 lej"
-"NÉV: Varga Csenge
-• Pumpkin space kávézó – 83 lej"
-
-<!-- ****************************** augusztus hozzánk küldött ***************************************** -->
-
-"NÉV: Biró Réka
-• Póniszív a tengernél – 41 lej"
-• Veszélyben a vadlovak – 41 lej
-• A hercegnő lova – 41 lej
-• Panzió a csodamező birtokon KÉSŐBB – 41 lej
-"NÉV: Bokor Tímea
-• Bori és a Mikulás KÉSŐBB – 18 lej"
-• Bori lovagolni tanul – 18 lej
-• Bori orvoshoz megy – 18 lej
-"NÉV: Borbély Etelka
-• Tűzbe mennék érted – 90 lej"
-• Tényleg több mint testőr – 90 lej
-"NÉV: Csíki Timi
-• Heidi – 25 lej"
-"NÉV: Demeter Szilárd
-• Az ajándék – 69 lej"
-"NÉV: Jeremiás Zsófi
-• Zuhanórepülés – 62 lej"
-"NÉV: Keresztesi Beáta
-• Már iskolás vagyok – 54 lej"
-"NÉV: Kiss Nikoletta
-• A pénz pszichológiája – 83 lej"
-"NÉV: Kovács Réka dr
-• Wonka – 49 lej"
-"NÉV: Nagy Bözsi néni
-• El camino – 56 lej"
-• Szókereső – 17 lej
-"NÉV: Pataki Katalin
-• Berci ovis KÉSŐBB – 18 lej"
-"NÉV: Szabó Ziti
-• Berci óvodába megy KÉSŐBB – 18 lej"
-"NÉV: Szász Emőke
-• Pettson horgászni megy – 55 lej"
-"NÉV: Székely Kincső
-• Az ég minden kékje – 90 lej"
-"NÉV: Todoran Annamária
-• Kerek élet fája – 73 lej"
-
-<!-- ****************************** augusztus 17. ***************************************** -->
-
-"NÉV: Asztalos Balásy Andrea
-• Radnóti Miklós összegyűjtött versei – 76 lej"
-• Nagy rajziskola – 117 lej
-"NÉV: Berei Brigitta
-• Érezd a mesét Kutyus segít – 42 lej"
-"NÉV: Magyari Emese
-• Keeping 13 – 124 lej"
-"NÉV: Szopos Bernadett
-• Bogyó és Babóca Ki kicsoda? – 83 lej"
-• Vuk órás könyv – 40 lej
-• Hová tűnt a cseresznyefa nagypapa? KÉSŐBB – 31 lej
-• Leszel a barátom? 3 DB KÉSŐBB – 27 lej
-
-
-<!-- ****************************** augusztus második hete hozzánk küldött ***************************************** -->
-
-"NÉV: Benkő Barbi
-• A döntés – 83 lej"
-"NÉV: Csipán tanárnő
-• Kun Magdolna verseskötet ANTIKVÁR KÉSŐBB – 0 lej"
-"NÉV: Csiszér Helga Armella
-• Momo és Max Miért? – 48 lej"
-• Láthatatlan fonal – 49 lej
-"NÉV: Fazakas Noémi
-• Zöldlámpa – 96 lej"
-"NÉV: Fechte Bálint Adél
-• A repülő osztály – 38 lej"
-"NÉV: Lengyel Rebeka
-• Árnyéknővér – 83 lej"
-"NÉV: Német Scheila Andrea
-• Viharnővér – 76 lej"
-• Árnyéknővér – 83 lej
-• Gyöngynővér – 83 lej
-"NÉV: Ozsváth Izabella
-• Az örökölt sors – 70 lej"
-• Affér – 77 lej
-"NÉV: Ritziu Ilka Krisztina
-• Kétévi vakáció – 60 lej"
-• Mit főzzön anya – 110 lej
-"NÉV: Szabó Andi
-• Bölcső és bagoly – 25 lej"
-
-
-
-<!-- ****************************** augusztus 10. ***************************************** -->
-
-"NÉV: Bakó Jánosi Annamária
-• Zakatoló – 55 lej"
-• Markoló traktor kukásautó – 89 lej
-"NÉV: Boga Szász Tímea Renáta
-• A zárda gyermekei – 82 lej"
-• Az auschwitzi bába – 78 lej
-"NÉV: Chirilla Enikő
-• Bori óvodába megy – 17 lej"
-• Bori születésnapja – 17 lej
-• Bori segít apának – 17 lej
-• Bori beteg – 17 lej
-"NÉV: Csaba Katalin Rozália
-• Érzelmek erdeje Ég veled aggodalom – 41 lej"
-• Érzelmek erdeje Ég veled unalom  – 41 lej
-"NÉV: Draxel Brigitta
-• El fogsz tűnni – 43 lej"
-• Hollow lányok – 35 lej
-• Ne veszíts el – 39 lej
-"NÉV: Krakkai Tünde Ildikó
-• Tűzoltók az oviban – 17 lej"
-• Békés szülő, boldog gyermek – 76 lej
-"NÉV: Marton Nóra
-• Három holló – 82 lej"
-"NÉV: Mihály Pataki Kati
-• Fogalmazás gyakorló – 36 lej"
-"NÉV: Puja Orsolya
-• Széna Bogi és a kócos szombat –  lej"
-"NÉV: Simon Tündi
-• Tiltólistás szerelem – 96 lej"
-"NÉV: Suba Bartos Tünde
-• Nagy iskolakönyvem – 59 lej"
-"NÉV: Szabó Ziti
-• Berci óvodába megy – 17 lej"
-"NÉV: Szántó Adrienn
-• Miért nem járnak fogorvoshoz a cápák? – 55 lej"
-• Az emberi test – 48 lej
-• Bolygók – 37 lej
-• Öreg néne őzikéje – 38 lej
-• Traktorok munkában – 17 lej
-• Martoló a markoló – 42 lej
-• Az erdő – 48 lej
-"NÉV: Szopos Bernadett
-• Fagyi kaland – 35 lej"
-• The score A pont – 83 lej
-
-
-<!-- ****************************** augusztus második hete hozzánk küldött ***************************************** -->
-
-"NÉV: Bács Blanka
-• Never lie – 90 lej"
-"NÉV: Barabási Eszter
-• Gyógypuszi kék  – 83 lej"
-"NÉV: Bartok Olga
-• Csodálatos évszakok tél – 24 lej"
-"NÉV: Fazakas Ildikó
-• Csongor és Tünde – 20 lej"
-"NÉV: Fekete Attila
-• Járművek az építkezésen – 18 lej"
-• Óriás járművek az építkezésen – 18 lej
-• Traktorok a munkában – 18 lej
-"NÉV: Hami Nati
-• Vuk – 29 lej"
-• Rumini – 69 lej
-• Lile a sellőlány – 51 lej
-• Óvodások tankönyve – 36 lej
-• Az óra Barátnőm Bori – 21 lej
-"NÉV: Kacsó Katinka
-• Babanapló barna – 78 lej"
-"NÉV: Lészai Borbély Kinga
-• Szeretünk téged – 46 lej"
-"NÉV: Szász Erzsébet
-• Brumi az iskolában – 62 lej"
-• Kincskereső kisködmön – 69 lej
-"NÉV: Szatmári Beáta
-• Anti KÉSŐBB  – 31 lej"
-"NÉV: Székely Kincső
-• Apám meghal – 69 lej"
-
-<!-- ****************************** augusztus 3. ***************************************** -->
-
-"NÉV: Jákob Katalin Blanka
-• Kicsimackó a Balatonon – 55 lej"
-• Kicsimackó megfázott – 55 lej
-"NÉV: Suba Réka
-• Utazás Dinomdánomba – 41 lej"
-• Kollázsnapló – 12 lej
-• Mit főzzön anya – 109 lej
-"NÉV: Szopos Bernadett
-• Bori születésnapja – 17 lej"
-"NÉV: Zolnai Renáta
-• Bori óvodába megy – 17 lej"
-"NÉV: Zsidó Andrea
-• Saving 6 – 124 lej"
-• Redeeming 6 – 138 lej
-
-
-<!-- ****************************** hozzánk küldött augusztus eleje ***************************************** -->
-
-"NÉV: Csiszér Éva
-• Mindig történik valami a Deákiba – 74 lej"
-"NÉV: Szász Dalma Rózsa
-• Franklin a sötétben – 49 lej"
-• Hisztinemsék – 44 lej
-• Bori kirándul – 17 lej
-• Bori mérges – 17 lej
-• Charlie és a csokigyár – 59 lej
-• Gondolatok elvitelre 2. – 21 lej
-• Gondolatok elvitelre – 34 lej
-
-<!-- **************************** július vége hozzánk küldött *************************************** -->
-
-"NÉV: Bács Blanka
-• The wilder angolul KÉSŐBB – 0 lej"
-
-<!-- ****************************** július 20. ***************************************** -->
-
-"NÉV: Csiki Viktória
-• Üveghattyú KÉSŐBB – 97 lej"
-• A rendes lányok csendben sírnak – 83 lej
-"NÉV: Szövérfi Leilla
-• Bori segít apának KÉSŐBB – 17 lej
-
-<!-- **************************** július vége hozzánk küldött *************************************** -->
-
-"NÉV: Kolozsvári Tünde
-• Micimackó – 28 lej"
-"NÉV: Siklódi Jutka
-• A titkok otthona – 91 lej"
-
-<!-- ****************************** július 13. ***************************************** -->
-
-"NÉV: Balogh Judit
-• Gyógynövények gyógyhatásai – 96 lej"
-
-<!-- **************************** július közepe hozzánk küldött *************************************** -->
-
-"NÉV: Bartok Olga
-• Csodálatos évszakok tél – 25 lej"
-"NÉV: Kacsó Nóra Katalin
-• Anne Frank naplója – 70 lej"
-• Tüskevár – 49 lej
-• Törökországi levelek NINCS – 0 lej
-
-
-<!-- ****************************** július 6. ***************************************** -->
-
-"NÉV: Makkai Dorottya
-• Orbán kora – 85 lej"
-
-<!-- **************************** június vége - hozzánk küldött *************************************** -->
-
-"NÉV: Bukur Enikő
-• Pál utcai fiúk – 38 lej"
-• Bradley az osztály réme – 52 lej
-
-
-<!-- ***************************** június váge hozzánk küldött ***************************************** -->
-
-"NÉV: Csíki Beáta
-• Első Zongorás könyvem – 95 lej"
-
-<!-- ****************************** június 22. ***************************************** -->
-
-"NÉV: Antal Katalin Erzsébet
-• A belső csend ereje – 56 lej
-• Biblia  – 82 lej"
-
-<!-- **************************** június közepe hozzánk küldött **************************************** -->
-
-"NÉV: Sófalvi Kinga
-• A négyszögletű  kerek erdő – 58 lej"
-• A Pál utcai fiúk – 50 lej
-
-<!-- ****************************** május vége hozzánk küldött ***************************************** -->
-
-"NÉV: Balazs Erika 
-• Random Leiner Laura ANTIKV. KÉSŐBB – 0 lej"
-"NÉV: Zari Noémi 
-• Törökországi levelek – 40 lej
-• A buta felnőtt – 50 lej
-• A dzsungel könyve  – 50 lej
-
-<!-- ****************************** május 4.  ***************************************** -->
-"NÉV: Péter Vas Helga
-• Természetes gyógymódok a babavárásról – 26 lej
-
 
