@@ -1,69 +1,7 @@
 
 <!-- ****************************** szeptember 28. ***************************************** -->
-
-"NÉV: Adorjáni Orsolya
-• Őszi borzongás – 97 lej"
-"NÉV: Berei Beáta Imola
-• Berci és a rendőrök – 17 lej"
-• Test – 83 lej
-• Lázár – 96 lej
-• Lovagoljon Perzsiába – 70 lej
-"NÉV: Dangelo Edina
-• Az első kirakóskönyvem Micimackó – 48 lej"
-"NÉV: Faluvégi Erzsébet
-• Bogáncs – 48 lej"
-"NÉV: Fleischer  Ildikó
-• Micimackó mesegyűjtemény – 76 lej"
-• Pettson karácsonya – 56 lej
-"NÉV: Jakab Annamária
-• Montessori baba – 96 lej"
-• Az esztendő néprajza – 40 lej
-"NÉV: Józsa Dalma Lara
-• Tamin 7 – 123 lej"
-• Kávézó a tenger partján – 83 lej
-"NÉV: Kacsó Beáta
-• Micimackó mesegyűjtemény – 75 lej"
-"NÉV: Kádár Helga
-• A végtelen végzősédesek – 69 lej"
-"NÉV: Lukács Boglárka
-• Beszoktatástól ballagásig – 69 lej"
-"NÉV: Magyari Csilla
-• Magunkról – 57 lej"
-• Lény menzeszpozitív – 69 lej
-• Tabuk nélkül a menstruációról – 55 lej
-• Dexter Prockter – 76 lej
-• A Mandlóri – 96 lej
-"NÉV: Magyari Emese
-• Taming 7 – 123 lej"
-"NÉV: Major Zsófia
-• Mesélj és játssz Nyúl Péter világa mágneses – 69 lej"
-• Nyúl Péter Szülinapi kincsvadászás – 69 lej
-• Mókás matricák 2 éveseknek – 35 lej
-• Frici a cincér – 28 lej
-• Vendel a szarvasbogár – 28 lej
-• Kisvakond mágneseskönyv – 69 lej
-"NÉV: Marton Bíborka
-• Muroku – 89 lej"
-"NÉV: Marton Dalma
-• Mesék a felnőttéválásról – 69 lej"
-• Nindzsakölyök – 39 lej
-• Matek Nyomozók piros – 36 lej
-• Matek Nyomozók kék – 36 lej
-"NÉV: Silye Kiss Krisztina
-• Lengemesék IV. Nádtenger télen – 59 lej"
-• Egyszer volt az ember – 89 lej
-• A Mamam köténye – 62 lej
-"NÉV: Simon Tündi
-• Jobb, mint a filmeken – 65 lej"
-"NÉV: Szabó Zsuzsa
-• Mackó levelei – 37 lej"
 "NÉV: Szántó Adrien
-• Vuk diafilm – 25 lej"
-• Bertalan és Barnabás diafilm – 25 lej
-• A tücsök és a hangya diafilm – 25 lej
-• A csillagszemű juhász diafilm – 25 lej
-"NÉV: Székely Sándor
-• My love story  – 49 lej"
+• Vuk diafilm KÉSŐBB – 25 lej"
 "NÉV: Szopos Bernadett
 • Testrészek KÉSŐBB – 11 lej"
 • Időmese 5 db – 112 lej
@@ -77,11 +15,6 @@
 • Örökölt sors KÉSŐBB – 69 lej
 "NÉV: Szőcs Kinga
 • Beszokástól ballagásig – 69 lej"
-"NÉV: Szőcs Orsolya
-• Karácsonyi bakancslista – 53 lej"
-"NÉV: Tóth Renáta
-• Erdei mesék Nyúl Péter – 110 lej"
-• Egy igazán ölelős mese – 69 lej
 "NÉV: Török Kinga Tímea
 • Beszokástól ballagásig – 69 lej"
 • Érzelmek meséi – 96 lej
@@ -95,88 +28,34 @@
 • Bogáncs – 48 lej"
 "NÉV: Makkai Dorottya
 • Felnőttmesék a meddőségről – 75 lej"
-"NÉV: Péter Szilágyi Mónika
-• Egy kis élet – 116 lej"
-• Időmese – 112 lej
-"NÉV: Szász Dalma Rózsa
-• Nyúl Péter lapozói 2 db – 48 lej"
-• Bogyó és Babóca minikönyvek 2 db – 68 lej
-• Érzelmek meséi – 96 lej
-"NÉV: Szávuly Ágota
-• Már iskolás vagyok – 69 lej"
 "NÉV: Tofán Teréz
 • Thaiföldi feleség – 62 lej"
 • Magányügy NINCS – 0 lej
 
 <!-- ****************************** szeptember 21. ***************************************** -->
-
-"NÉV: Fazakas Tünde
-• Szent Margit legendája – 33 lej"
-• Isten rabjai – 60 lej
-"NÉV: Iszlai Tünde
-• Királyok csatája – 96 lej"
-• Ostrom és vihar – 55 lej
-• Pusztulás és felemelkedés – 55 lej
-• Hamuváros – 76 lej
-• Csontváros – 69 lej
-• Üvegváros – 69 lej
-• Bukott angyalok városa – 62 lej
 "NÉV: Karácsonyi Dászkel Andrea
 • Keress Találj Mesélj Boldog Karácsonyt! KÉSŐBB – 55 lej"
-• Keress Találj Mesélj Évszakok – 55 lej
-• Pipp és Polli és az új barát – 37 lej
-• Pipp és Polli A kis tócsa – 37 lej
-• A láthtatatla fonal – 48 lej
-"NÉV: Keresztesi Kinga
-• Elek merre keresselek? – 43 lej"
-• Ezt nevezem! – 43 lej
-"NÉV: Kovács Ildikó néni
-• Fanni hagyományai NICS – 0 lej"
-• Csongor és Tünde – 20 lej
-• Semmi – 60 lej
-"NÉV: Kozma Orsi
-• Gaston Türelmetlen vagyok – 34 lej"
 "NÉV: Kutasi Ilonka
 • A busz kereke KÉSŐBB – 25 lej
-"NÉV: Makkai Szilvi
-• Iciri-piciri – 22 lej"
 "NÉV: Nikolics Iza
 • Mérgező szülők ZÖLD ANTIKV. KÉSŐBB – 0 lej"
-"NÉV: Sipos Katika
-• Szeleburdi család – 35 lej"
 "NÉV: Szabó Bogi
-• Murdoku 2 db KÉSŐBB – 89 lej"
+• Murdoku 2 db – 89 lej"
 
 "NÉV: Demeter Csilla
 • Állati hősök KÉSŐBB – 29 lej"
 "NÉV: Keresztesi Klaudia
-• Időversek KÉSŐBB – 55 lej
+• Időversek – 55 lej
 "NÉV: Nuszer Tímea
-• Anjouk A hatalom bástyái – 83 lej"
-• Viharszem – 46 lej
-• Próféta – 56 lej
 • Kaszás KÉSŐBB – 37 lej
-"NÉV: Suba Réka
-• Cserjék gondozása – 63 lej"
-• Kenyérre valók – 63 lej
-• Már mondatokat olvasok – 20 lej
 "NÉV: Szopos Bernadett
-• Az arab utazásai 3 db – 75 lej"
-• Bori Koncentrációs játékos feladatok – 25 lej
-• Felhőkkert – 97 lej
 • Leszel a barátom? 5 db – 28 lej
 • Időmese 33 db – 110 lej
-• Időfüzet 5 db – 45 lej
-
 
 <!-- ****************************** szeptember 14. ***************************************** -->
 
 "NÉV: Gombos Réka
 • Thomas Mennyi az idő? KÉSŐBB – 20 lej
-"NÉV: Silye Kiss Krisztina
-• Abba – 165 lej"
-• Balázs Fecó – 41 lej
-
 "NÉV: Fazekas Gabó
 • Vackor az első Bbe – 62 lej"
 "NÉV: Keresztesi Klaudia
@@ -195,9 +74,7 @@
 • Elég nagy vagyok már? KÉSŐBB – 48 lej
 "NÉV: Papp Tímea
 • Neveljünk e gyerekeket? KÉSŐBB – 26 lej
-
 "NÉV: Bot Henrietta
-• Játssz és tapints NINCS – 0 lej"
 • Szia Micimackó KÉSŐBB – 42 lej
 "NÉV: Dósa Ibolya
 • Pinocchio KÉSŐBB – 0 lej"
@@ -210,12 +87,30 @@
 • Kukkantó manó és kerekítő manó titkai – 69 lej
 
 <!-- ****************************** augusztus vége - hozzánk küldött ***************************************** -->
-
-"NÉV: Ambrus Teodóra
-• Dacszövetség 5. rész – 90 lej"
-"NÉV: Demeter Szilárd
 • Atomi szokások – 95 lej"
 "NÉV: Német Scheila Andrea
 • Kavics a cipőben – 41 lej"
 • Gyógypuszi kék – 82 lej
+
+
+<!-- ****************************** régi könyvek - hozzánk küldött ***************************************** -->
+
+"NÉV: Bács Blanka
+• The wilder angol KÉSŐBB – 0 lej"
+"NÉV: Csiki Viki
+• Üveghattyú – 97 lej"
+• A rendes lányok csendben sírnak – 83 lej
+"NÉV: Csipán tanárnő
+• Kun Magdolna verseskötet ANTIKV KÉSŐBB – 0 lej"
+"NÉV: Jákob Katalin Blanka
+• Kicsimackó és a Balaton – 55 lej"
+• Kicsimackó megfázott – 55 lej
+"NÉV: Német Scheila Andrea
+• Viharnővér – 76 lej"
+• Árnyéknővér – 83 lej
+• Gyögynővér – 83 lej
+"NÉV: Puja Orsolya
+• Széna Bogi és a kócos szombat – 48 lej"
+"NÉV: Szatmári Beáta
+• Anti KÉSŐBB – 31 lej"
 
