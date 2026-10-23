@@ -1,94 +1,33 @@
 
 <!-- ****************************** október 12. ***************************************** -->
-
-"NÉV: Asztalos Balásy Andrea
-• Patchwork otthon – 31 lej"
-• Patchwork 200 kérdés – 35 lej
-• A bukfenc – 91 lej
 "NÉV: Bakó Jánosi Annamária
 • Szakadékból a fényre ANTIKV. KÉSŐBB – 136 lej"
-"NÉV: Berei Beáta Imola
-• Mennyit adtál érte? 2 db – 84 lej"
-• A rendes lányok csendben sírnak – 84 lej
 "NÉV: Csiszér Helga Armella
 • A graffaló nagyi – 49 lej"
 "NÉV: Demeter Csilla
 • Mister Morrison mágikus állatlexikona KÉSŐBB – 138 lej"
-"NÉV: Draxel Brigitta
-• Újra veled éjfélkor – 47 lej"
-• Szent Johanna Gimi 5. – 65 lej
-• Szent Johanna Gimi 6. – 65 lej
 "NÉV: Enyedi Annamária
 • Presser – 55 lej"
 "NÉV: Gombos Réka
-• Zueljka – 66 lej"
 • Iskolaérett vagyok? KÉSŐBB – 23 lej
 "NÉV: Lukács Erika
-• A szervmanók – 34 lej"
-• Hónapok meséi – 98 lej
 • Iskolaérett vagyok? KÉSŐBB – 23 lej
-• Mennyit adtál érte? – 84 lej
-"NÉV: Magyari Csilla
-• Panthera A hógömb fogságában – 70 lej"
-"NÉV: Marton Alíz Eszter
-• Bűnösök játéka – 98 lej"
-"NÉV: Marton Nóra
-• A főnix útja – 91 lej"
-• A kóbor kutyák utolsó évei – 33 lej
-• Huszonnégy másodperc – 42 lej
-• 41 nap 9 óra 42 perc – 31 lej
-"NÉV: Portik Szabó Krisztina
-• 500 gramm zöldség – 139 lej"
 "NÉV: Szász Eszter
 • Kapibara a füvek ura – 56 lej"
 • Ádám és a dzsúdó – 42 lej
-"NÉV: Zolnai Sarolta
-• Karácsonyi csodák – 112 lej"
-• Segítség, állat! – 35 lej
-• Alex hét napja – 42 lej
 
 "NÉV: Balogh Réka
 • Póniszív panzió KÉSŐBB – 42 lej
 "NÉV: Biró Mária
 • Az ember tragédiája – 60 lej"
-"NÉV: Bot Heni
-• Böngéssz járműhangokat – 98 lej"
-"NÉV: GLS futár
-• Boribon utazik – 35 lej"
-• Boribon kirándul – 35 lej
-"NÉV: Kacsó Mónika
-• Esküvőtervező – 35 lej"
 "NÉV: Kis Virág
 • Murdoku – 90 lej"
-"NÉV: Kovács Cseh Judit
-• Szeleburdi család – 35 lej"
-"NÉV: Krizsán Brigitta
-• Ha elszámolok tízig – 83 lej"
-• Mellékszerep – 86 lej
-• Én még soha – 77 lej
 "NÉV: Simon Tündi
 • Daydream  – 84 lej"
-"NÉV: Szász Kincső
-• Holnap – 83 lej"
-• Mert szeretlek – 83 lej
-"NÉV: Szatmári Beáta
-• Gyermekeink és a hit – 70 lej"
-• Lépésről lépésre – 42 lej
 "NÉV: Székely Kincső
 • Fájdallam KÉSŐBB – 35 lej"
-"NÉV: Szekeres Ildikó
-• Néma tanú – 70 lej"
-• Megtörtek – 105 lej
-• Bestiák – 87 lej
-"NÉV: Szőcs Henrietta
-• Elmúlás – 49 lej"
-• Szerelmünk lapjai – 49 lej
-"NÉV: Todorán Amália
-• A tanár – 93 lej"
 "NÉV: Török Edit
 • Micimackó – 64 lej"
-"NÉV: Vásárhelyi Dalma
-• Verity – 66 lej"
 
 <!-- ****************************** október 5. ***************************************** -->
 
@@ -105,55 +44,14 @@
 "NÉV: Nagy Szabolcs
 • Állati elmék KÉSŐBB – 28 lej"
 • Egzisztenciális pszichoterápia – 138 lej
-"NÉV: Szopos Bernadett
-• Leszel a barátom? 5 db – 28 lej"
-• Murdoku KÉSŐBB – 88 lej
-• A gyilkos nem Alice – 69 lej
-• Időversek – 57 lej
-• A babaház őrei – 23 lej
-• A világ legneveletlenebb unikornisa – 20 lej
-• 5 perces kutyimesék – 61 lej
-• Peca király 3az1 ben kártyajáték – 20 lej
-• Télapó kifestője 3 db – 13 lej
-• Téli manókalandok 3  db – 11 lej
-• Kicsik színezője 2 db – 10 lej
-• Nyúl Péter havaz karácsony 3 db – 72 lej
-• BING  Szülinapi ajándék – 27 lej
-• BING Hová bújt Bing? – 50 lej
-• Számoljunk 1től 100ig Bori – 25 lej
-• Az arab felesége   – 104 lej
-• Csipike 2 db – 105 lej
-• Milyen volt Jézus korában? 2 db – 59 lej
 "NÉV: Szövérfi Leilla
-• Dorci a legkisebb óvodás – 42 lej"
-• Micimackó dolgos pufi matricák – 28 lej
 • Boribon autózik KÉSŐBB – 42 lej
 • Boribon házikója KÉSŐBB – 42 lej
-"NÉV: Zolnai Sarolta
-• A kedves szavak naplója – 69 lej"
-• Pitypang a zebrán – 42 lej
-• A sáros csizma – 27 lej
-"NÉV: Zsidó Andrea
-• Taming 7 – 125 lej"
-"NÉV: Szász Kriszta
-• A fogoly – 92 lej"
-• Nocticadia – 121 lej
 
 <!-- ****************************** szeptember 28. ***************************************** -->
 
 "NÉV: Szántó Adrien
 • Vuk diafilm KÉSŐBB – 25 lej"
-"NÉV: Szopos Bernadett
-• Testrészek KÉSŐBB – 11 lej"
-• Időmese 5 db – 112 lej
-• Pipp és Polli A karácsonyfa – 38 lej
-• Pipp és Polli Hurrá havazik! KÉSŐBB – 38 lej
-• Pipp és Polli A piros lufi – 38 lej
-• Pipp és Polli Hol az alvókám? – 38 lej
-• Pipp és Polli A barátságos csiga – 38 lej
-• Turbó versenyautó észpörgetője 2 db – 17 lej
-• Sátántangó – 69 lej
-• Örökölt sors KÉSŐBB – 69 lej
 "NÉV: Balázs Kinga
 • A telepi lány – 55 lej"
 "NÉV: Makkai Dorottya
@@ -171,9 +69,6 @@
 • Állati hősök KÉSŐBB – 29 lej"
 "NÉV: Nuszer Tímea
 • Kaszás KÉSŐBB – 37 lej
-"NÉV: Szopos Bernadett
-• Leszel a barátom? 5 db – 28 lej
-• Időmese 33 db – 110 lej
 
 <!-- ****************************** szeptember 14. ***************************************** -->
 
