@@ -1,22 +1,248 @@
+
+<!-- ****************************** november 16. ***************************************** -->
+
+"NÉV: Bokor Dalma Tímea
+• Lesz nemulass Findusz – 65 lej"
+"NÉV: Csalóka Júlia
+• Utazás dínomdánomba – 42 lej"
+• Karácsonyi kitérő – 28 lej
+"NÉV: Csiszér Helga Armella
+• Lesz nemulass findusz – 65 lej"
+• Findusz elköltözik – 44 lej
+"NÉV: Dangelo Edina
+• Peppa malac 1000 matica – 38 lej"
+"NÉV: Dászkel Karácsonyi Andrea
+• Ismert meg a szörnyeidet – 37 lej"
+• Lesz nemulass Findusz – 65 lej
+• Elmúlás – 38 lej
+• Megérkezett – 38 lej
+"NÉV: Dávid Csilla
+• Karácsonyi kuckó – 70 lej"
+"NÉV: Engel Ilka
+• Egy bizonyos Piekielny úr – 39 lej"
+• Náluk keresd Jólánt – 39 lej
+• Mire való ez a gomb – 82 lej
+• A székely határőr gyalogezred története – 66 lej
+"NÉV: Erdélyi Tünde
+• Állatotthon – 25 lej"
+• Bűbájos balerina – 21 lej
+• Bori és a rejtélyes eset – 21 lej
+• Adventi mesekalendárium 2025 – 98 lej
+• Geronimo Stilton A csokoládé dombság – 36 lej
+• Karácsonyi kitérő – 28 lej
+"NÉV: Gáspár Tímea
+• Élet az erdőben – 19 lej"
+"NÉV: Gombos Réka
+• A megzavart élet – 44 lej"
+• Lesz nemulass Findusz – 65 lej
+• Utaz és a holdvilág – 55 lej
+• Kedvenc esti meséi Disney – 76 lej
+• Anyák – 50 lej
+"NÉV: Hajdu Emese
+• Őrületbe kergetsz – 52 lej"
+• NLP – 20 lej
+• Egy gonosz elme – 60 lej
+"NÉV: Iszlai Brigitta
+• Bárány Boldizsár – 38 lej"
+• Vackor Diafilm – 26 lej
+• Kipp kopp Diafilm – 26 lej
+"NÉV: Jakab Annamária
+• Kuncogó Körforgó – 39 lej"
+"NÉV: Kálmán Bernadett
+• A tovatűnő csillagok erdeje – 43 lej"
+• A kék pöttyök rejtélyi – 36 lej
+"NÉV: Keresztesi Klaudia
+• Megérkezett – 38 lej"
+• Varázslatos adventi foglalkoztató – 28 lej
+• Hová bújtál kis méhecske? – 28 lej
+• Várunk karácsony – 117 lej
+"NÉV: Kis Szőcs Karolina
+• Az eltűnt idő nyomában ANTIKV. KÉSŐBB – 45 lej"
+"NÉV: Kisgyörgy Kinga
+• Lesz nemulass Findusz – 65 lej"
+• Az élet egy kölcsönkapott könyv – 62 lej
+"NÉV: Kolozsvári Zolika
+• Mindennapi tennivalók Tolkie – 78 lej"
+"NÉV: Kovács Beáta
+• 365 mese Jégvarázs – 98 lej"
+• Lesz nemulass Findusz – 65 lej
+"NÉV: Kutasi Krisztina
+• Megérkezett – 38 lej"
+• Peppa malac 1000 matrica – 39 lej
+"NÉV: Lázár Anna
+• Bartoló, a markoló – 38 lej"
+"NÉV: Lőrinczi Katalin
+• Az 5 szeretetnyelv Gyerekre hangolva – 44 lej"
+"NÉV: Magyari Edina
+• Égő virágok – 71 lej"
+"NÉV: Magyari Emese
+• Blokkolj, ha tudsz – 70 lej"
+"NÉV: Marton Dalma
+• Tea Stilton Tea angyalai Budapesten – 55 lej"
+• A ti hibátok – 101 lej
+"NÉV: Marton Szabó Hermina
+• Megérkezett – 38 lej"
+• A baba első szavai – 38 lej
+• Pinokkió kalandjai – 38 lej
+• Mókás állatmesék ANTIK. KÉSŐBB – 20 lej
+• 100 magyar népmese – 93 lej
+"NÉV: Mike Melinda
+• Csábító szörnyeteg – 60 lej"
+• Hozzád tartozom – 65 lej
+"NÉV: Nagy Boglárka
+• Heléna titkai – 55 lej"
+• Orchideaház – 60 lej
+• Long island – 47 lej
+"NÉV: Nagy Emese
+• Időmese – 125 lej"
+"NÉV: Pál Zsuzsika
+• A hetedik ajtó – 48 lej"
+"NÉV: Papp Tímea
+• Tedd magad hasznossá – 65 lej"
+"NÉV: Pécsi Éva Tímea
+• Gyakorlom az olvasást  – 17 lej"
+• Matricás füzet Mi Micsoda? Foci – 24 lej
+"NÉV: Silye Kiss Krisztina
+• Elmentem az öcsémhez – 65 lej"
+"NÉV: Simon Tündi
+• Megmentelek – 54 lej"
+• Pretty rings broken – 68 lej
+"NÉV: Suba Réka
+• Kísérletezzünk otthon – 35 lej"
+• A kisegér,aki karácsonykor csodát tett – 116 lej
+"NÉV: Suba Tímea
+• Elmúlás – 38 lej"
+• Hogyan legyünk pofi kenyérsütők – 85 lej
+• Egyszerűen fermentálj – 200 lej
+• Vaiana 2. – 65 lej
+• Kerek élet fája – 58 lej
+"NÉV: Szabó Judit Emőke
+• A thai masszázs – 31 lej"
+• Lesz nemulass Findusz – 65 lej
+• Mesék télre – 65 lej
+• Findusz elköltözik – 44 lej
+"NÉV: Szabó Noémi Dalma
+• Az öt kívánság – 44 lej"
+• Akár a folyó – 50 lej
+• Az ördög prádát visel – 60 lej
+• A nagymama üzeni bocs – 62 lej
+"NÉV: Szántó Adrien
+• Kőzetek ásványok drágakövek KÉSŐBB – 79 lej"
+• Vulkán – 93 lej
+• Bogyó és Babóca Érzelmek – 109 lej
+• Pitypang és a karácsonyi csillag – 47 lej
+• Pettson Karácsonya – 65 lej
+"NÉV: Szász Dalma Rózsa
+• Kosársuli – 45 lej"
+• Tud rólunk valaki a Deákiból – 60 lej
+• Finci dacos napja – 40 lej
+"NÉV: Szász Eszter
+• Elmúlás – 38 lej"
+• Lilla és a Tündérbogyó – 44 lej
+"NÉV: Szatmári Beáta
+• Az 5 szeretetnyelv Gyerekre hangolva – 44 lej"
+"NÉV: Szerényi Henrietta
+• Helikopter – 49 lej"
+• Keress Találj mesélj A tanyán – 33 lej
+• Élet az erdőben – 19 lej
+"NÉV: Szopos Bernadett
+• Elítéltek – 85 lej"
+"NÉV: Tamási Ildikó Zsuzsánn 
+• Ez a nyár más lesz – 60 lej"
+"NÉV: Thiesz Mária
+• Tud rólunk valaki a Deákiből – 60 lej"
+• Jó kislányok kézikönyve – 55 lej
+"NÉV: Tokos Dóra
+• Fehérség – 31 lej"
+• A luzsin védelme – 47 lej
+"NÉV: Tündér Tünde
+• Az élet tudománya – 72 lej"
+• Érzelmek meséi – 109 lej
+• A lélek virágai – 108 lej
+• Bing bújócska – 39 lej
+"NÉV: Varga Andrea Edina
+• Keress Találj Mesélj Járművek a gazdaságban – 44 lej"
+• Keress Találj Mesélj Állatos nagy böngésző – 55 lej
+• Első keress találj mesélj Járművek – 49 lej
+• Bartoló, a markoló – 38 lej
+• Az égigérő paszuly – 65 lej
+• Micimackó Pagonybéli mesék – 124 lej
+"NÉV: Vass Ilma
+• Legendás állatok Dumbledore titkai – 54 lej"
+• A nagy kor – 47 lej
+• Akár a folyó – 50 lej
+• Advent – 38 lej
+"NÉV: Zolnai Sarolta
+• Pitypang és a húsvéti nyúl – 33 lej"
+• Megérkezett – 38 lej
+• Pörgess és játssz Dinoszaurusz – 65 lej
+• Bogyó és Babóca karácsonya – 54 lej
+
+
+"NÉV: Barabási Eszter
+• A gyilkos nem ALice – 78 lej"
+"NÉV: Benedekfi Mónika
+• Wild animals KÉSŐBB – 36 lej"
+"NÉV: Biró noémi
+• Még nem egészen halott – 66 lej"
+• Még mindig hiszek – 22 lej
+• What did you do? – 28 lej
+• A berlini árva – 49 lej
+"NÉV: Biró Réka
+• Karácsonyi nagy Bori könyv – 78 lej"
+• Rumini – 79 lej
+• Bori és a téli vakáció – 39 lej
+"NÉV: Jánosi Brigitta
+• Fejlődéslélektan – 155 lej"
+"NÉV: Kocsis Katalin
+• A köddé vált bálozó – 70 lej"
+• Két bolond százat csinál – 48 lej
+• A hold karácsonya – 62 lej
+• Pitypang és a karácsony – 48 lej
+"NÉV: Nagy Tímea
+• Az érzelmek feletti ember – 101 lej"
+"NÉV: Németh Ersébet
+• Hajónapló – 38 lej"
+"NÉV: Posztuly Tünde
+• Barkamesék karácsony – 62 lej"
+• Karácsony az Örökerdőben – 70 lej
+"NÉV: Szopos Bernadett
+• Ünnep karácsonyfalván – 70 lej"
+• A szárd szikla – 110 lej
+• A mi kis forgatásunk – 156 lej
+• Bori a tanyán – 19 lej
+• Bori sütni tanul – 19 lej
+• Sötétedik – 63 lej
+• Valami az emeleten – 101 lej
+• Az arab felesége – 117 lej
+• A Hold karácsonya – 63 lej
+• Ments meg Save me – 82 lej
+• Boldog karácsony Bing 4 db – 40 lej
+• Karácsonyi dalok 4 db – 86 lej
+• A viskó – 101 lej
+• Hógömbbe zárt szavak – 62 lej
+• K pop witch academy – 55 lej
+• Karácsony a Roxfordban – 78 lej
+• Nagy rekordok – 39 lej
+• Visszatérés a viskóba KÉSŐBB – 101 lej
+• Boldog karácsonyt, Bing! – 39 lej
+• Ünnepváró családi mesekönyv – 65 lej
+• Bartoló, a markoló – 54 lej
+• Böngéssz állatokat – 87 lej
+• Gyümölcsök 2 db – 16 lej
+• Vadállatok 2 db – 16 lej
+• Háziállatok – 16 lej
+• Első zongorás könyvem Karácsonyi dalok – 86 lej
+"NÉV: Tőkés Tünde
+• A viszkis – 77 lej"
+
 <!-- ****************************** november 9. ***************************************** -->
 
-"NÉV: Csiszér Helga Armella
 • Bogyó és Babóca a mentőben – 45 lej"
 "NÉV: Dászkel Karácsonyi Andrea
 • Nyúl Péter Esti mesék – 117 lej"
 "NÉV: Demián Emőke Zsuzsanna
 • Énekesmadarak – 86 lej"
-"NÉV: Erdélyi Tünde
-• Adventi utazások – 109 lej"
-• Zootropolis – 66 lej
-• Egy karácsonyi manó naplója – 39 lej
-"NÉV: Fleischer Ildikó
-• Érzelmek meséi Bogyó és Babóca – 109 lej"
-• Nyúl Péter Esti mesék – 117 lej
-• Barkamesék karácsony – 62 lej
-• Téli böngésző – 55 lej
-• Élet az erdőben – 19 lej
-• Böngészd a világ csodáit – 66 lej
 "NÉV: Fodor Bartha Annamária
 • A kétbalkezes varázsló – 38 lej"
 • János vitéz – 34 lej
@@ -24,45 +250,25 @@
 "NÉV: Gál Csilla
 • Egy ropi naplója 5 – 63 lej"
 • Egy ropi naplüja 6 – 70 lej
-"NÉV: Gombos Réka
-• Mennyei csodák – 54 lej"
 "NÉV: György Beáta
 • A TE meséd 2 db – 78 lej"
-"NÉV: Iszlai Brigitta
-• Anya kérek még – 86 lej"
-"NÉV: Keresztesi Klaudia
-• Nyúl Péter Adventi kalendáriuma – 125 lej"
 "NÉV: Kovács Beáta
 • Jim káprázatos karácsonya KÉSŐBB – 62 lej"
-• Füzfándy úr karácsonyfája – 62 lej
 "NÉV: Kovács Boglárka
 • Az ajtó (hétfő) – 86 lej"
-"NÉV: Lőrinczi Katalin
-• Varázslatos útmutató a mammuthoz – 109 lej"
 "NÉV: Lukács Boglárka
 • Egy nárcisztikus szeretője voltam – 116 lej"
 • Valódi bűnügyek – 86 lej
 "NÉV: Magyari Boglárka
-• Utazás álomországba – 77 lej"
 • Kukucska KÉSŐBB – 28 lej
 • Nézd csak szivacskönyv KÉSŐBB – 27 lej
-• 30 német magyar esti mese – 47 lej
-"NÉV: Makkai Katalin
-• Hópehely – 62 lej"
-"NÉV: Marton Alíz Eszter
-• Horváth Ilona illusztrált szakácskönyve – 94 lej"
-• A kegyúr – 77 lej
 "NÉV: Marton Noémi Kamilla
 • Bölcsek köve Harry Potter – 67 lej"
 • Mágikus kincstár – 117 lej
 • A varázsló unikornis – 55 lej
 "NÉV: Mészáros Tünde
 • 100 magyar népmese KÉSŐBB – 94 lej"
-• 100 székely népmese KÉSŐBB – 94 lej
-• 100 állatmese (hétfő) – 94 lej
 • A legszebb hercegnős mesék KÉSŐBB – 86 lej
-"NÉV: Papp Tímea
-• Érzelmekről egyszerűen – 66 lej"
 "NÉV: Simon Tündi
 • Kicsúzás ANTIKV. KÉSŐBB – 75 lej"
 • A gonosz tanítványa – 60 lej
@@ -70,14 +276,9 @@
 • Nem olyan mint a filmeken – 71 lej
 • Mr téves szám – 65 lej
 "NÉV: Suba Tímea
-• Karácsony a világ körül (hétfő) – 63 lej"
-• 100 állomás 100 kaland Nagy utazók (hétfő) – 24 lej
-• 100 állomás 100 kaland Az élet csodája (hétfő) – 24 lej
 • 100 áll. 100 kal. Tudósok és lángelmék KÉSŐBB – 24 lej
 "NÉV: Székely Kata 
 • Behavazva KÉSŐBB – 75 lej"
-"NÉV: Székely Kata
-• Karácsonyi daloskönyv – 138 lej"
 "NÉV: Thiesz Mária
 • A szökevény herceg – 47 lej"
 • Veszélyben a vadlovak – 47 lej
@@ -93,51 +294,8 @@
 • Hópehely – 63 lej
 • Hercule Poirot karácsonya – 70 lej
 "NÉV: Varga Ágnes
-• Mókus és a hóember  – 42 lej"
 • Cicus főzni tanul KÉSŐBB – 42 lej
-"NÉV: Szopos Bernadett
-• 5 perces Mancs Őrjárat mesék 8 db – 50 lej"
-• A karácsony varázsa – 46 lej
-• Pipp és Polli Hol az alvókám? – 38 lej
-• Pipp és Polli A barátságos csiga – 38 lej
-• Pipp és Polli Születésnap – 38 lej
-• Pipp és Polli Hurrá, havazik! – 38 lej
-• A Hold karácsonya 12 db – 65 lej
-• Adventi kalendárium – 180 lej
-• Amigurumi – 94 lej
-• A varázsló – 109 lej
-• Karácsonyi dalok 2 db – 85 lej
-• A vonzás hatalma – 55 lej
-• Berci rendet rak – 19 lej
-• Bambi – 36 lej
-• Időmese 2 db – 125 lej
-• Bing karácsonyi sürgés forgás – 34 lej
-• Bing karácsonyi derű – 28 lej
-• Peppa legszebb karácsonya – 42 lej
-• Adventi utazások 3 db – 109 lej
-• A hét nővér – 93 lej
-• Viharnővér – 86 lej
-• Árnyéknővér – 93 lej
-• Gyöngynővér – 93 lej
-• Holdnővér – 86 lej
-• Napnővér – 93 lej
-• A hetedik nővér története – 109 lej
-• Atlas – 109 lej
-• Yakuza – 114 lej
-• Montessori baba – 109 lej
-• Mondókáskönyv – 78 lej
-• A baba első könyvtára – 70 lej
-• 60 montessori fejlesztő gyakorlat – 63 lej
-• Időfüzet – 47 lej
-• Várunk karácsony! – 117 lej
-• Játékos ollóhasználat Konyhai kalandok – 39 lej
-• Játékos ollóhasználat Állatbirodalom – 39 lej
-• Az első bibilám – 78 lej
-• A fogoly (hétfő) – 103 lej
-• Megőrülök érted (hétfő) – 92 lej
-• Never lie (hétfő) – 101 lej
-• The tenant (hétfő) – 109 lej
-• A tökéletes fiú (hétfő) – 103 lej
+
 
 <!-- ****************************** november 2. ***************************************** -->
 
@@ -170,11 +328,6 @@
 
 <!-- ****************************** október 26. ***************************************** -->
 
-"NÉV: Kádár Helga
-• Emma férjet keres KÉSŐBB – 70 lej"
-
-"NÉV: Adorjáni Réka
-• Mazsola és Tádé – 63 lej"
 "NÉV: Dósa Ibolya
 • Pinokkió kalandjai – 50 lej"
 "NÉV: Marton Norbert Endre
@@ -184,12 +337,6 @@
 "NÉV: Veress Tüni
 • Mi fán terem a kémia? KÉSŐBB ANTIKV. 2 DB – 0 lej"
 
-<!-- ****************************** október 19. ***************************************** -->
-"NÉV: Garda Emőke
-• Fourth wing KÉSŐBB – 55 lej"
-"NÉV: Kádár Krisztina
-• Murodku – 91 lej"
-• Bogyó és Babóca mondókás kifestő – 42 lej
 
 <!-- ****************************** október 12. ***************************************** -->
 
